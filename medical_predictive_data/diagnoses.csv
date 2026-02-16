@@ -1,0 +1,1001 @@
+diagnosis_id,encounter_id,icd_code,description,diagnosis_type,diagnosed_at
+0aa2a8d2-3064-4e1c-9ffa-5ea57ff4342e,72c18798-c848-4c45-88bd-36c46c185abb,A41.9,"Sepsis, Unspecified",Primary,2025-12-25 23:13:11.545903
+ec064cc8-755f-40dc-8c7f-5a6083e05819,e1159100-a155-4aef-808a-b20b89193870,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-07-30 07:10:43.344822
+49bbba0c-543e-41d9-81b3-2c2067de7826,dba44519-8875-40ed-b5fd-6cd7f1841680,K21.9,GERD,Secondary,2025-06-13 12:58:22.736895
+e4e4103e-b532-43e3-842c-c74d9b937c70,cf81b195-5f02-427d-9365-50fdd215aab9,K21.9,GERD,Primary,2025-04-25 06:04:26.465565
+e5a79b33-df21-4539-81b9-2d58633e0a59,314abed7-0004-46c7-a143-9f78a1d5b955,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-04-29 11:57:25.707402
+e16a5e7b-2672-48f4-936d-0609be242762,f97a9a27-f807-4288-b902-822959f18d9a,I50.9,"Heart Failure, Unspecified",Secondary,2025-03-24 03:09:01.413832
+d001992c-fc4c-4990-82c1-4b4c025aa72d,72c18798-c848-4c45-88bd-36c46c185abb,M54.5,Low Back Pain,Secondary,2025-12-25 23:13:11.545903
+f538d4b8-ef79-412f-afa0-2085a0ca326b,a7ebf7c4-22bd-41d0-9d8c-f0c0741247a3,I10,Essential Hypertension,Secondary,2025-09-16 13:58:19.784319
+b60cc81f-a909-4819-94e4-bbf0b5d7f3da,56b2b16f-ff10-4625-b6c9-f04b65f17b80,J18.9,"Pneumonia, Unspecified",Admitting,2026-01-15 21:52:05.315213
+c8a75d25-4657-45bb-8e0f-e1c2bb5b38a3,3633695d-8991-4ddb-b4e2-1b5532ff424c,I50.9,"Heart Failure, Unspecified",Primary,2026-02-07 14:31:37.722249
+fcba4fcd-c995-425e-83e9-61c8e93a9031,5ec0ec88-0bfd-40d3-81f2-b0c3cf55fbe9,J18.9,"Pneumonia, Unspecified",Admitting,2025-05-29 00:13:14.469662
+c7387be0-cde0-4ada-ae5c-7c3adfe924e9,20c73af4-944e-42bc-873e-cefcef9b5c3b,K21.9,GERD,Secondary,2025-07-05 21:14:02.335855
+08ea3f96-cd0b-417d-bf71-ed3b1daadfc3,29de2db0-1bde-416a-a93e-7478eec9aefa,F32.9,Major Depressive Disorder,Secondary,2026-01-09 01:03:53.638703
+ab7cd213-b9ad-47cb-96d1-71ece647623d,100de1bd-8e41-4a19-a4cf-930c3f366c46,I10,Essential Hypertension,Admitting,2026-01-09 17:29:15.441991
+83043dcc-ecb5-4c1f-bb52-ff0508f97d9e,a3d481cc-0fd7-4fe8-9b39-c01021f89225,J18.9,"Pneumonia, Unspecified",Primary,2025-09-11 19:28:24.946855
+0d91dbbd-7edc-472d-8025-4b221c9f266a,bb5fa193-ca5c-4a94-bd54-d70bf7264ca0,M54.5,Low Back Pain,Primary,2025-08-23 17:30:23.825432
+e78c0e44-7433-4147-954e-e04129937fc6,22a21d44-0492-449d-a2fa-12516c932f29,K21.9,GERD,Secondary,2025-10-05 00:02:17.387279
+feaa238c-aea6-4d8b-94b6-0f1f15c013ba,4059d033-fc24-44f4-ba11-c7715bb2155c,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-11-29 02:10:44.957050
+df51c959-3c0f-4a7e-8d1f-c04071c50e5a,763db6a3-1d65-4282-8797-29c4ff9bc5c0,M54.5,Low Back Pain,Admitting,2025-11-26 15:47:12.708567
+1b8dc099-4c38-4749-9025-80392aa901c8,d029ff48-01be-4ded-8c64-49ae35fe07ca,A41.9,"Sepsis, Unspecified",Primary,2025-04-18 18:40:15.829389
+358fd4ff-5393-4ac2-8dc2-ba20fb7484fb,7e34513e-0278-4191-8645-5857a7ba666d,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-05-10 11:25:51.264498
+12048b44-b78e-4add-a1e8-6adcec029dc0,d1d62963-fa9c-4302-8e0c-ca694c733b94,J44.9,"COPD, Unspecified",Secondary,2026-01-18 01:07:08.406698
+d54924df-9d8f-44ef-9c9d-d51d2e3ce5fd,c1fa2bcd-66b6-4017-aea0-68be7881e165,A41.9,"Sepsis, Unspecified",Primary,2025-03-16 06:16:22.522546
+f300fb95-bb5a-40ac-8a96-3deb9bbc1553,d3d857ea-2c02-48bc-a4bb-0d532c54871b,A41.9,"Sepsis, Unspecified",Admitting,2025-08-04 12:52:30.676430
+603c69b5-cf05-4230-b988-e1fb00abc5c6,90257b0e-3d2f-44d2-a7ef-73b9fc757190,E11.9,Type 2 Diabetes w/o complications,Primary,2025-03-22 10:27:47.408743
+d21a61c1-590e-4331-bd32-45cc97b694df,5efffbfe-99cf-4ad3-a246-865a17e92a10,K21.9,GERD,Secondary,2025-04-10 13:59:14.304147
+79e45e87-8c03-4e7a-8299-c68c4d1dc616,240be07b-c319-4d1d-bf4e-07427e1b364c,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-07-25 06:26:40.022196
+9fabc4a6-be99-46cb-8c3f-80b5a6711a1f,d48e5041-0927-4e4c-8c77-21781dba5141,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-12-18 09:49:19.568517
+f39a3221-d53f-43b8-80f4-e19a8e123038,48a8d936-4864-4b51-b967-97a1ffee7448,E11.9,Type 2 Diabetes w/o complications,Primary,2025-03-18 17:43:01.285883
+8b9b171a-8518-4c94-bfc9-f58cd5c83a7a,ce296f42-4e01-415b-bc7f-69ee958e8a2b,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-10-26 11:10:13.133242
+9ae58bd0-e104-44b5-a0b8-167229e10780,5a51cc05-3c29-46ef-81b5-7847136c4005,K21.9,GERD,Admitting,2025-11-30 05:06:15.185041
+357e9b09-73f5-49ac-bfb6-cb04731c4319,a5455361-b764-4564-b747-b33f1ddcc7d2,I10,Essential Hypertension,Secondary,2025-02-22 09:09:03.346513
+54aa7676-00a8-449a-9efd-db0b95241c25,834dd38e-3c9a-4c88-9f42-65762b1a2d07,J44.9,"COPD, Unspecified",Admitting,2025-03-11 01:44:57.370229
+813b71c1-d911-4fc2-ae25-ba8fc6e98a16,accc9c95-36d4-4a07-a189-967388ec41f2,I50.9,"Heart Failure, Unspecified",Admitting,2025-03-14 02:59:52.719425
+30a4a10e-c96a-48e6-91cf-498389065666,8268fd90-ba82-428f-8b7e-c1976f9e9ba5,I50.9,"Heart Failure, Unspecified",Primary,2025-12-04 23:08:42.585641
+6925a174-14ce-4344-8555-53d665cdcd85,64f3c2c9-e9e4-4acb-be67-7b5fe3b1af33,A41.9,"Sepsis, Unspecified",Primary,2025-08-29 06:16:37.018128
+323e9e23-89e3-484b-aaa9-b121806fddd3,00bf4f4b-807e-4a82-afdf-aa2d824240d7,I50.9,"Heart Failure, Unspecified",Admitting,2025-07-10 09:17:38.454026
+c46f6ec5-c965-4e23-a9da-6434ae62b618,7511a76a-c38d-4545-91d0-6ffb923a736f,M54.5,Low Back Pain,Primary,2025-02-22 19:25:54.837699
+f30b494d-7edc-450e-aebb-3ed33ff96d11,3a3ea581-29ca-45b7-a8e1-bc09c1f23b9f,M54.5,Low Back Pain,Admitting,2025-03-12 05:26:12.246332
+d3d28604-942d-4baf-92e4-f2fbf417fbc9,3938c4b4-a949-4bc5-ac5c-1bfe04d3dd27,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-03-16 06:47:59.412735
+665d6e4d-b36e-48f4-92c2-4641681f5ea5,c81fbdf6-e2d4-43ee-ab1e-b7074ef22ac0,I10,Essential Hypertension,Primary,2026-01-26 01:02:17.149562
+361b8a40-a2c4-4d29-88b6-a49726e4b72b,3633695d-8991-4ddb-b4e2-1b5532ff424c,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2026-02-07 14:31:37.722249
+3e6da51d-b1f9-4254-9891-0ddaf35af9ad,a97ea2b0-b931-43ab-9ed2-80d56faf7dda,F32.9,Major Depressive Disorder,Primary,2025-03-02 05:15:52.397739
+ead2d4b3-e466-49d8-907c-512a322c6cc3,0d50816e-816f-4832-9242-2c138579db78,J44.9,"COPD, Unspecified",Admitting,2025-12-04 00:18:21.317764
+906b7933-fe81-4195-9877-ba215467c598,512da1a5-e017-4992-ba4b-46e55aa16f39,J18.9,"Pneumonia, Unspecified",Primary,2025-06-27 22:29:53.885520
+7616debb-c6ba-4eee-a0f6-17ee599c74e8,1bda96a6-a0e4-4acd-898e-b5c29b82d62a,J44.9,"COPD, Unspecified",Admitting,2026-02-04 23:46:29.178219
+a038d04d-54e8-4b43-af6a-ccb9391df9e8,9048543c-8a67-4bd8-8dd4-8e0eb3d851f8,A41.9,"Sepsis, Unspecified",Admitting,2025-10-30 16:12:12.458667
+84747053-ccce-46c8-a7f4-9a0d0f3df89b,f6fc3058-21ad-4ccd-a2a9-dda1e14e152a,J18.9,"Pneumonia, Unspecified",Primary,2025-02-15 19:17:38.729314
+44527bc7-570c-483a-8bdf-007f4036d7ee,703a59aa-b725-4df2-be57-9b4597a38b2e,I50.9,"Heart Failure, Unspecified",Secondary,2025-06-18 01:58:38.606838
+67ddee88-e764-4682-bce4-ffd8265d1c95,16313a67-aed4-4afe-8336-7da997d28dc0,F32.9,Major Depressive Disorder,Primary,2025-09-20 21:19:15.677968
+ab683dea-fc29-4fc2-950b-f797de995584,271c7080-a42e-4393-adb6-6e9bb1e2814f,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-12-29 01:07:32.447199
+998b2abb-fd72-4486-8606-cde8a682259f,4870e935-c9df-4414-8b4e-565d48c6d546,I50.9,"Heart Failure, Unspecified",Secondary,2025-12-16 02:26:14.642465
+304ff64c-83bf-4254-80db-0d15fd64e314,a9e834a4-9ea8-4117-b8b7-b1aee4abeeba,F32.9,Major Depressive Disorder,Secondary,2025-09-20 10:28:28.763610
+860952fe-daf6-4359-8263-91ecdb1ca537,161df42d-479e-4d5d-9560-6fa2d62ad3e7,I50.9,"Heart Failure, Unspecified",Secondary,2025-12-11 04:25:27.647363
+17cd07cc-2646-4d7d-b68d-8973d119a653,ba890273-1ebe-4a41-93ed-52b88b65326b,J44.9,"COPD, Unspecified",Admitting,2025-10-04 08:33:11.189390
+aad483a6-e12e-4a9a-9c8b-b167e2fb6a3b,b5705763-1545-4d3d-a91d-7b08d7cc5df2,I10,Essential Hypertension,Admitting,2025-09-18 13:49:28.052717
+c97b2620-c584-4a57-bdb0-fd5b438a2308,f551506a-3836-44e3-913a-d63eeb7019e7,F32.9,Major Depressive Disorder,Admitting,2025-04-28 14:27:59.984334
+77341b00-e536-4f7b-9939-c437baf5922d,f97a9a27-f807-4288-b902-822959f18d9a,I10,Essential Hypertension,Secondary,2025-03-24 03:09:01.413832
+fd06d448-b76a-4b1b-873c-afd3b9e1fb3d,5f9dac81-e2cb-4b18-8609-c0ca3a389add,I50.9,"Heart Failure, Unspecified",Secondary,2026-01-21 20:19:28.112550
+1a73ba14-6160-407a-9e23-da6932baecc7,22060dd0-9bcf-4a12-b06b-54210e8557b7,I50.9,"Heart Failure, Unspecified",Secondary,2025-12-27 12:01:24.343276
+164f2657-717a-45e4-b6da-dd8db2a6d172,9d971dc6-478e-467c-8b6f-6cebbb351272,J44.9,"COPD, Unspecified",Admitting,2025-04-06 17:17:07.426420
+224e3903-4992-45f4-b7e7-c1bfe332e334,0e6ad68c-aa67-41fe-993a-f46a9e3a3abd,J18.9,"Pneumonia, Unspecified",Secondary,2025-11-13 16:30:35.579411
+d60416d1-f791-4a0e-9339-4d2b8a32f87f,b6aeccfc-8aff-4169-9c39-df1d5a306614,F32.9,Major Depressive Disorder,Primary,2025-09-23 14:34:27.804853
+47846bff-cc76-4ff5-a1cf-4dec90290a4d,464c2f30-3aa8-4769-b359-36b6206c0bb7,A41.9,"Sepsis, Unspecified",Primary,2026-01-13 03:33:25.247947
+d9172c8c-a1c9-47ce-bb40-4b7c00c5ef4f,11c63e58-d889-4a88-9f7b-502a5af4fdf1,A41.9,"Sepsis, Unspecified",Admitting,2025-09-29 01:38:13.348981
+10e58b88-ea04-4e1d-9d4a-20849e4b76c8,af57a340-d201-4631-8781-8ec308981273,J18.9,"Pneumonia, Unspecified",Secondary,2025-05-11 09:18:36.103591
+4e184993-e233-44d2-9cc8-1d8e6f22ee24,fdb8a84e-46c9-42c2-bd13-d333116a57f2,E11.9,Type 2 Diabetes w/o complications,Primary,2025-04-05 08:33:27.576310
+d1aea85a-973f-470c-a0f5-65d399e798dc,b519249a-b788-4087-a216-8c3073997422,F32.9,Major Depressive Disorder,Secondary,2025-10-28 22:01:44.661523
+81012c5d-f458-41ff-8c42-1f5e680d9b4f,909d02ba-26d1-4262-b84b-8211919b8b8f,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-10-21 03:08:27.484475
+28d014be-7672-4d28-9de1-d6879660c7c4,07ca6de5-0f41-4534-900f-94dd1de98888,K21.9,GERD,Primary,2025-08-15 18:49:13.811773
+b007516d-d019-4662-8f89-c1ee2af8e73e,84b5c634-8d51-4f02-9315-90301a17c19b,J44.9,"COPD, Unspecified",Secondary,2025-03-22 01:24:41.742853
+f8d9010c-dccc-4e26-b862-6510fea6d302,2f529c44-c854-4dfa-a684-9d308b8b8755,I50.9,"Heart Failure, Unspecified",Secondary,2025-08-15 19:49:08.503667
+86fab91b-6cde-4be4-9e53-d981f213edbc,4cdf7642-71cd-46ae-b86c-b6b40614a0f7,I50.9,"Heart Failure, Unspecified",Secondary,2025-09-07 18:44:35.150585
+3011edb6-742f-474d-a882-a200f2f55130,b0760e72-4aaf-4eb2-b75e-e262f40ac7e6,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-10-01 17:41:46.799902
+d2b4e30a-e393-4593-b7f6-a4a42a408363,4a99de1d-00b5-413f-a71c-f97e7238627d,M54.5,Low Back Pain,Admitting,2025-06-17 14:25:44.604610
+f1d20424-ed6d-4720-8a49-7301c9a808cf,4f135762-76b9-42cb-b092-a90fea263f0f,K21.9,GERD,Admitting,2025-05-14 20:25:46.462860
+8ce1b0d5-091c-4ac0-908b-1b8dc96b5ff6,6f7e0a12-caef-433b-abeb-d5546f773e95,J44.9,"COPD, Unspecified",Secondary,2025-02-19 11:14:28.553266
+47b78324-fe47-43f7-86a4-a07671e449f6,83ff5caa-5f7f-48a1-a333-8e957e17a8d2,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-12-31 07:16:00.687464
+c5985a60-06b7-40fb-80cb-38fbab36fe30,3e5e952f-2c2b-4371-83cf-e5dde98455f2,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-03-17 21:36:14.814506
+33df4285-984c-4a62-a16f-b1bb87e8eda6,38e671fe-f8ee-4f00-bd1d-e545d360e1ae,A41.9,"Sepsis, Unspecified",Admitting,2025-02-15 16:51:31.960624
+a13ab9de-17d9-49c2-bdf7-bcf3e0c63fa2,786d69ed-f2cf-45bc-b390-a78792fe3532,J18.9,"Pneumonia, Unspecified",Admitting,2025-02-28 20:11:33.624677
+edfc175e-c3f0-4f33-833b-d8904900df53,e41ec3fe-ea09-4549-8ec6-948319707b93,I50.9,"Heart Failure, Unspecified",Secondary,2025-11-05 19:35:57.106415
+d07b7dff-959b-4142-8a04-00548cef9b61,47d31721-e189-4a2d-b60f-0ecf981a02de,M54.5,Low Back Pain,Primary,2025-05-08 09:26:13.948724
+5c9ded7a-05c7-47e2-886f-696900dc904b,f50cc075-f063-46b0-ba6d-172f4b390d4d,J44.9,"COPD, Unspecified",Secondary,2025-11-21 17:59:24.355301
+c508440b-d9a7-49eb-a760-8dc36ecf4d68,4ba6cb95-76f4-4fb5-8e22-b1b26f88e081,M54.5,Low Back Pain,Secondary,2025-04-10 11:44:22.884555
+d3488e8f-86a3-4a65-b343-cdda28a5ace1,3c7af23d-e6f8-4f55-a97f-55b90ed40678,F32.9,Major Depressive Disorder,Secondary,2026-02-02 18:48:04.003063
+36c056b8-26ba-43ba-83e4-a2a96a58dfad,1f81c32c-dee6-4c8d-a314-129711b0b881,I10,Essential Hypertension,Secondary,2025-06-18 20:46:15.704982
+17affbf2-089b-46b2-8f49-034ff6a01695,c71d7515-f3bf-4743-b4f3-5c5363b050ed,F32.9,Major Depressive Disorder,Primary,2025-04-29 11:28:52.732575
+fd0d303f-0bcb-48f5-a7ac-9eb1962a350f,b1c5d13c-4949-4cee-a665-f1b0550d0ee8,A41.9,"Sepsis, Unspecified",Admitting,2025-11-26 03:55:57.431704
+71048f4b-8bb8-423a-b399-9fbf582db886,0c14b817-d01f-4a19-904d-d9756c0b13b2,A41.9,"Sepsis, Unspecified",Secondary,2025-11-08 16:13:54.881361
+cb11b3a4-0f7d-4aa7-91f9-d8122a2c9c1e,05b5f935-6b9c-4e3b-b12c-d770fe261c95,K21.9,GERD,Primary,2025-07-23 13:25:26.018207
+26e37c9d-c384-4c4f-81cd-e7e38a1eaca1,b5b6f9ea-2df2-496f-8046-4a068f88e9dd,M54.5,Low Back Pain,Admitting,2025-04-12 22:27:25.747215
+ff14cf7b-a753-4e99-8ba7-f85b7eb1b100,f0bc5820-9f5c-4006-8132-86bf052a5d61,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2026-02-08 23:42:56.184986
+1b2b18fa-af1e-4d82-9027-2c9cfe93e863,909d02ba-26d1-4262-b84b-8211919b8b8f,I50.9,"Heart Failure, Unspecified",Admitting,2025-10-21 03:08:27.484475
+5162533e-5817-40a5-b609-f499438c656e,4d3461fd-a7f9-47d4-a9fc-c66d1701adee,F32.9,Major Depressive Disorder,Secondary,2025-04-21 12:13:41.737721
+68f2b00e-f963-4d50-9b8f-133ef07298c7,7a058f0d-a0f6-4386-b700-1d6a4d170e54,F32.9,Major Depressive Disorder,Secondary,2025-02-15 12:33:57.043529
+0832de47-3d50-4d0f-84bf-feaca9d40522,fac58c1a-dffb-444a-8640-9f517fb20b20,J18.9,"Pneumonia, Unspecified",Admitting,2025-11-21 04:31:13.984965
+bb8e4a73-282e-4e13-bb7c-714f733beb9d,b275043e-5a42-48ca-906f-dac96d578c1d,I10,Essential Hypertension,Admitting,2026-02-11 17:48:49.596342
+503eecc9-65ab-42ee-8ffe-4971c38bef70,019146d5-57d8-49f7-a141-08bc7fee2dbc,A41.9,"Sepsis, Unspecified",Primary,2025-12-14 17:49:15.579604
+0012ebbc-1ee8-4f8b-b771-cf82020df87a,0fefc4ba-93fc-4a17-86d5-f5d45bfb6cee,I50.9,"Heart Failure, Unspecified",Secondary,2025-04-29 12:15:06.132956
+9e6a4f47-32a9-4ada-9fff-686f717b93b9,a09ea056-0d19-4854-bf37-e9fbaf857bef,M54.5,Low Back Pain,Admitting,2025-08-24 19:50:53.984310
+ab590c86-2c65-4c3d-9c50-a4ff223e5d11,64f3c2c9-e9e4-4acb-be67-7b5fe3b1af33,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-08-29 06:16:37.018128
+a03a9c7b-539c-4221-90e1-4dbde6278b5c,9fb34731-9d86-4b9b-a54b-b0c9cc404a39,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-10-01 02:57:41.606591
+c48bd773-2a42-4167-86b0-628368017207,27183e32-a836-479d-956c-b0944dc687fc,M54.5,Low Back Pain,Primary,2025-03-28 07:45:47.818427
+c2f07ff2-f04b-453d-aff5-059929ac4b9c,40c053e8-1b42-4fd3-af9e-42602cc4fafe,A41.9,"Sepsis, Unspecified",Primary,2025-07-08 14:38:58.986954
+728c4218-8bbe-44b9-93fe-434b081ef719,4d0f6972-60e1-455e-a253-8f9e5bee1b60,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-04-16 03:02:37.720603
+b489b72d-1aad-43ed-af8a-855f7d649776,3dcfdbb4-3247-43ca-981d-a178f9672cae,M54.5,Low Back Pain,Admitting,2026-01-23 16:36:45.590937
+6de6a0de-6a79-481d-9132-383344cefc7e,7cff8021-769c-4a32-9c36-5f811644d152,F32.9,Major Depressive Disorder,Primary,2025-09-26 11:25:03.278934
+7e8138a0-743c-4456-b874-6819e91c29c5,75fa617a-6ae7-4f16-97e9-db4c8cede9d9,J44.9,"COPD, Unspecified",Secondary,2026-01-01 15:08:30.214071
+b378386e-0fc8-4e52-9633-c6fab4061bb9,399b4c5b-ffb3-46e2-a528-a8b9b138d2bb,I10,Essential Hypertension,Primary,2025-10-04 23:19:17.395257
+e73d7c30-b85d-461a-bd6d-5246616b992c,7d5907fe-2141-4e98-be90-5026f384756e,J18.9,"Pneumonia, Unspecified",Secondary,2025-09-30 00:35:07.011315
+49721cca-31cf-45b6-9eef-7da667d26c2d,a7bbab34-dba6-4e36-a642-0b5f3b1b9d99,M54.5,Low Back Pain,Secondary,2025-03-27 17:29:15.786148
+1f813588-5fa6-4217-ad2b-1e66ae6f33df,56f36d12-d28f-4ea4-83b1-a1545078e154,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-11-11 17:07:07.391305
+b67c5a3a-6b5e-46ca-b802-6fbfd3ee4789,80cc5e75-a11f-47d6-ba3f-a0c22d8e1712,I10,Essential Hypertension,Secondary,2025-11-01 09:07:32.877906
+aec9b53d-be95-4104-b4f1-1bbe169064b5,de13d7a0-3c0d-433a-9c16-325eaf809853,F32.9,Major Depressive Disorder,Admitting,2025-05-29 07:23:58.228429
+f70873ca-e899-4696-9985-92af5de0b613,a750cb57-0746-48fd-95e4-a420188e3b5b,J18.9,"Pneumonia, Unspecified",Primary,2025-12-04 11:36:39.875611
+2ca16296-c6d0-4df0-b8f5-6deec4a7ed87,57e8b1ab-60f5-41c9-b41d-df995523f97f,K21.9,GERD,Secondary,2025-09-01 08:58:39.582159
+8871fe51-3bf8-4602-b0c8-6ab1db170dbc,eb8efa8d-9d4a-4a07-830e-27827d2cb299,K21.9,GERD,Admitting,2025-05-03 11:10:21.300964
+378e0007-290d-485c-94bb-1c71a9969a7b,553d038c-8433-4c8f-a51d-cfecac52ec90,J18.9,"Pneumonia, Unspecified",Secondary,2026-01-24 01:28:34.338223
+f21e7595-266a-427f-8d34-35ca001c8a4a,c79209e7-ee91-426b-85bb-087cdda00e00,J18.9,"Pneumonia, Unspecified",Primary,2025-03-13 00:53:23.561927
+59b216d6-e8d8-40b2-abbc-2ce05be3b086,ca3e43dc-6cdf-469e-9334-ae920403c700,J44.9,"COPD, Unspecified",Secondary,2026-02-03 02:20:08.819147
+d6ead345-fa0c-4f70-8ee1-4fed51f4ff8c,443342c1-4c63-42b5-93c4-83c70b274354,F32.9,Major Depressive Disorder,Primary,2025-10-04 15:29:26.048109
+9b3bdeb2-70ed-4130-8cc9-ec133e9f1207,1d9a25a1-dc3e-4963-a244-b4931168d2e6,F32.9,Major Depressive Disorder,Secondary,2025-04-14 07:40:46.345757
+266b557a-5626-4d25-ae82-a8cc26a7d5f0,805916ab-d284-4f42-96db-07e94de8b92b,I50.9,"Heart Failure, Unspecified",Primary,2025-06-21 13:18:27.622996
+f2789ac5-4d47-473d-a6cb-03abbf3d3b22,4f135762-76b9-42cb-b092-a90fea263f0f,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-05-14 20:25:46.462860
+a03657b9-d27d-40c4-8efd-48b4fa54f211,2215eeff-1322-4db8-ba94-f58a076f6a67,I10,Essential Hypertension,Secondary,2025-10-07 06:25:04.789527
+36fc7d78-93f6-46c8-be2b-f5f2acbdc62d,9e56d3b7-4fd7-4500-b7a6-eafe559fdae9,I50.9,"Heart Failure, Unspecified",Primary,2025-03-23 12:47:42.757203
+26e1d947-ca0c-4f97-809b-251be697d29b,c2dfbba6-0f37-49f9-9333-a5dbfdee2322,M54.5,Low Back Pain,Admitting,2025-08-25 15:17:46.754019
+25382be4-5bca-4abd-9a82-db0c8f4d1335,a98ae3a6-d483-4311-b59c-f5d744452b16,I50.9,"Heart Failure, Unspecified",Primary,2025-05-05 19:22:54.329831
+8683c438-fd08-4dee-8421-0be2fb75a936,ed1eb982-b3ea-41ab-8d77-06e428c2192a,J44.9,"COPD, Unspecified",Primary,2025-04-22 10:19:29.006668
+8d2c0acd-9fee-4945-a7b1-98dafe7fb482,62e3611f-89ba-422b-83d9-0027f413df37,J44.9,"COPD, Unspecified",Primary,2025-10-20 00:03:13.824781
+bb49eb00-24f6-4e9c-ba2a-699d9c017f05,a97ea2b0-b931-43ab-9ed2-80d56faf7dda,A41.9,"Sepsis, Unspecified",Primary,2025-03-02 05:15:52.397739
+7dca2d17-5e26-45ba-9e8f-6292c08cf17b,8ef09541-fb3d-4d9a-8566-24ebdc54e952,A41.9,"Sepsis, Unspecified",Admitting,2026-01-26 11:26:50.945986
+377e7675-6fa5-42b9-b52b-32038e77b97e,783fa25d-4d14-45f3-9718-954212ed459c,A41.9,"Sepsis, Unspecified",Secondary,2026-01-19 08:20:46.739045
+faacd002-94a4-466e-80c9-603fac3be8a0,7b9a6a94-e9ad-43ba-b931-419def0b5b5f,M54.5,Low Back Pain,Secondary,2025-08-25 15:43:51.850366
+1baf971a-1b88-4974-b002-8fffd7c282c3,149ea04b-446d-43c9-b584-585ba59e371a,M54.5,Low Back Pain,Admitting,2025-08-10 22:52:13.572031
+dced5efe-2152-4421-891e-9cecfdb9cec8,a6bbeb0e-af22-42f6-976d-0046d9e861de,M54.5,Low Back Pain,Primary,2025-12-27 10:47:54.613862
+fc7e617e-135a-4a21-80c5-ac96b3458f18,1277f8fb-58a4-4d06-98d5-b97797e991a9,A41.9,"Sepsis, Unspecified",Primary,2025-11-27 14:00:21.686465
+7b6240e1-85cd-44e4-8fd4-49c31f2ed9f3,805916ab-d284-4f42-96db-07e94de8b92b,A41.9,"Sepsis, Unspecified",Secondary,2025-06-21 13:18:27.622996
+9c9e449b-e70c-4f1a-ac81-3f3709de6132,6c9c7c79-a800-49cb-8ced-886aa2954848,I10,Essential Hypertension,Primary,2025-07-01 19:06:41.637487
+8b6365e1-3ffb-49c2-9968-2ad3a950ebfa,83c3bf6b-e7f0-4197-8424-d88731a2e356,F32.9,Major Depressive Disorder,Primary,2025-05-31 15:29:08.708038
+e9e29777-ab75-407b-956c-5858e7f4878b,de13d7a0-3c0d-433a-9c16-325eaf809853,I10,Essential Hypertension,Primary,2025-05-29 07:23:58.228429
+dbffc935-1e10-419c-a83d-4d12a9027548,c32aebf0-3fe9-4788-ab97-ecf5552bec19,K21.9,GERD,Secondary,2025-02-22 22:30:35.618328
+2b20d166-6046-4a55-a9dc-af516b08e57c,c81fbdf6-e2d4-43ee-ab1e-b7074ef22ac0,K21.9,GERD,Secondary,2026-01-26 01:02:17.149562
+a953092f-4140-46ab-9769-b79a080a3ce9,39f153a1-0629-4845-a272-6825e2e2ac74,K21.9,GERD,Primary,2025-10-16 11:31:42.659289
+6fd7dc36-8430-4f35-b1f1-1bac770a0948,334eb0b7-36f9-407d-bb42-9cebfc5533f2,A41.9,"Sepsis, Unspecified",Admitting,2025-06-10 14:05:27.991212
+409403e6-f7c1-40f6-a457-36224ccc1418,14e0ba9b-58d4-4b7c-9dba-32b23d06d66b,J18.9,"Pneumonia, Unspecified",Primary,2025-05-07 13:50:49.643750
+b1d6cd39-c27d-40b1-93f2-2b5799de6cc9,7d30b048-8e20-4380-b9fb-c872242be6cc,M54.5,Low Back Pain,Admitting,2025-07-12 04:34:18.359540
+f0ae7bda-1acc-4d19-b178-5f2177db8c1a,2c460c1d-d4df-4307-ba4a-9a5cd876a8d4,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-08-27 13:10:23.630439
+c2c67a9e-58da-41a3-9e2d-09a87f7a8460,04aab7bd-91e9-4bb0-84d9-ea47e349853a,F32.9,Major Depressive Disorder,Admitting,2025-12-18 20:49:44.225022
+4be6ce96-e133-4d91-a871-ca7e6529d333,05b5f935-6b9c-4e3b-b12c-d770fe261c95,J18.9,"Pneumonia, Unspecified",Admitting,2025-07-23 13:25:26.018207
+0b9b0711-5da5-41c5-a34d-8d9a2e2684c5,6363c346-3462-47a7-b658-8c2bbdd1c3eb,I50.9,"Heart Failure, Unspecified",Admitting,2025-10-15 19:51:41.171944
+0061c5f8-d5c9-49a6-9ac1-e5550e1139cd,4a99de1d-00b5-413f-a71c-f97e7238627d,F32.9,Major Depressive Disorder,Admitting,2025-06-17 14:25:44.604610
+db3258af-bd79-4a78-a0f8-7beaaca92cb7,06c0050d-43e0-4fb9-a5db-499a866eaaf1,J18.9,"Pneumonia, Unspecified",Primary,2026-01-19 05:02:15.604984
+11f03e95-005f-4cd9-a06c-c0847f80d31c,23344872-ac84-41c9-9d8d-29bf23672127,I50.9,"Heart Failure, Unspecified",Primary,2025-09-13 06:27:48.078179
+0239e5cc-9358-408d-a952-4c18e3c53ee4,9b2ac874-c155-4bcb-82d2-227845bb547c,J18.9,"Pneumonia, Unspecified",Secondary,2025-08-28 22:03:22.235749
+73c41766-5d5e-4e7e-88c3-07bcc82235e6,1ebbc48b-fd9e-4e3a-8a54-10328111421f,K21.9,GERD,Primary,2025-04-14 03:58:48.289167
+fc897961-8f52-47c3-9eba-32da6a22db4a,e246aeb2-9a19-446a-9804-2d2f481020d9,I50.9,"Heart Failure, Unspecified",Admitting,2025-08-26 05:54:47.643628
+5b483080-b49f-4120-b52b-256c42cd0b6f,f4612a95-cbc1-441f-9ca0-7f4bf747c135,J18.9,"Pneumonia, Unspecified",Secondary,2025-08-22 15:27:04.449704
+a4b20f4e-a3ff-47ab-8a1e-e5da7dea7365,e32cfae0-10d3-481f-b6eb-3553169254c8,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-09-13 11:26:00.431576
+2e319a71-6363-4ff2-9c2f-8d1fa435ea9e,2ca302da-1700-4bd4-809d-f1cbaa7c6288,I50.9,"Heart Failure, Unspecified",Admitting,2026-01-14 05:32:43.973357
+7b3fffa1-f684-466d-8938-f7472d4d92c1,ec003005-dc00-4613-a734-0838ec1919e6,I50.9,"Heart Failure, Unspecified",Secondary,2025-03-25 01:42:38.993957
+41e73144-9ebf-4b72-9185-7c642c07f271,01a5137b-a757-4dd0-ab15-9ea250345043,K21.9,GERD,Primary,2025-10-12 12:41:58.465582
+7feb0d65-83b1-447d-9be9-94bd588abd7d,48bcc3f3-ecad-49f9-849c-a8c07a35599d,A41.9,"Sepsis, Unspecified",Admitting,2025-09-14 23:59:20.425162
+e60873ec-f72f-462f-97b7-a2ba53f72e10,e2a73700-3c86-4842-beb3-9a1c92ea8f30,K21.9,GERD,Primary,2025-04-20 19:34:25.614500
+3516244f-a0ef-49a8-860e-2417f546f677,9f4d64a4-637e-43ae-abf3-aa6f67348b15,E11.9,Type 2 Diabetes w/o complications,Primary,2025-06-01 08:45:15.225010
+ed024e7d-e648-44b0-a9d5-ebf4ecfd785d,47d31721-e189-4a2d-b60f-0ecf981a02de,F32.9,Major Depressive Disorder,Admitting,2025-05-08 09:26:13.948724
+d41ede61-5d48-4b79-8781-1f25006b013d,9a572e02-c54f-4789-abe3-3d0453549c90,I50.9,"Heart Failure, Unspecified",Secondary,2025-09-06 10:27:57.656873
+de960bb1-465a-4885-947a-cc6b2ceb489f,9db32ae8-190d-44b2-8dff-6735cc825e22,J18.9,"Pneumonia, Unspecified",Primary,2025-04-15 19:39:41.994368
+43494dcc-96af-450b-bed2-1599f01b7fd1,3caf24d2-2597-4a65-9ceb-c2d5859dc08b,J18.9,"Pneumonia, Unspecified",Primary,2025-11-11 12:15:40.757851
+329ff69f-3210-46e1-9c12-7e89746cab63,d3a4beb7-27bf-4fba-9db7-8c2d5cc755d6,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-08-30 08:08:21.085311
+aa7bfdff-b415-4a96-ba82-115951adf2b7,3e6b8a79-47f2-41ae-9ed2-fd24e693f08b,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-05-01 13:12:58.621079
+45f47f4c-63c8-488c-b071-458d1cc7f0d5,7a058f0d-a0f6-4386-b700-1d6a4d170e54,F32.9,Major Depressive Disorder,Secondary,2025-02-15 12:33:57.043529
+b3275755-8ba0-4b3f-ae56-8e2893788b5d,175e549d-f164-41ff-b39e-840ca894af14,E11.9,Type 2 Diabetes w/o complications,Primary,2025-07-19 03:23:49.109298
+30a3f11a-f78e-4e52-99a2-4c0af5f6a0b5,78cd3688-4abe-484d-b37d-81d832a58460,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-11-25 08:49:49.669075
+141ff120-1c25-4fc9-8054-2ab6c5bb2214,3ae03951-b2c1-45c0-b825-8944af451407,M54.5,Low Back Pain,Primary,2025-11-01 02:16:25.638880
+9825b5e9-aee2-4376-811d-80ef60d69c59,f68af531-9eeb-4725-8bad-8f9fcd6298a3,J44.9,"COPD, Unspecified",Admitting,2025-09-10 01:52:50.626669
+96342698-7164-45dd-9dab-77e1ec9172ab,df64d02e-5941-42c5-a782-0c354d6aa443,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-06-28 07:51:26.862327
+2845acf0-58bf-44b0-9a4c-12d0de8fac77,0773fdd3-f2dd-415e-819d-dba5d7afddef,A41.9,"Sepsis, Unspecified",Admitting,2025-03-22 03:57:38.977925
+43c4f457-7b1d-4487-b8cb-b9d44204b32d,040a68a1-e4c0-4731-bc10-e2352eb1b62f,I10,Essential Hypertension,Admitting,2025-12-09 10:53:59.344652
+58e8399e-5022-4ad6-b5f7-240ceda8164d,d029ff48-01be-4ded-8c64-49ae35fe07ca,I50.9,"Heart Failure, Unspecified",Primary,2025-04-18 18:40:15.829389
+6e0729c0-09a9-47f3-8939-b21fe087968c,999f4a60-1bd0-471e-81fd-1ad77117db0e,A41.9,"Sepsis, Unspecified",Primary,2026-02-13 11:29:03.533880
+1eaa366f-c136-4f42-a3ff-dccd20874b0e,6759b9c9-899f-4395-8f0d-5b8b7c9a1744,J18.9,"Pneumonia, Unspecified",Primary,2025-11-27 17:59:50.142761
+e63ceea0-6000-4a6b-a519-2fed5c5a947b,2f870535-63c2-4ddd-9f70-34e1de7a7482,M54.5,Low Back Pain,Primary,2025-04-19 08:05:10.961883
+ff28ab42-2e94-42d1-b0eb-0c56db01e7dd,56958479-543c-46ac-8cf3-5819a804ce1e,I10,Essential Hypertension,Admitting,2025-05-30 14:31:29.660798
+ab4ba8bb-d70e-4cec-a1e9-c033e3c6fcc0,763db6a3-1d65-4282-8797-29c4ff9bc5c0,I50.9,"Heart Failure, Unspecified",Secondary,2025-11-26 15:47:12.708567
+c7e80b0e-5c21-41ef-befc-44ee213be3c6,75d60a7b-e650-401e-8ac6-0f7e51e6a000,M54.5,Low Back Pain,Admitting,2025-05-21 01:36:21.886710
+d862ec4f-aa4f-44cb-940f-88e0109a223e,ce296f42-4e01-415b-bc7f-69ee958e8a2b,A41.9,"Sepsis, Unspecified",Primary,2025-10-26 11:10:13.133242
+fec37154-29b9-47c3-8c7b-afadd17d0c17,9ccd9dd9-a965-4320-8da4-47327d9df501,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-05-06 13:35:43.551585
+ed74a06e-1602-4844-b355-4f439629e133,0b99fc8e-05d0-4180-892e-c78393eac2aa,I50.9,"Heart Failure, Unspecified",Primary,2025-03-11 02:05:48.461686
+b372c7de-b521-4e7c-94d5-e50ee534055a,fdf087ca-e1ed-40db-bdc3-903d3f6f168c,M54.5,Low Back Pain,Admitting,2025-02-16 07:43:24.636765
+e373eb43-1f30-42a7-a321-aa2e1a6a9f6e,50a9d7ba-73b5-4597-a7ae-8ead05388795,K21.9,GERD,Primary,2025-07-16 01:52:05.078239
+526b709e-44fd-4cb1-a3ba-754c234804df,ab9e7371-442e-4a00-9943-c640bdabd8fe,F32.9,Major Depressive Disorder,Primary,2025-05-05 20:39:33.130575
+314ee76d-c41e-4e41-bd02-f181a1265412,5d997618-20be-45f5-b025-41631b777007,I50.9,"Heart Failure, Unspecified",Primary,2026-02-06 02:33:54.505551
+b45ad11e-6e8f-4e1f-9270-7be788942519,175e549d-f164-41ff-b39e-840ca894af14,K21.9,GERD,Primary,2025-07-19 03:23:49.109298
+99048bd0-8378-482c-889c-e665da55f241,ad8e3111-ea57-4cf9-b6d3-e7e5ea06a9fd,F32.9,Major Depressive Disorder,Admitting,2025-07-05 09:06:20.130672
+79a65f3d-f2b8-432d-ba19-674a6a76b05f,5efffbfe-99cf-4ad3-a246-865a17e92a10,A41.9,"Sepsis, Unspecified",Secondary,2025-04-10 13:59:14.304147
+00999f19-dffb-49f1-9140-5f946c12be56,200cfb31-13e6-4726-a13a-79575f415f9e,E11.9,Type 2 Diabetes w/o complications,Primary,2025-05-27 01:58:03.476707
+9dccdc15-9597-44ea-9705-e8e1c4c50aad,01e0122e-efb8-4ddf-878f-67d5d2ca3a7d,F32.9,Major Depressive Disorder,Admitting,2026-01-25 02:08:43.745285
+b00ab2c6-1674-4783-ae14-b996654bc9f6,9550f3fa-21bd-44c8-831b-0b065802889f,F32.9,Major Depressive Disorder,Primary,2026-02-11 09:59:33.179074
+ed42b51e-0bdd-4b8c-969d-37934db98ffc,f64ca0cc-3774-4f24-baa6-13cf56402393,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-02-28 00:16:35.363526
+0347a8b6-169f-4d1e-96ad-4bdb8ee295bb,0d6bc483-5dbf-442d-83bd-debb61d4be06,E11.9,Type 2 Diabetes w/o complications,Primary,2026-01-14 14:05:47.623010
+e34b7916-6001-4d1e-8b35-e469901ca101,34e0cc6d-fe08-40cc-aa46-5aa8557e26ca,E11.9,Type 2 Diabetes w/o complications,Primary,2025-10-28 04:43:33.081308
+ef7bb0a4-0173-40a4-9c3a-3d43faaf2640,813b167a-323c-4354-bd20-2f07f985fe70,A41.9,"Sepsis, Unspecified",Admitting,2025-11-17 20:20:44.215578
+409c2564-3af4-4480-9ed0-0b092b786f29,9ca295c7-77e2-4744-9e3a-8d6590a90512,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2026-01-03 01:17:57.375114
+8c8c7543-3341-4c20-abad-4c100617c558,f6ab3a7f-d811-491c-abf3-7df10544b9fc,A41.9,"Sepsis, Unspecified",Secondary,2025-10-31 17:12:47.996642
+2cc78d1c-8b28-47e2-ab7d-4d029609a8cc,5bb6393f-3fd3-43de-bcac-b0c39bd8d825,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-11-16 12:32:56.987813
+c2af73f6-6945-485f-aede-b6c8486cd8ef,8d7fea7f-f09f-44ea-aca7-13b2835598f0,J18.9,"Pneumonia, Unspecified",Secondary,2025-11-02 18:59:42.795994
+39f27389-020c-484e-9464-e7c5def00c12,315fbd7a-a80b-4e91-8996-b17f6d4149c0,E11.9,Type 2 Diabetes w/o complications,Primary,2026-01-02 20:58:28.985146
+c8b09227-e4fd-4459-9288-6255db7aa287,049078e1-32c8-426a-85e1-c92ea7a0a211,J44.9,"COPD, Unspecified",Secondary,2025-04-09 08:48:13.334658
+7ba9ef31-c8c9-4fbf-916a-f7a13d5554f5,3b726d2a-7c1c-4534-8de7-26304b2ae0dc,M54.5,Low Back Pain,Admitting,2025-04-16 06:46:13.054784
+122a0ddc-eac2-4541-9658-de6873e76f3f,1d4328a4-6d43-402b-bc76-95a50b7b6403,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-09-23 09:36:05.360721
+e26c6085-475e-4573-8227-15b87e3ad9ef,114516c6-29ed-4562-ab51-fffdd90dc8e8,M54.5,Low Back Pain,Secondary,2025-07-15 01:55:34.949646
+c8fbbc87-7237-4130-ad48-ff5a1a6669ed,348d7f00-2df8-494d-b0d3-5bb26dd5f01f,F32.9,Major Depressive Disorder,Admitting,2025-04-12 04:27:56.896302
+9135b7d0-9dc3-454c-a770-861740a3e573,79f1275b-c933-43aa-9c78-90ef9a83704d,J44.9,"COPD, Unspecified",Primary,2025-07-09 21:05:07.807532
+4b230a74-f711-4afa-8d7a-873695b219a2,a9e834a4-9ea8-4117-b8b7-b1aee4abeeba,K21.9,GERD,Primary,2025-09-20 10:28:28.763610
+dde1369a-9af0-462c-9934-827a99febfc5,edc2ceb8-55ee-411a-8a1e-172271436fee,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-12-03 10:18:12.854823
+c392a7b6-339c-4fca-b90f-9b2e47d1e0f9,f776afb1-f127-4054-ba7c-0fb543744e2f,F32.9,Major Depressive Disorder,Secondary,2025-06-04 10:20:23.613893
+ab366833-2694-44ba-a756-5bdbc39392e9,1ad5768a-91f9-428f-82f5-bcd1ad644cbb,J18.9,"Pneumonia, Unspecified",Primary,2025-05-01 13:34:01.879581
+575c6769-dd9e-47e7-bdc9-58ef922571a9,0de35641-cd33-474b-9fb9-1b71441d1ab0,K21.9,GERD,Primary,2025-03-23 08:16:35.442617
+527ab861-21f6-48dd-8600-663837569892,09643c5f-726d-447f-81d8-0e74604b5047,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-11-17 02:37:26.924908
+5cc124f9-2d78-4b5c-a8c3-1a85e9cb8f89,66f7077b-ed2d-4144-8b00-b7badaac4c80,I50.9,"Heart Failure, Unspecified",Secondary,2025-10-23 16:15:15.703192
+a79e3b6e-88e0-4a6c-bfaa-621653058e5e,c2c64e48-526d-485a-ae9a-0237301db458,I10,Essential Hypertension,Admitting,2025-06-15 09:14:44.542070
+2817d18e-5c99-4e00-926b-4b58002b8f59,653e0956-d26c-4d0b-9416-d53788351a07,F32.9,Major Depressive Disorder,Primary,2025-07-22 18:27:36.450056
+27176c1f-e78d-4f8d-bb1f-29c139b3f50e,2ca302da-1700-4bd4-809d-f1cbaa7c6288,K21.9,GERD,Admitting,2026-01-14 05:32:43.973357
+55154aca-0f90-4494-b738-2a15a246d22e,f953c337-129e-4d2c-9801-b95b09650c13,J44.9,"COPD, Unspecified",Admitting,2025-02-26 03:18:06.439872
+37cfa911-30a2-4a0d-a3f5-cdd79a71d406,e281db19-c885-4b9b-8c02-d2dca003c98d,A41.9,"Sepsis, Unspecified",Admitting,2025-08-23 16:36:25.113025
+4e71ca8e-ae64-4c60-b696-26f8989c1926,c8f0d922-b339-4c5a-828a-a292d00d81f7,J18.9,"Pneumonia, Unspecified",Secondary,2025-06-08 13:17:55.842067
+3d1c6fe2-619f-4ea9-a47e-ce8ebaf4a1c7,d5a7a70a-8e6f-4f12-b94e-22ea3541d134,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-06-25 00:48:23.663730
+79c30b1a-1c9a-4a96-a9e1-9d9037ce62e8,242df2a9-a3b2-4a5b-892d-bbe8d457889e,J18.9,"Pneumonia, Unspecified",Secondary,2025-09-16 18:47:19.417927
+43f8bdd4-c0d5-4965-8dce-e5e6731afb54,0b99fc8e-05d0-4180-892e-c78393eac2aa,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-03-11 02:05:48.461686
+be4c1ae4-7cbf-44a1-a8b3-7f6a43c0c817,2cb52a24-760e-43a5-bd4c-d1efebd3c93f,I50.9,"Heart Failure, Unspecified",Primary,2025-12-09 23:41:19.814794
+80668121-3487-4be0-bc4d-d37c5a86fe1a,6d85c5b8-dab9-4993-9b55-8a09f2f3470f,I50.9,"Heart Failure, Unspecified",Secondary,2025-10-21 14:20:41.276474
+a935ab48-5caa-4c6b-8cfa-a0b1dfc4bf78,55dd3f5c-3bd4-4924-ab8e-5860c487dac1,M54.5,Low Back Pain,Secondary,2025-10-26 15:19:47.856675
+262d878d-b9bc-461b-aca0-5b8512984102,32a3d6b7-6f1f-4bc6-b8af-ca1e9da6a815,J18.9,"Pneumonia, Unspecified",Primary,2026-01-17 08:03:22.576103
+68ad4c0d-7a95-4731-b96f-8e39c23a3f95,b0061bb2-c966-48e7-9301-9d7c491e8eee,I50.9,"Heart Failure, Unspecified",Admitting,2025-04-14 16:50:41.454085
+42570fdf-716f-4b25-9569-e52e4ac40fc8,29c89b05-11a9-4aea-86ff-6f7013fab550,E11.9,Type 2 Diabetes w/o complications,Primary,2025-12-22 15:03:44.452035
+4a3c6b03-4983-466e-a6bd-28242cb0fefe,786d69ed-f2cf-45bc-b390-a78792fe3532,F32.9,Major Depressive Disorder,Secondary,2025-02-28 20:11:33.624677
+4d18cf93-a0c1-4245-8bda-65cd176d180a,f5d674aa-65c6-445d-a0c4-a513e8a4fc93,M54.5,Low Back Pain,Primary,2025-10-19 03:26:27.761495
+66bf44d8-4383-4d13-9643-ef7d10f7512f,6c9c7c79-a800-49cb-8ced-886aa2954848,I50.9,"Heart Failure, Unspecified",Secondary,2025-07-01 19:06:41.637487
+f0636275-cf74-49fa-b837-eae918495abf,de66b5ed-3d59-4f0c-8d24-dd631a07e890,M54.5,Low Back Pain,Primary,2025-08-26 11:35:24.631169
+f7d62221-5641-43fd-83d1-71798c785007,f0bc5820-9f5c-4006-8132-86bf052a5d61,A41.9,"Sepsis, Unspecified",Primary,2026-02-08 23:42:56.184986
+d67f4f7a-80eb-4659-b011-ff3271a26791,9f8ce9b4-8cc2-4ac5-99f4-0b3fe15b1674,K21.9,GERD,Admitting,2025-06-29 09:13:09.139484
+7562c238-4a6a-41f0-8384-f2034b3243bf,c389fdcf-efd4-4d72-b820-d21db0dec116,K21.9,GERD,Primary,2025-10-14 04:30:15.491126
+d881e580-d6c0-41b0-b601-746f90253c90,643391f3-9372-4a4c-b3ef-791e4513f1eb,M54.5,Low Back Pain,Primary,2025-07-01 14:46:47.526302
+f2f9d1b5-6de4-4f71-866f-4cf2963a4cdb,01e0122e-efb8-4ddf-878f-67d5d2ca3a7d,E11.9,Type 2 Diabetes w/o complications,Secondary,2026-01-25 02:08:43.745285
+f64b288d-b361-49e6-af38-436ae278fd76,dc18a51a-6dbd-41df-85ec-4faef834a175,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-11-28 09:41:54.677074
+261e46c1-0a12-4f1c-977c-9083240a4d05,022e687a-794a-47bc-a954-92ec288d97d9,A41.9,"Sepsis, Unspecified",Primary,2025-11-25 09:58:56.165717
+75355122-e69e-4247-8e7c-e69a62a61b02,4f135762-76b9-42cb-b092-a90fea263f0f,I10,Essential Hypertension,Primary,2025-05-14 20:25:46.462860
+7ee84502-9cdc-4f85-9861-949fb5621f61,b9a4e6fe-583f-48f8-a7f0-e788adc90e89,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-06-20 07:02:57.329398
+a9d1a594-6e30-42b9-acf8-8a248f323f23,274f7f61-cb26-4b1c-9613-b03c4cf6013c,I10,Essential Hypertension,Admitting,2025-05-17 21:15:39.920188
+bcdeacdf-819c-4bee-9693-71d04e0b4001,3bf4166e-d440-4455-8346-710e85126781,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-03-15 08:09:12.066763
+d81a5818-85c6-461a-8201-eb83df526d61,869f1d2c-459d-4af5-9137-7d3a048b96ce,M54.5,Low Back Pain,Admitting,2025-06-02 09:55:55.575290
+eb0750c4-74cc-4571-ac28-c5e93b5d92aa,40a53908-71db-4eee-a10b-854053b705f4,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-09-07 05:27:36.493215
+1df8f0a3-08cf-43a3-babd-b0698f78ba72,8df2180b-c543-47b9-9383-ca08a8ae52a5,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-11-21 20:32:19.824415
+7a95cb4a-4ed9-4824-9011-3389993b0d23,5a51cc05-3c29-46ef-81b5-7847136c4005,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-11-30 05:06:15.185041
+aa75cab5-920b-4acc-999d-eb02f07691ad,eea8afa1-140f-4fe2-857b-6e53ca332332,F32.9,Major Depressive Disorder,Primary,2026-02-05 19:38:23.554096
+30b75abe-5ab5-49b8-9f23-b590a9aacfe1,41296272-2cae-4d2d-a68d-504153ef14e0,M54.5,Low Back Pain,Secondary,2025-10-14 18:36:46.755223
+9068c891-81d3-43a9-811e-23c3d5a19816,c79209e7-ee91-426b-85bb-087cdda00e00,E11.9,Type 2 Diabetes w/o complications,Primary,2025-03-13 00:53:23.561927
+5eb3e30a-db52-4dee-b61d-2c350a7f6e9d,56b2b16f-ff10-4625-b6c9-f04b65f17b80,J44.9,"COPD, Unspecified",Primary,2026-01-15 21:52:05.315213
+a1c0e01f-4918-4c4d-b7b4-772e908fb6fb,a8eaa14d-b444-42f8-8782-fba2883bb142,F32.9,Major Depressive Disorder,Secondary,2025-05-20 23:26:38.592058
+97c82b61-b26a-4280-a465-f3f248e391f5,0bae9b6d-5e09-4cec-bfd8-c348f459b823,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-11-12 12:06:11.112935
+1ddbb1db-b350-409c-b305-3f83c595bbde,847fcd12-2a2c-41e4-8e06-4dd1322b92e8,A41.9,"Sepsis, Unspecified",Admitting,2025-10-03 03:05:08.399440
+b2b0d579-44b6-48be-a9c5-46eb67642268,8958ba54-882c-4ca4-ab6e-ca06f53079f4,A41.9,"Sepsis, Unspecified",Primary,2026-01-25 19:50:33.061193
+9ddd3be9-cba8-4d9c-a42d-31a8379059b8,bf62d423-b46f-4478-bbfb-e564923c0503,F32.9,Major Depressive Disorder,Admitting,2025-08-13 01:07:22.300344
+b747c402-7d0f-47f1-8581-712d4d93d3de,846d936b-7181-43ee-8b92-18cdcd2a19d1,J18.9,"Pneumonia, Unspecified",Admitting,2025-08-03 01:01:27.139460
+cca1849f-3ec6-4ab9-926f-375383300ea9,22060dd0-9bcf-4a12-b06b-54210e8557b7,A41.9,"Sepsis, Unspecified",Primary,2025-12-27 12:01:24.343276
+ea8fde19-8fa1-4851-b275-211a5a836058,ce296f42-4e01-415b-bc7f-69ee958e8a2b,E11.9,Type 2 Diabetes w/o complications,Primary,2025-10-26 11:10:13.133242
+5dc5bbeb-4736-440d-b8a2-951181bd6e33,f97a9a27-f807-4288-b902-822959f18d9a,K21.9,GERD,Admitting,2025-03-24 03:09:01.413832
+fa64dbac-fa8d-49a4-a44b-771c057923c6,14bd0481-1792-4e50-97ca-b9338e6c5c78,I50.9,"Heart Failure, Unspecified",Admitting,2025-06-09 07:48:44.088433
+cdf555c2-788f-49c7-9739-098c70a9bb7c,512a9dba-b430-4fab-af85-edf0b9f661bb,M54.5,Low Back Pain,Primary,2025-06-29 05:08:56.225655
+ef3dc301-e31a-4178-983d-bf406ca07721,f94437d0-04f0-4a22-b13f-5199aa1de554,E11.9,Type 2 Diabetes w/o complications,Admitting,2026-01-27 16:26:21.950685
+b8aa83e7-8110-4276-aa9d-2c2cba00eba0,c4912dc9-68f0-47ac-8d27-b0957473cc52,I10,Essential Hypertension,Primary,2025-07-05 18:49:04.475317
+db59ce9e-19b7-4e6e-8b33-8cbace7f0b14,72c18798-c848-4c45-88bd-36c46c185abb,F32.9,Major Depressive Disorder,Secondary,2025-12-25 23:13:11.545903
+e22fd8ef-1a41-4382-b7f3-df5218259b49,af2f6d73-2a16-45ca-9aa3-ec851f840ab2,I10,Essential Hypertension,Primary,2025-06-05 13:35:51.762246
+2473b5a5-5ffd-493f-b6df-73d41b1906b6,11c63e58-d889-4a88-9f7b-502a5af4fdf1,I50.9,"Heart Failure, Unspecified",Admitting,2025-09-29 01:38:13.348981
+bfae67de-4b54-4162-a8a3-49edd255556d,99bed708-f06c-44bc-b5c0-6562662859a9,I50.9,"Heart Failure, Unspecified",Admitting,2025-09-11 06:05:00.216691
+ebad1382-65ee-4290-bd23-48f34376c089,16313a67-aed4-4afe-8336-7da997d28dc0,I50.9,"Heart Failure, Unspecified",Secondary,2025-09-20 21:19:15.677968
+2ac8f7d9-2d63-4814-b47d-67cac73d679a,8868ac49-8ef3-4b04-8a9c-786ef33cb8dc,M54.5,Low Back Pain,Secondary,2025-03-24 04:57:44.439238
+f51781f3-e663-4303-b8d2-4564f62204d6,3c3057f7-0de7-48c9-8399-76e8e2e004d0,I10,Essential Hypertension,Secondary,2025-06-22 07:04:14.254799
+458df85d-7afa-4f35-8b47-6880c5bd6996,bb2dc238-adbe-4c13-ab31-20268ba5cc25,K21.9,GERD,Primary,2025-10-05 21:30:56.334086
+ca563e46-fe87-4b88-af2d-8ed5973b87a6,6c2e386a-7c9e-491a-991b-fbf5a19d727b,F32.9,Major Depressive Disorder,Primary,2025-04-04 08:38:47.888114
+cb9761e4-032b-4aa6-880f-9ada83f75d06,a46c5266-ffce-433f-b582-4dd62ea3dbcd,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-08-15 05:42:18.161525
+91501396-dd5c-4bf3-b197-4584948ec68a,e11647d1-4515-47e3-999c-992d722b8151,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-12-18 18:24:30.205771
+03c7b8bd-9252-4e3a-a47a-5ddd98b6b4ca,cf81b195-5f02-427d-9365-50fdd215aab9,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-04-25 06:04:26.465565
+9b392472-bab5-4e16-8d79-cf9d08ede427,512a9dba-b430-4fab-af85-edf0b9f661bb,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-06-29 05:08:56.225655
+652bd221-0b84-435d-babe-4f91c6171532,630d9cfd-4cd0-4a3d-b576-74782c258ca9,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-06-09 10:12:47.947877
+cc3d8052-4ab5-40b3-abc8-738d15eedd45,1897c115-011d-49c3-9228-c7245b771213,I10,Essential Hypertension,Secondary,2026-01-08 14:26:10.325359
+34ee12b1-202f-4cea-9a14-605cdacba705,a3d481cc-0fd7-4fe8-9b39-c01021f89225,J18.9,"Pneumonia, Unspecified",Primary,2025-09-11 19:28:24.946855
+ed013043-529b-467e-88fc-92c98faba411,cbb7c536-865c-43be-a02d-d16586f3b5cd,M54.5,Low Back Pain,Primary,2025-04-25 22:48:27.974728
+28443e51-ed7d-484d-85fa-7102d7063ab4,b015d1c9-f284-4bcf-993d-bdd69888e1bb,J44.9,"COPD, Unspecified",Primary,2025-02-25 04:01:53.142811
+a63713f7-7d34-45d2-8aa9-2cfed23c2a31,4cdf7642-71cd-46ae-b86c-b6b40614a0f7,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-09-07 18:44:35.150585
+baaf33ec-6a30-43fa-a898-cc4a8036b01f,ed1e08cd-59b5-4b30-993d-ec698665347a,F32.9,Major Depressive Disorder,Secondary,2025-08-04 06:46:55.379118
+4929cbab-84d4-4116-8f9c-e9a2911bf6cd,9b25979c-7fa7-461e-9931-eae3f5040ce2,A41.9,"Sepsis, Unspecified",Admitting,2025-05-14 01:32:36.384153
+2f4b9753-d480-4d83-adcc-3ad0018e4562,f5d10559-1216-48b2-9e10-5d3b89bdfcbc,A41.9,"Sepsis, Unspecified",Admitting,2026-01-05 23:21:32.873946
+b2cb9619-f504-4697-83d0-5b1f80f13912,4595f2df-2410-449f-a2b7-f010b51bcfa9,F32.9,Major Depressive Disorder,Secondary,2025-06-11 23:21:42.179460
+6de7c9ad-d768-42d4-8866-931a90c6de8c,4a99de1d-00b5-413f-a71c-f97e7238627d,J18.9,"Pneumonia, Unspecified",Secondary,2025-06-17 14:25:44.604610
+7f54c64b-6079-4bba-8ad6-02e419e3c1af,3e940bc9-a04c-41e9-a513-ac1aad428428,J18.9,"Pneumonia, Unspecified",Secondary,2026-01-01 22:13:47.032420
+e8bbc34e-ce6a-405b-bc77-91692bc32b28,1f60922f-eb80-4553-bbd1-36570395f417,A41.9,"Sepsis, Unspecified",Admitting,2025-04-04 17:57:17.460554
+7dfb1a81-4bfa-4dfa-8cd8-1e028d496867,3b726d2a-7c1c-4534-8de7-26304b2ae0dc,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-04-16 06:46:13.054784
+a6d6c4bc-3841-48d5-8a0a-c70d8e74d8bf,9afdbf28-8818-4d28-a9f3-1b3dec48662f,A41.9,"Sepsis, Unspecified",Secondary,2025-04-06 02:33:20.576353
+d2c712ad-9474-455b-b66a-99c423c4ab87,2cb52a24-760e-43a5-bd4c-d1efebd3c93f,I10,Essential Hypertension,Secondary,2025-12-09 23:41:19.814794
+e75bad15-b6ef-4ac4-bc2f-46154983f697,4595f2df-2410-449f-a2b7-f010b51bcfa9,M54.5,Low Back Pain,Admitting,2025-06-11 23:21:42.179460
+d4465ff5-fe50-4920-85fc-9e1943c58a63,b2d557a8-b620-4ebe-88b2-5ff2ca7e2d5b,I10,Essential Hypertension,Secondary,2025-04-18 18:44:21.244316
+1b2e14b7-4827-48e7-9c6a-789c97d2ce4b,4c04948e-28b4-438a-bb37-f38e25fb6368,I10,Essential Hypertension,Secondary,2025-03-05 14:33:56.168276
+1fbcefdf-cabf-4f1a-9cfc-42bd12442087,48a8d936-4864-4b51-b967-97a1ffee7448,M54.5,Low Back Pain,Primary,2025-03-18 17:43:01.285883
+06e14698-c6ee-450c-bc33-14c9520dea5f,e39711e6-472c-4495-a1ba-92f3a7e84420,J18.9,"Pneumonia, Unspecified",Admitting,2025-12-27 14:40:21.297469
+750930b8-5ba0-4f47-83b7-bd98e96964f6,dba44519-8875-40ed-b5fd-6cd7f1841680,E11.9,Type 2 Diabetes w/o complications,Primary,2025-06-13 12:58:22.736895
+99a5f260-56f9-46b1-b447-7fb3ff7dd5a2,fe746c43-b09d-40e0-88ae-8273724abf0e,M54.5,Low Back Pain,Admitting,2025-03-12 01:27:31.141839
+14c8e489-1f85-45cf-b079-6a72e36b9edf,ce3bb68d-1421-44a8-9e5a-e9b5875eaf1b,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-11-16 21:35:33.571651
+f32da31c-ba55-45b2-bec2-febcf6eec5ba,8d7fea7f-f09f-44ea-aca7-13b2835598f0,J18.9,"Pneumonia, Unspecified",Secondary,2025-11-02 18:59:42.795994
+1c7967a4-a6af-483c-a34b-0d21b76c7208,a29f9cf7-cfda-4ca1-984b-68dc607bca5d,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-10-22 09:23:58.080495
+ba2b42bb-e57e-4506-83c0-256162b83bd2,ca3e43dc-6cdf-469e-9334-ae920403c700,E11.9,Type 2 Diabetes w/o complications,Primary,2026-02-03 02:20:08.819147
+f74548d5-bf88-4439-b54a-bb8c755840e5,a1892ed0-2c44-4d91-b447-1b06149012a7,F32.9,Major Depressive Disorder,Secondary,2025-07-10 03:57:50.774568
+4f058924-7cbd-4525-89a0-cdaf1ec6543f,14e0ba9b-58d4-4b7c-9dba-32b23d06d66b,A41.9,"Sepsis, Unspecified",Secondary,2025-05-07 13:50:49.643750
+47b03e1b-fd26-4354-82cd-b6720ffb6ad7,b1389203-0a9e-4699-809b-2c3aec3dd5fc,J44.9,"COPD, Unspecified",Admitting,2025-05-05 03:14:34.210453
+a3c0273a-15c3-4df1-a167-bfca2e634f12,34b3cce7-d4d6-4f16-9d8a-9c9f78ec530b,A41.9,"Sepsis, Unspecified",Admitting,2025-10-17 07:28:52.966452
+1bca07f2-f24c-44d1-bb7d-25cf1a4bc014,512a9dba-b430-4fab-af85-edf0b9f661bb,F32.9,Major Depressive Disorder,Admitting,2025-06-29 05:08:56.225655
+7d405158-2c78-4817-a42a-dcb43ba25020,f5466436-c167-48ad-a015-af8b194e86f3,J44.9,"COPD, Unspecified",Primary,2025-09-09 01:33:15.343543
+469f416d-6d5d-46dd-8198-40644ea886f4,3bf4166e-d440-4455-8346-710e85126781,I10,Essential Hypertension,Primary,2025-03-15 08:09:12.066763
+a6f6ca47-cb63-4ae9-9b38-be9776e144a8,9ca295c7-77e2-4744-9e3a-8d6590a90512,K21.9,GERD,Admitting,2026-01-03 01:17:57.375114
+60a99fe2-25aa-4aa7-a4eb-c52eabe1a734,99a07956-0d3d-4671-bc0f-059e9e131214,I50.9,"Heart Failure, Unspecified",Secondary,2025-05-26 05:41:20.861433
+a3273844-ee89-4366-84e8-3a962f931387,fa6ebe59-54eb-4f53-a714-e2e6e02fe096,A41.9,"Sepsis, Unspecified",Primary,2026-01-07 00:33:24.403766
+749cd551-de15-49a5-950c-707eec345fa3,8376c8b2-32fb-4c2f-9c3a-159aa2d68f08,F32.9,Major Depressive Disorder,Secondary,2025-04-13 10:34:50.222725
+9f1b6c12-34a8-451d-a86b-5cc2c95bbc93,bc2757f5-2bf3-406e-ab78-4dd5879155bb,I10,Essential Hypertension,Secondary,2025-10-29 07:42:29.128300
+13c87e7a-474a-45df-bfd7-9aea00f3f01b,3633695d-8991-4ddb-b4e2-1b5532ff424c,E11.9,Type 2 Diabetes w/o complications,Admitting,2026-02-07 14:31:37.722249
+3ddf0777-7f46-494f-85ad-b86dd3e9f21f,60e1a7ac-3693-4c46-90d3-e16d29768f89,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-06-05 00:11:58.767666
+609752aa-cca7-4e5e-9eea-5e96292b31a1,e073f35d-9b80-47c1-9fee-6bf3b001d225,I10,Essential Hypertension,Admitting,2025-06-07 12:56:14.267390
+001e8b3a-e283-42ed-8195-405994e5b0c2,d55fbc4c-0513-4d9c-b42b-d0b5a695a214,K21.9,GERD,Primary,2025-12-24 11:55:55.108691
+86a091cd-0d66-408c-a841-20ed8fb035d1,54892175-01f9-4844-b80e-4f92b3036d30,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-06-28 03:57:13.788895
+c6194ab1-7a4d-47dc-8e46-ca7aba149f35,61f86a92-ea92-4f64-8745-c2e0df27c137,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-03-28 10:45:12.729145
+fcab558b-c23f-4c1e-9b16-63f2efb98d06,7b88b5d0-5de4-4c7e-bca2-9ba92aee9f7c,M54.5,Low Back Pain,Admitting,2025-09-29 21:39:39.909605
+1bb17855-59f2-479f-91f6-46ad7a4a10a5,261b01ca-fd44-4533-b808-09ff3df13789,I50.9,"Heart Failure, Unspecified",Secondary,2026-01-14 14:13:04.837091
+237ac4c7-daf5-4e05-8c7b-41273afb38c2,c399351c-fa0e-4d8b-b7b5-f68c1d8b2ff2,I10,Essential Hypertension,Admitting,2025-02-26 19:10:19.977674
+a8ecc9d9-e929-4ff6-b100-a7a91209c9ab,32ecd79a-5c3c-4ab1-a659-8a849448ac43,K21.9,GERD,Admitting,2025-09-05 10:08:54.393914
+d8b95efb-d109-47b9-ae62-ddd35731e5ba,1d3aed5b-1679-4c20-b07b-44a0add73db7,I50.9,"Heart Failure, Unspecified",Secondary,2025-03-27 16:01:15.206846
+1fe7bbf9-8371-4bbe-945e-25a1da5d0910,c79209e7-ee91-426b-85bb-087cdda00e00,I10,Essential Hypertension,Secondary,2025-03-13 00:53:23.561927
+1aa1af25-0035-42cb-aa40-ddb5bdbf10e9,f0ceebf0-6274-4028-94f3-711b5a2d8a24,F32.9,Major Depressive Disorder,Primary,2025-08-31 09:42:44.858281
+e0e8669f-07ba-4aa0-a794-d0db81c31ad2,128cf3df-effd-44aa-b92e-c51e264cdfde,I50.9,"Heart Failure, Unspecified",Secondary,2025-06-10 15:35:10.316992
+126f6be7-3120-4ced-8ad6-418f87a3dcbb,9ccd9dd9-a965-4320-8da4-47327d9df501,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-05-06 13:35:43.551585
+9a4cccf2-9911-49e4-83b3-fdff430edc30,9214b407-b8b3-4b05-988a-f4f5275a6577,J18.9,"Pneumonia, Unspecified",Secondary,2025-12-28 19:54:51.261080
+640a4c99-a48e-4724-b95e-450c8da88768,b2e29b15-a560-4e77-ad43-10f6ca789a28,M54.5,Low Back Pain,Admitting,2025-05-11 14:48:28.409791
+59c7e378-b75a-41d0-92b8-72eed5554353,b6b7f8e5-9be0-4fc9-8df7-ced71e86432b,J44.9,"COPD, Unspecified",Admitting,2026-01-18 13:38:27.383939
+3328bee1-30f7-4a12-af30-f5aa47757780,4c6b6b5c-0873-4883-81fb-8da207ec4a7c,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-02-19 02:02:37.448471
+1018678f-4887-4c9b-acdd-2ba851733115,4215e547-f2e9-4d9b-a998-17d971684153,J44.9,"COPD, Unspecified",Primary,2025-03-15 16:14:52.784086
+e9a7048d-bb31-490d-89d4-aee76db78ae2,bbe7c201-7ab9-4feb-befe-ada43fff94a2,I10,Essential Hypertension,Secondary,2025-10-17 17:17:08.944144
+5f6eceed-bf5f-4a6f-a462-70a88728fa5f,683ab1e9-9a8f-4b01-a75f-4476f931d1cd,A41.9,"Sepsis, Unspecified",Admitting,2025-05-03 09:25:21.260938
+2493ffdf-cfc3-4261-ad1c-5e9920b88281,609d215c-c123-4dc5-adca-c39e9edba953,J44.9,"COPD, Unspecified",Secondary,2025-06-25 02:03:18.674262
+9a7a6a71-1ecd-4f77-af64-070253317dad,9b2ac874-c155-4bcb-82d2-227845bb547c,I10,Essential Hypertension,Secondary,2025-08-28 22:03:22.235749
+443db851-dea0-4f3c-9d37-df72ba9e5a07,18b717a0-233f-486c-82c0-deefefae1a95,F32.9,Major Depressive Disorder,Admitting,2025-09-03 14:58:56.480065
+98be52bb-287f-45eb-904c-213289221924,85ba82bc-c816-4831-a69b-81a6c427a5f8,M54.5,Low Back Pain,Primary,2025-06-19 13:26:45.722772
+aacf3164-2c75-4b5b-9d22-b38cf7bbc230,3e3365d0-aabb-4992-b218-c23c9c9760a5,A41.9,"Sepsis, Unspecified",Primary,2025-06-05 11:57:53.886556
+fea31ae7-213c-4d91-a622-d255ab6de3a9,cca017bf-3f58-457d-afd6-d66e6a869e70,F32.9,Major Depressive Disorder,Primary,2025-11-02 13:53:27.672116
+94e0bd08-1dfb-4410-8042-2c00424f6513,f0ceebf0-6274-4028-94f3-711b5a2d8a24,K21.9,GERD,Admitting,2025-08-31 09:42:44.858281
+38cf9315-735b-4760-8a61-79d2c9fd0ecb,2b044369-2a89-47c0-bb9f-a68ac71da7d7,I10,Essential Hypertension,Primary,2025-11-12 02:07:19.271403
+596186aa-474e-4e90-9d35-46cd8c164adf,1277f8fb-58a4-4d06-98d5-b97797e991a9,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-11-27 14:00:21.686465
+236abbd4-16e9-48d8-b062-fd34fcda2ef9,4f0dcb1d-e87a-45da-89ea-7189c97f3d86,I50.9,"Heart Failure, Unspecified",Admitting,2025-05-24 18:56:20.998665
+f5a102d1-be3f-409e-b543-f97ffb2a8436,2e033708-0ddb-4d5b-8e85-7eccc70ceee6,F32.9,Major Depressive Disorder,Admitting,2025-02-20 18:38:56.102565
+ecd957e2-8e64-401f-bd6c-d69cae423c18,dfc76270-dbc9-4ae1-92aa-a0743abfe95c,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-02-22 16:22:14.930828
+4b822278-56ef-4acf-8d36-787316665469,50a9d7ba-73b5-4597-a7ae-8ead05388795,M54.5,Low Back Pain,Primary,2025-07-16 01:52:05.078239
+d253718e-5687-4ff7-a47e-842433e2bee4,410654d3-760a-4a88-8e8b-b655675cf1ac,I50.9,"Heart Failure, Unspecified",Admitting,2026-01-28 01:56:21.118091
+e3d0ae0c-8a7a-4595-a967-5b4230e9318f,f378cc08-415d-4f0b-819c-24881b8aab3e,I10,Essential Hypertension,Admitting,2025-04-17 06:25:36.304447
+74699a3e-f0bb-484b-ae9b-7e62c3ce1878,7b88b5d0-5de4-4c7e-bca2-9ba92aee9f7c,E11.9,Type 2 Diabetes w/o complications,Primary,2025-09-29 21:39:39.909605
+afc2456f-a633-48e7-b5de-f6ec85f0940f,52b513b9-bf54-4cf9-8de0-2f24180e53c2,I10,Essential Hypertension,Primary,2025-11-27 06:48:56.773561
+80995055-92e5-44b8-a98c-983b2684ee85,3be1699c-c26c-4b71-80be-3328494bd6a4,I50.9,"Heart Failure, Unspecified",Secondary,2025-09-29 15:00:51.572847
+54674b40-1447-42c0-b3af-8073702d7f5a,92ed0394-abde-4f4d-a31d-31568965d67a,E11.9,Type 2 Diabetes w/o complications,Primary,2025-06-11 07:21:54.841473
+74960de2-3c34-4a31-b096-3539022fdd21,07ca6de5-0f41-4534-900f-94dd1de98888,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-08-15 18:49:13.811773
+1c0f89ab-ae59-4602-b70e-21985f9c9e44,f5466436-c167-48ad-a015-af8b194e86f3,F32.9,Major Depressive Disorder,Secondary,2025-09-09 01:33:15.343543
+1f25ca84-df63-45ad-9d29-ce5a6598d411,abeb529d-6893-43fa-84ed-4dc9ece08360,I10,Essential Hypertension,Secondary,2025-06-18 10:56:29.351865
+48128ef8-761a-4cbb-8d57-ca933486174e,a7bbab34-dba6-4e36-a642-0b5f3b1b9d99,I50.9,"Heart Failure, Unspecified",Secondary,2025-03-27 17:29:15.786148
+874ce18e-6e4d-41c3-9f99-a4af36efeaf8,af6e540f-6d08-4e6c-8dd2-cf83eb2e5105,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-12-05 07:25:46.779182
+35ec9a0a-5a30-47a9-9cfa-4b04399bf7d0,70aeeded-08e5-4be5-8a18-350493165fe9,I50.9,"Heart Failure, Unspecified",Primary,2025-05-11 06:47:55.322392
+98c474b2-b1a8-4c73-82de-4ef27b68bfcc,45d35596-e35d-4051-9abf-f12923045f81,F32.9,Major Depressive Disorder,Secondary,2025-04-14 02:55:42.892933
+f8eb6567-e94a-40cf-9206-1df8e0a65957,fb576429-a65b-4ba0-8d16-da69e3621589,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-09-06 05:23:27.932258
+70a52082-12ea-46bd-b756-86b7d90dfdcd,e011a363-e38b-4978-ada5-02af29ed3a14,M54.5,Low Back Pain,Primary,2025-10-12 01:17:16.638583
+a1dcea05-6d71-4c30-b7b0-02908083f509,9324d0cd-776b-4efc-af29-790086eaeffa,J18.9,"Pneumonia, Unspecified",Primary,2025-08-18 01:37:38.015110
+d081b2c4-4147-481d-aa13-8bbdf8b532b8,174f464e-74bb-49d7-aa4a-c82b0ae9f3df,I50.9,"Heart Failure, Unspecified",Secondary,2025-11-25 22:07:47.906262
+240a2fee-85c6-47b9-bd00-72e167682e39,3dcfdbb4-3247-43ca-981d-a178f9672cae,I50.9,"Heart Failure, Unspecified",Primary,2026-01-23 16:36:45.590937
+ed2b4e06-f22e-423c-a1b3-cc098f55b0bc,6e2ecb9a-12d9-46c6-b264-f2c6825c0855,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2026-01-26 01:02:33.082750
+bf6019da-df5e-437b-b0fe-dfbd1d897d5f,48045a9d-a121-4b08-bb60-26c2b9b1952c,A41.9,"Sepsis, Unspecified",Admitting,2025-04-27 07:26:43.703749
+37d0e4e0-7710-4042-8217-722245586929,c7946952-1f33-4bf6-b91a-ddfa16b4d84b,J44.9,"COPD, Unspecified",Admitting,2025-03-10 13:01:23.249645
+f4166acf-7aad-42bf-a965-d068023dfc9f,7a058f0d-a0f6-4386-b700-1d6a4d170e54,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-02-15 12:33:57.043529
+cf8c073e-71a3-422e-b121-fa01d87fce88,b27ee379-df3e-49da-8577-12c135dcf052,A41.9,"Sepsis, Unspecified",Secondary,2025-09-12 18:33:26.466674
+70f194ae-2db7-40b2-89fe-d0ee76c90572,a556584d-e6fa-4ff5-8adf-eadcf056af44,I10,Essential Hypertension,Secondary,2025-02-25 16:22:20.764283
+cf825e79-8537-4875-a463-26d91539941b,33ad5bea-a3cd-4f3e-a9e8-89ed2f7303bb,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-06-25 00:21:05.837014
+9241c6b7-e48b-44f0-86cf-037ead4ddf33,8376c8b2-32fb-4c2f-9c3a-159aa2d68f08,M54.5,Low Back Pain,Admitting,2025-04-13 10:34:50.222725
+5280f6f9-81a1-4c4c-92b5-3c5ddfe57f3f,69f7000f-1074-4fcd-a3ab-1cb1e5516ef2,F32.9,Major Depressive Disorder,Admitting,2025-09-17 21:13:01.369288
+f44598f2-5d33-4d8a-a749-556a48031a91,3e5e952f-2c2b-4371-83cf-e5dde98455f2,I50.9,"Heart Failure, Unspecified",Admitting,2025-03-17 21:36:14.814506
+ccd3e4f9-8a70-4ea8-aa51-907c1418eaaf,c8188bf4-9fe2-4f7a-8796-7b2831cd6af8,J44.9,"COPD, Unspecified",Primary,2025-11-06 18:24:35.088372
+c5553f00-0023-417b-a49b-c9ab3f5449f0,9f4d64a4-637e-43ae-abf3-aa6f67348b15,M54.5,Low Back Pain,Admitting,2025-06-01 08:45:15.225010
+2feaeec6-f058-4b59-ad4b-40b7d3707216,a4147ad9-9ac6-476f-8cd3-ca1e8a612a59,J18.9,"Pneumonia, Unspecified",Primary,2025-03-11 15:58:39.879877
+507dcfe8-9fd8-4fb5-8805-962bd0c50b7e,630d9cfd-4cd0-4a3d-b576-74782c258ca9,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-06-09 10:12:47.947877
+a30185c8-a6b4-4e2f-94dc-20ed86720069,a20b8cc6-ac97-4adb-8288-b09e16844955,J44.9,"COPD, Unspecified",Primary,2025-12-31 03:58:30.539446
+075655e6-d63b-419f-ae3c-8532773db7ec,1badc647-1438-4e01-ab21-36fe98356710,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-11-22 09:45:00.920604
+1fff4709-11c2-4834-8322-9de44c5e5cae,33ad5bea-a3cd-4f3e-a9e8-89ed2f7303bb,F32.9,Major Depressive Disorder,Primary,2025-06-25 00:21:05.837014
+1b3e9c5f-0081-47f8-9c78-317903a7d273,c4078e37-5957-4a67-8731-70801c2be46a,A41.9,"Sepsis, Unspecified",Primary,2025-11-08 06:07:34.055005
+7ae2314a-0be3-4734-b7bb-e2d1e96aca9b,48bcc3f3-ecad-49f9-849c-a8c07a35599d,A41.9,"Sepsis, Unspecified",Admitting,2025-09-14 23:59:20.425162
+e31ba7ef-46c5-4960-b6b7-e5a11d1500fc,298faae4-256e-430e-9c9a-ac82247592ce,J44.9,"COPD, Unspecified",Admitting,2025-11-26 10:25:51.846561
+f9e17bf1-ead3-4601-956d-5ef66dfa7f12,6923b408-8fd5-43b2-a9d7-852cb26fad24,J18.9,"Pneumonia, Unspecified",Primary,2025-09-30 09:41:29.000124
+9a15ca16-ca84-420b-8345-81b9f03b9f36,f4612a95-cbc1-441f-9ca0-7f4bf747c135,J44.9,"COPD, Unspecified",Secondary,2025-08-22 15:27:04.449704
+e695c113-e64a-42fd-be87-6afcff14ddf4,e0564fcc-be23-460f-9382-722204bb70fd,K21.9,GERD,Primary,2025-12-17 15:42:09.492940
+ca03df5d-feec-4d74-9d48-5884fa5c7077,703a59aa-b725-4df2-be57-9b4597a38b2e,I10,Essential Hypertension,Admitting,2025-06-18 01:58:38.606838
+6da64efd-afb6-4251-bbbe-ba77939ce76e,fcd332f7-4f03-42e8-b76a-cca3da49f66c,M54.5,Low Back Pain,Secondary,2025-09-04 11:25:45.946338
+7473dc7b-a6ae-4fab-9112-ec932d2896ed,7fc9f4da-7138-4a80-babc-26fd16b52033,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-07-09 14:01:41.694230
+b64ba389-252c-4387-8c80-281c98cbb4e5,e5bf9a1e-f7ba-4ee5-b556-c9ce93f2ffe4,I10,Essential Hypertension,Primary,2025-03-05 09:03:48.559441
+bd6dddd5-436c-46c0-8b94-7cb0fe73b678,a4147ad9-9ac6-476f-8cd3-ca1e8a612a59,J18.9,"Pneumonia, Unspecified",Secondary,2025-03-11 15:58:39.879877
+6d2e1f3a-c551-4a7c-88d3-f560545e55b8,70b16c64-4a24-4eaa-a1e8-08dea28fac99,F32.9,Major Depressive Disorder,Admitting,2025-05-03 03:47:12.708050
+b42fad8b-3219-4506-813c-6bb8ee1a3e74,0ab7f819-6165-431f-8256-ba6f2bcd02f7,M54.5,Low Back Pain,Secondary,2025-09-10 21:55:44.339466
+42db4969-5bc6-4e0d-8469-0091f650c418,d7e4cea1-d546-47ec-8612-002e83516665,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-04-09 20:11:12.525882
+8d0bddac-9750-43d2-92ed-13877c1fde24,7674a3ad-1cc2-4036-904d-8f8b8aa945f2,J18.9,"Pneumonia, Unspecified",Primary,2025-03-09 10:22:23.657989
+5bd5d585-f9e4-497e-819e-889bbb00c67d,0965bf23-777e-44a8-a46e-1a6c0d88c880,I50.9,"Heart Failure, Unspecified",Admitting,2025-08-03 18:12:06.975001
+a256e2a9-dce0-4559-be54-1c7e6ec3c5fe,f55bce71-66af-49c0-84fc-f3e04ca1e56a,J44.9,"COPD, Unspecified",Secondary,2025-08-01 18:14:47.502755
+4df5230f-48a9-4d6b-9643-da12767793ad,7f94bed5-6c13-4233-b961-9a07ed791e8b,F32.9,Major Depressive Disorder,Primary,2025-12-30 05:34:10.338273
+816f5c88-61c6-4556-b2c6-2915c8bbeb25,b7645129-5f14-486a-8d15-3496c6b1ecc3,I10,Essential Hypertension,Admitting,2025-11-28 02:49:44.450797
+fc1b85e7-8b1e-42e0-958c-90030a4fda50,d48e5041-0927-4e4c-8c77-21781dba5141,M54.5,Low Back Pain,Primary,2025-12-18 09:49:19.568517
+e115f6aa-8443-4b59-a623-4670d81a79be,653e0956-d26c-4d0b-9416-d53788351a07,F32.9,Major Depressive Disorder,Primary,2025-07-22 18:27:36.450056
+7353933b-069c-459f-b290-86ceb1573894,7d18efc4-371c-4d51-a3d6-0e3c7910fd54,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-03-20 07:08:28.957712
+1a988613-458e-4c8a-9b24-1e84ea0e6c17,91c13f74-62d5-41eb-b738-a0a523414050,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2026-01-29 16:37:33.122505
+9acc7ac6-481e-464a-a0bb-3dd0f0b3e2dd,0dcd1c87-f0c6-4fca-9226-fc53f03cace3,K21.9,GERD,Primary,2025-09-09 23:27:40.194088
+6dc22ab4-85dd-4901-b603-5e7e64b5e029,b7c1478f-de97-4741-9938-7c948d2d8530,A41.9,"Sepsis, Unspecified",Secondary,2025-04-16 15:23:02.990188
+804dab5c-3f58-48c1-88cc-ebf70521ecbc,0b99fc8e-05d0-4180-892e-c78393eac2aa,A41.9,"Sepsis, Unspecified",Admitting,2025-03-11 02:05:48.461686
+1804d834-5ac7-45b5-8add-2af57a561ec7,37714e78-8aa7-42c7-9e92-8efbb2426d8a,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-07-29 12:29:08.601302
+ccd8bccd-d99d-4815-96ad-facdfb39158c,1d097068-ce45-4832-90f8-3ca20173f3a3,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-08-04 08:29:22.101248
+28c556ec-291b-4248-b233-cb09a9b24403,8c4a0b92-1de9-4a6e-86b6-62f6ab3917a5,I50.9,"Heart Failure, Unspecified",Primary,2025-05-17 04:04:28.161538
+7164f823-f20b-4173-99a3-7f69b1f4989e,2cb52a24-760e-43a5-bd4c-d1efebd3c93f,J18.9,"Pneumonia, Unspecified",Secondary,2025-12-09 23:41:19.814794
+64a50e89-c3ed-4bdb-8f2d-32730f7d7ada,4b3e9fcf-97a7-4cfe-aece-958e9af8fb54,M54.5,Low Back Pain,Primary,2025-05-30 13:43:46.179201
+68b32bda-ada3-42f8-ab24-bff448bc3f85,29c89b05-11a9-4aea-86ff-6f7013fab550,I50.9,"Heart Failure, Unspecified",Secondary,2025-12-22 15:03:44.452035
+10449496-45ad-403d-9937-dfc50e542f06,3a3ea581-29ca-45b7-a8e1-bc09c1f23b9f,I50.9,"Heart Failure, Unspecified",Admitting,2025-03-12 05:26:12.246332
+0e176a7f-fae0-44cd-bec9-d27927b399f4,43abb3b9-f353-4fc2-950b-56087b04bb13,A41.9,"Sepsis, Unspecified",Admitting,2025-03-30 02:41:58.884235
+065f8a40-f1a7-44e5-a364-dd7dc325fb8c,be29ccb8-f047-4260-9d50-30ea395d3869,F32.9,Major Depressive Disorder,Admitting,2026-02-02 01:14:20.981963
+908beabb-cd8c-4b76-b34c-30b4611b415e,a6134433-9d7b-4c82-b623-5e90a3b4e5e6,M54.5,Low Back Pain,Secondary,2025-07-28 17:02:39.009143
+360fbba0-d197-489c-9d46-6ee7ba2672ea,a3d481cc-0fd7-4fe8-9b39-c01021f89225,I10,Essential Hypertension,Secondary,2025-09-11 19:28:24.946855
+84af13db-5a35-44ba-892b-eb835a0d26c6,8999e378-c013-4554-a7b5-dc0633aa9dec,K21.9,GERD,Primary,2025-05-24 09:28:12.711818
+69389029-abf3-4655-aa70-06354b69295c,b3110549-6b0a-41ae-bdc9-290f6f63a8e5,A41.9,"Sepsis, Unspecified",Admitting,2026-02-06 18:42:45.564659
+b92e6a56-fae2-4f15-ab7d-4281b8b62a68,412f1a44-27df-43e5-a357-29f8b11014d1,M54.5,Low Back Pain,Secondary,2025-04-18 00:16:10.735520
+96541a0f-0b49-4e5a-82c4-e60f21b1f0e2,93182bf3-1c01-489f-9fe6-8b02f3315788,E11.9,Type 2 Diabetes w/o complications,Secondary,2026-02-10 16:42:00.998194
+b6dabbf3-5d79-4c98-8064-93b7e9438986,9b62dbad-0752-4ac9-8bf1-b4f7e7095f77,J44.9,"COPD, Unspecified",Admitting,2025-12-31 06:33:49.746745
+c96b366d-1c5b-4648-add7-8ac40b570955,315fbd7a-a80b-4e91-8996-b17f6d4149c0,K21.9,GERD,Secondary,2026-01-02 20:58:28.985146
+b450577a-12c1-40a4-b78c-46b1bf06626a,4870e935-c9df-4414-8b4e-565d48c6d546,J18.9,"Pneumonia, Unspecified",Admitting,2025-12-16 02:26:14.642465
+d7eae676-58bf-4b36-9b5e-e70594c721a0,7511a76a-c38d-4545-91d0-6ffb923a736f,A41.9,"Sepsis, Unspecified",Admitting,2025-02-22 19:25:54.837699
+e43bbb44-7a71-4024-94fd-04b6d0282934,6c8b90b4-64ab-45d6-b863-9665fd70f8db,J44.9,"COPD, Unspecified",Secondary,2025-11-22 00:06:59.424265
+5f875b89-e487-4dcd-8996-2e879868438e,5576bfa4-843c-4253-8a98-b9b7e77fc424,F32.9,Major Depressive Disorder,Secondary,2025-05-09 08:17:59.043025
+ff0206b8-5b5c-40a5-9226-a84edf4c713d,fe65efd4-e0b5-4463-bf04-a1fc1c06cf1c,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-05-09 06:28:11.941031
+694574d5-12e4-4bf9-b516-fc4d92f84951,69f7000f-1074-4fcd-a3ab-1cb1e5516ef2,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-09-17 21:13:01.369288
+5b3cc565-2679-4acf-974d-e761ea6ba6cf,afdfb564-aa85-497c-a517-c2cb93f13e3e,F32.9,Major Depressive Disorder,Secondary,2026-01-22 09:55:18.526447
+a398b191-6fdc-47dc-84d6-5a0e4fef5fb4,8d29b2f3-3a82-4965-aafb-cf518b567cb2,M54.5,Low Back Pain,Admitting,2025-12-29 00:21:46.003524
+1c606d9c-ab47-4799-ab12-887b35009840,3ab96feb-688a-401e-a999-3f3b89eb4d83,E11.9,Type 2 Diabetes w/o complications,Secondary,2026-01-19 17:30:57.449114
+30821d90-8a5e-4759-a6d6-d903d8f812c6,2e8dd5af-b1ad-4987-93c0-0e01f505d441,K21.9,GERD,Secondary,2025-08-27 02:21:22.558598
+f9d4b15f-0c6a-4f1c-888b-a5374688431a,b5082b7c-88ab-4922-a172-b5d5dc3b2301,E11.9,Type 2 Diabetes w/o complications,Primary,2025-07-20 16:13:53.177868
+2dd7bdc7-6efc-453f-ae7d-4de5b6093ba3,38c64963-9ab8-4b14-b6f8-eca8d9c32aa7,M54.5,Low Back Pain,Primary,2026-01-16 21:57:28.953477
+797fa1b6-70cb-4504-b8ca-a419f8b374ea,3071bd5c-2768-404f-ab87-55d9015983fe,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-06-23 11:05:49.610943
+80605e1a-6088-4a79-99f5-a38d2e62cdfe,f0f3e196-d564-4be4-9872-acfcb00dac0a,I50.9,"Heart Failure, Unspecified",Secondary,2025-05-24 12:10:11.900428
+dc03c91b-2289-4f00-973a-53ff205dc7b2,6c25f370-6aeb-4dff-8063-da8607a2d958,J18.9,"Pneumonia, Unspecified",Secondary,2025-07-10 05:40:47.390745
+c4f56372-33af-4add-9e78-dc03b3bbd897,08a8dafb-39b4-4f71-b9af-0a756b018ddc,M54.5,Low Back Pain,Primary,2025-02-18 02:47:22.185812
+ca6d5898-a292-4814-ae58-7b4f37cdf120,f2d4f7ab-af77-41cd-8483-b5b58771f912,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-09-29 06:57:08.314410
+10f6f7c3-76b3-459d-b712-001a4d9c53cb,40c053e8-1b42-4fd3-af9e-42602cc4fafe,I50.9,"Heart Failure, Unspecified",Secondary,2025-07-08 14:38:58.986954
+5ee1d78f-7856-4961-9cb6-3c57f1cf5d79,b3110549-6b0a-41ae-bdc9-290f6f63a8e5,I50.9,"Heart Failure, Unspecified",Primary,2026-02-06 18:42:45.564659
+e3bf7c71-e26a-4e42-a3ed-c6d032ecf231,aa6c0d4b-85cd-4df8-bd8f-fc4b7ce06903,I50.9,"Heart Failure, Unspecified",Secondary,2025-06-13 15:52:36.802021
+c49ad07e-bd83-4f53-ae8c-383483b6a793,f3c25d1a-a6b4-42c3-aa70-909b675cbafa,J44.9,"COPD, Unspecified",Secondary,2025-09-23 05:53:12.650872
+a2b2c66d-1655-4e37-9ef9-fc3eb698cb9d,9fb34731-9d86-4b9b-a54b-b0c9cc404a39,F32.9,Major Depressive Disorder,Primary,2025-10-01 02:57:41.606591
+7b3729bd-4df1-427f-8eae-35ccc898accf,67e208a2-e09a-4346-ab80-ba0c94de6391,K21.9,GERD,Admitting,2025-11-18 08:42:38.010144
+5721df55-dab3-45ad-99e9-79bacbe98756,fae9e776-2972-4f58-b238-9a337718b9ae,M54.5,Low Back Pain,Primary,2025-03-27 04:47:49.742717
+ae3cfa5b-92bb-4a60-a78f-06dc9bdda418,3938c4b4-a949-4bc5-ac5c-1bfe04d3dd27,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-03-16 06:47:59.412735
+5b43ff6b-467c-459b-8e6a-9a561b4b4513,10bbe7b9-9372-4500-971c-35a3f053484f,K21.9,GERD,Admitting,2025-02-24 23:59:42.222588
+cca896ec-9aa8-4ec3-aa94-48c70de5516e,b0760e72-4aaf-4eb2-b75e-e262f40ac7e6,E11.9,Type 2 Diabetes w/o complications,Primary,2025-10-01 17:41:46.799902
+a21bb8d9-5d4b-4be1-93c0-a8ab7ad9772b,6b0deb42-5ea9-44ea-b6b1-18e3a9a190a6,E11.9,Type 2 Diabetes w/o complications,Primary,2025-03-29 02:44:01.164940
+f9b9a88e-ebcf-47a6-90a9-fca563005da7,ba890273-1ebe-4a41-93ed-52b88b65326b,M54.5,Low Back Pain,Admitting,2025-10-04 08:33:11.189390
+24cbf991-6447-43e4-b1ca-4aab40de556b,6ecdb2a0-7159-40f2-a394-acfc84ec8f6b,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-08-11 21:33:17.277565
+3094bfca-48ab-4747-8d03-943f33fb6331,d2ba37d4-1645-4ce7-aab5-877367fc2040,J18.9,"Pneumonia, Unspecified",Primary,2025-08-15 01:39:27.249454
+2ded504a-c488-4af2-b700-737f69cf5096,512da1a5-e017-4992-ba4b-46e55aa16f39,I10,Essential Hypertension,Primary,2025-06-27 22:29:53.885520
+145edffa-2e33-4776-a7eb-59800a0188ab,1f09982f-0645-48c5-a98a-7163b34dce75,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-07-22 17:46:20.164432
+afeb323f-a870-42af-828d-6352064824c1,3ba70276-262a-470b-bb1d-0cffa38b158e,J44.9,"COPD, Unspecified",Secondary,2025-08-03 23:21:12.010767
+7bca37a3-7bf0-4d0d-8046-e24b1d2b80a5,a8f4cc25-99b7-4563-8925-4967e1e36c0f,A41.9,"Sepsis, Unspecified",Secondary,2026-01-22 16:03:26.529906
+3e0ec41f-9784-4ed8-8c16-68f968bc0014,57e8b1ab-60f5-41c9-b41d-df995523f97f,I50.9,"Heart Failure, Unspecified",Primary,2025-09-01 08:58:39.582159
+82a91b79-e15b-4f97-ba8d-a2d549ad6019,e1edfcfe-11ca-4c41-bb3b-3af7db3add27,F32.9,Major Depressive Disorder,Primary,2025-06-25 18:37:22.884971
+c640545d-75f7-4632-b4ad-ba09421e9125,40c053e8-1b42-4fd3-af9e-42602cc4fafe,I10,Essential Hypertension,Primary,2025-07-08 14:38:58.986954
+4977bcba-b364-4eab-8c4e-7f238381b258,a920adf6-91d7-415c-b812-943d9aefea2e,F32.9,Major Depressive Disorder,Secondary,2025-09-02 21:15:48.729280
+1065270f-ecee-49bf-bb12-0badca1f5cd0,b0061bb2-c966-48e7-9301-9d7c491e8eee,M54.5,Low Back Pain,Primary,2025-04-14 16:50:41.454085
+0b96341c-d8e1-4d88-86ec-902f1f211893,fdb8a84e-46c9-42c2-bd13-d333116a57f2,K21.9,GERD,Admitting,2025-04-05 08:33:27.576310
+09f9fdc5-decc-4f91-8c10-c896017d82e6,36192a44-70a1-4269-8764-19abba829e82,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-09-26 04:13:01.743462
+8e5e55bb-d91d-4012-91a7-c605f0f27df0,40416f55-0965-4fad-84b2-0080b77bb9d3,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2026-01-29 20:36:53.068921
+ee065a3f-42bf-47ba-95b7-c149e2ad0467,2e74312a-377b-4995-82e0-3a76180617a8,I50.9,"Heart Failure, Unspecified",Admitting,2025-07-02 11:32:12.071160
+26d92fae-de0d-48d8-bf6e-010f920bb9ce,c71d7515-f3bf-4743-b4f3-5c5363b050ed,I50.9,"Heart Failure, Unspecified",Admitting,2025-04-29 11:28:52.732575
+a3075181-ae0b-462d-a10b-5207724e642b,5efffbfe-99cf-4ad3-a246-865a17e92a10,I10,Essential Hypertension,Primary,2025-04-10 13:59:14.304147
+1727bd4b-c19d-4410-a6d0-cf3812875591,92ed0394-abde-4f4d-a31d-31568965d67a,M54.5,Low Back Pain,Primary,2025-06-11 07:21:54.841473
+e15cad23-e45f-4a02-be2d-c6fce59898a2,761fceaf-de86-43a4-99bd-e63561c1b155,J44.9,"COPD, Unspecified",Primary,2025-02-16 14:33:07.973617
+053ea1be-6a70-4851-abb0-20fa44c9dc44,b6aeccfc-8aff-4169-9c39-df1d5a306614,I10,Essential Hypertension,Secondary,2025-09-23 14:34:27.804853
+31ac7403-4504-4106-894c-6a3d2f0b28cd,c32aebf0-3fe9-4788-ab97-ecf5552bec19,I50.9,"Heart Failure, Unspecified",Secondary,2025-02-22 22:30:35.618328
+da84a425-03c7-4d89-9c58-0593b4422362,67e208a2-e09a-4346-ab80-ba0c94de6391,K21.9,GERD,Primary,2025-11-18 08:42:38.010144
+926cb013-927f-4ed5-879b-e26a49f88dc3,15d6a943-88ca-4161-b469-555524020183,K21.9,GERD,Primary,2026-01-19 17:20:45.760106
+281bce9e-1822-4c33-8f81-f5e0af1a75a6,48045a9d-a121-4b08-bb60-26c2b9b1952c,J18.9,"Pneumonia, Unspecified",Primary,2025-04-27 07:26:43.703749
+afb4f0f2-f57f-4725-9441-51334e7d14c9,a8f4cc25-99b7-4563-8925-4967e1e36c0f,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2026-01-22 16:03:26.529906
+13f2402c-6240-479e-905b-2887d869cae6,78cd3688-4abe-484d-b37d-81d832a58460,K21.9,GERD,Secondary,2025-11-25 08:49:49.669075
+00ed05e6-9b52-4e4f-8bb1-225ba5c25b1c,4a99de1d-00b5-413f-a71c-f97e7238627d,J44.9,"COPD, Unspecified",Secondary,2025-06-17 14:25:44.604610
+b50a141e-9c53-4390-88c2-b982afb6840c,1973c118-ae01-4ead-b653-a606afc1eb4c,M54.5,Low Back Pain,Admitting,2025-12-01 17:05:45.935474
+46c1a019-a1db-4fb5-94cc-506fd767475e,049078e1-32c8-426a-85e1-c92ea7a0a211,K21.9,GERD,Admitting,2025-04-09 08:48:13.334658
+1a123ce6-5129-47b0-b4ba-ef81541a7cfe,2fc71293-959b-49cc-acf8-d8f517171cac,I10,Essential Hypertension,Primary,2025-08-26 18:40:40.729731
+ebd6c497-2a9e-4e7b-8ede-dda848ca8121,d8047626-84f7-4729-82e5-90c239dc10b7,A41.9,"Sepsis, Unspecified",Primary,2025-03-29 15:51:46.010507
+6e308300-1368-4c8a-819e-ba4d1d3b827d,66f7077b-ed2d-4144-8b00-b7badaac4c80,I50.9,"Heart Failure, Unspecified",Primary,2025-10-23 16:15:15.703192
+27159d57-c8ef-476e-af96-b2b8e1a44361,c0fadc8d-045f-4bb2-9aeb-f8009c936cf9,J18.9,"Pneumonia, Unspecified",Admitting,2025-12-09 15:44:06.933716
+1ae64af7-cfd5-43d4-b462-63b1ff403b12,b5705763-1545-4d3d-a91d-7b08d7cc5df2,A41.9,"Sepsis, Unspecified",Primary,2025-09-18 13:49:28.052717
+0f5a3847-c4b2-46c7-9567-be82b0e79551,274f7f61-cb26-4b1c-9613-b03c4cf6013c,J44.9,"COPD, Unspecified",Admitting,2025-05-17 21:15:39.920188
+c8a526c5-b31e-4f0b-a845-a799a8ac3ba4,410654d3-760a-4a88-8e8b-b655675cf1ac,I50.9,"Heart Failure, Unspecified",Admitting,2026-01-28 01:56:21.118091
+196a570a-1b70-44ca-89e2-4fde773e8043,a9f318bb-a423-427e-8eb2-97d085ae2b33,I50.9,"Heart Failure, Unspecified",Admitting,2025-06-30 16:41:19.243862
+0f3e9851-8a69-406a-a76b-bbb516ea72b3,2b68e11f-4b79-4478-beb6-fa95341112e1,J44.9,"COPD, Unspecified",Primary,2026-01-23 20:38:50.169891
+c2df2de9-cde7-438d-a462-e6ad5fe2932a,20c73af4-944e-42bc-873e-cefcef9b5c3b,J44.9,"COPD, Unspecified",Secondary,2025-07-05 21:14:02.335855
+ee1305bd-76bc-445f-a95f-add2603c9af1,9fd2a5e1-2405-4d78-9725-8ad0dee8cd4b,A41.9,"Sepsis, Unspecified",Secondary,2025-07-25 16:10:20.798743
+64a579c2-3fb6-47a5-92e7-91930ad8658f,8376c8b2-32fb-4c2f-9c3a-159aa2d68f08,F32.9,Major Depressive Disorder,Secondary,2025-04-13 10:34:50.222725
+a972a388-3443-48b6-92d8-380e8262c761,45598cc0-8fec-4340-ae64-4ba82222a805,A41.9,"Sepsis, Unspecified",Admitting,2025-07-18 10:47:41.967913
+6a709d4d-995f-4a53-b186-c392bd16ef90,0e6ad68c-aa67-41fe-993a-f46a9e3a3abd,J44.9,"COPD, Unspecified",Admitting,2025-11-13 16:30:35.579411
+761ccbfa-4256-462d-a9e1-397f213d420e,603c4463-8d2d-47dc-be34-63c17b9cf3a4,A41.9,"Sepsis, Unspecified",Admitting,2025-10-13 11:41:59.262491
+faa7a8db-812e-4213-9f6f-65249ae24a9d,294ba4c1-f1cd-47a6-baa0-2dbcd2917882,A41.9,"Sepsis, Unspecified",Primary,2025-04-14 13:07:13.604998
+73e331e6-1623-40ab-9f7e-3cf9e4210c94,7c113523-62e8-4aef-abc6-000f30273024,F32.9,Major Depressive Disorder,Primary,2025-12-05 10:57:09.181080
+e9a462cc-48d2-46a7-8d1c-2b9710bb18dd,3dcfdbb4-3247-43ca-981d-a178f9672cae,E11.9,Type 2 Diabetes w/o complications,Secondary,2026-01-23 16:36:45.590937
+d2bae3cf-efc7-4bcc-bf3c-c754be0a6bea,100de1bd-8e41-4a19-a4cf-930c3f366c46,K21.9,GERD,Primary,2026-01-09 17:29:15.441991
+7585db0b-9f3f-4114-83bd-d0b977b403cf,8bc68295-341c-479d-97b5-5d02f11b380d,K21.9,GERD,Secondary,2025-03-20 21:03:28.206670
+d2df30e6-095d-411d-b627-bc1176015f96,11f249f3-459b-4efc-9a26-b7f7719962cf,M54.5,Low Back Pain,Secondary,2025-09-24 18:26:13.900054
+2f5879eb-8bbb-4630-a83a-d7b7b51c0dcf,2f870535-63c2-4ddd-9f70-34e1de7a7482,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-04-19 08:05:10.961883
+e2c8899c-30cc-4560-a48c-775e2821346e,fb47f801-5866-4dbb-bc19-e83ba372069d,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2026-02-11 06:30:50.039919
+bbe2efdc-ec2c-4be3-abfd-0992772e4cee,c2a3cb5e-d60e-4f93-8f78-23392b3e34f6,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-06-20 07:45:02.573258
+1e40496f-e44c-4a22-b618-13787510e499,493e47f5-15f9-402b-984a-9e36dbfbae9d,A41.9,"Sepsis, Unspecified",Primary,2025-04-15 07:41:11.505335
+946a1af4-093d-4bf8-b277-7621137c5ab4,1d097068-ce45-4832-90f8-3ca20173f3a3,I10,Essential Hypertension,Secondary,2025-08-04 08:29:22.101248
+63671ee0-054d-4bd8-92a1-3786666c7853,ae9fa45a-9cb6-448b-9aa0-f00a2ec19dfb,J44.9,"COPD, Unspecified",Secondary,2026-01-24 07:49:13.194030
+9ad2dfef-0cb6-413f-b353-085357697b54,e33fe9d8-3e9b-451f-a7c1-d0b4ebe13cb4,J18.9,"Pneumonia, Unspecified",Secondary,2026-01-13 12:29:44.612511
+0a300b26-0eb7-4922-84b3-368130de2c0e,9b64e2ed-4c53-41c3-989e-4509ed62bd59,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-05-29 01:08:12.141673
+7cf0f430-4fe1-4fd1-ad5d-34fd3f411b47,4b3e9fcf-97a7-4cfe-aece-958e9af8fb54,M54.5,Low Back Pain,Primary,2025-05-30 13:43:46.179201
+9e4874f2-c433-43c0-92cd-ec29b3da78d0,e33fe9d8-3e9b-451f-a7c1-d0b4ebe13cb4,F32.9,Major Depressive Disorder,Primary,2026-01-13 12:29:44.612511
+252979d4-0105-4583-8470-142ca986b232,21c78578-8e9b-4b45-bd0a-ec5199eb1afb,J44.9,"COPD, Unspecified",Primary,2025-11-18 16:50:23.114143
+c9a3c6fb-0c17-4ecb-8aec-4b4ccd77125c,5bb6393f-3fd3-43de-bcac-b0c39bd8d825,I10,Essential Hypertension,Secondary,2025-11-16 12:32:56.987813
+5095191b-67a7-48e0-b3f0-468004fc09ea,0e21c376-5da7-4476-bc10-73b64d9251b1,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-12-07 11:23:08.791700
+76ac520c-f5fa-4fa1-8d3d-754cca5f245d,1fa6cb6b-8ec5-4b03-a525-91ab582a0759,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-12-07 01:22:36.757349
+02eb1613-d986-4291-a1d8-258a503aff1e,3a304b08-0e33-413a-b269-fa282bd9e79e,F32.9,Major Depressive Disorder,Primary,2025-04-30 02:07:20.530034
+364708e4-d962-4a14-8323-f2b4b346e3b4,6383e77b-9e3b-4ce9-a31b-b428cfa29379,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-03-25 18:50:45.838835
+62b450c6-cb5c-45e8-a916-9b6423f2dd4f,905d3fe5-a1f5-4752-be31-eb8e0fa27fe6,M54.5,Low Back Pain,Admitting,2025-07-15 07:25:42.912296
+ded7b3e3-5216-4202-a447-f6343908c77c,ef1aa1dc-450e-4f79-8ff6-01db056a5e8b,I10,Essential Hypertension,Admitting,2025-07-29 08:52:02.435032
+e00c51bf-ebb7-4d91-9b84-0fa5d0206ea4,54892175-01f9-4844-b80e-4f92b3036d30,J44.9,"COPD, Unspecified",Secondary,2025-06-28 03:57:13.788895
+b866d2a8-f93f-4e64-a584-2512db8b2567,a122a6b0-668b-400b-8d62-778e9d3c8784,E11.9,Type 2 Diabetes w/o complications,Primary,2025-05-23 13:29:49.992234
+583db7d8-b219-435e-bd1d-740cfe0c4ece,0de35641-cd33-474b-9fb9-1b71441d1ab0,F32.9,Major Depressive Disorder,Primary,2025-03-23 08:16:35.442617
+20dba19f-a44b-42cc-8d5d-6a01f855388e,93182bf3-1c01-489f-9fe6-8b02f3315788,K21.9,GERD,Admitting,2026-02-10 16:42:00.998194
+740255cc-6b6a-4d71-b6d9-3dbdbb18b06b,67e208a2-e09a-4346-ab80-ba0c94de6391,K21.9,GERD,Primary,2025-11-18 08:42:38.010144
+5ef2ab10-96a4-4210-8875-28eb5bbd033c,9cf15e5d-3669-466b-98f7-b41a133d39f3,I10,Essential Hypertension,Primary,2025-07-11 00:36:59.018609
+fdbc7a65-4662-478e-9dd1-73f9a5d5871c,d48e5041-0927-4e4c-8c77-21781dba5141,M54.5,Low Back Pain,Admitting,2025-12-18 09:49:19.568517
+e3424078-1111-4127-b30d-6e9374a0d95d,7dae0521-9649-494c-a54d-635688ce96fc,J44.9,"COPD, Unspecified",Admitting,2025-05-16 14:12:55.979894
+911ef074-1dc7-41bf-9736-f45c452e6b57,6ecdb2a0-7159-40f2-a394-acfc84ec8f6b,A41.9,"Sepsis, Unspecified",Admitting,2025-08-11 21:33:17.277565
+4a894f58-9858-493b-abd0-294c97bab6dc,af2f6d73-2a16-45ca-9aa3-ec851f840ab2,F32.9,Major Depressive Disorder,Secondary,2025-06-05 13:35:51.762246
+a19f36c9-a545-4fe9-9a34-033e7c464e86,5246fa7b-af40-451e-8d38-581c9f4d7333,I50.9,"Heart Failure, Unspecified",Primary,2025-04-01 00:16:42.493424
+b0cec918-2618-4d3d-9b63-54a00507a01a,2c460c1d-d4df-4307-ba4a-9a5cd876a8d4,K21.9,GERD,Admitting,2025-08-27 13:10:23.630439
+c4f556b8-1fc9-4193-8e0d-704890bc880b,9b50fc0f-511d-4f7d-bab2-222248bf601d,M54.5,Low Back Pain,Primary,2025-10-30 10:20:49.403784
+b107a0f3-a504-48cc-aca4-52fd917ec0f8,c2320398-f7ae-4a23-bfb3-872254f684ef,A41.9,"Sepsis, Unspecified",Secondary,2025-08-17 12:04:00.048620
+3ac01d51-40c0-4bae-a1af-75e4a074290c,1973c118-ae01-4ead-b653-a606afc1eb4c,K21.9,GERD,Admitting,2025-12-01 17:05:45.935474
+8d071c2d-fc67-4ce1-8389-f6bf004867d3,4285073e-14cc-49b5-8543-3772acaadd32,A41.9,"Sepsis, Unspecified",Admitting,2025-12-13 19:02:00.789187
+e3f87392-7c81-4c22-9854-4ffe82fc9612,1fcbf399-84ac-4e4f-b4d6-54dde3217ddc,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-06-10 10:24:19.690014
+e027d9bd-e091-476c-bec9-af26a4b50283,b138791f-87ef-4e00-8c35-7c2f01606df4,E11.9,Type 2 Diabetes w/o complications,Primary,2025-10-15 11:08:37.400531
+7d7b1290-62b4-4779-afa6-5c1b05e4d5c2,6ecdb2a0-7159-40f2-a394-acfc84ec8f6b,E11.9,Type 2 Diabetes w/o complications,Primary,2025-08-11 21:33:17.277565
+fa3e0488-52a5-4698-a04c-ce980ed6c9ba,e41ec3fe-ea09-4549-8ec6-948319707b93,A41.9,"Sepsis, Unspecified",Secondary,2025-11-05 19:35:57.106415
+ebaa03e2-ff7d-48e2-ab16-6faa338cea12,2e74312a-377b-4995-82e0-3a76180617a8,J44.9,"COPD, Unspecified",Admitting,2025-07-02 11:32:12.071160
+98a03aaa-0cf2-4828-a64e-866b1d93c642,8cfcead3-73ee-4d98-a720-7377c1ce5108,F32.9,Major Depressive Disorder,Primary,2025-05-30 00:57:26.270467
+4a352ea8-fae9-4aaa-bfd1-f307fde5ea15,5efa6be3-25aa-41e8-b4d5-29cb7223886a,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-06-30 15:36:33.337836
+5b5684ac-4702-454a-89c5-a47bb7dc0301,a4c35a16-1eca-4c5a-8a80-4d57d23f5030,J18.9,"Pneumonia, Unspecified",Primary,2025-05-21 06:47:25.102249
+3f527758-5222-4f4b-a2bb-3eff3450a431,9550f3fa-21bd-44c8-831b-0b065802889f,J44.9,"COPD, Unspecified",Secondary,2026-02-11 09:59:33.179074
+d626d765-e773-4832-ab57-5ac6af61775b,b519249a-b788-4087-a216-8c3073997422,E11.9,Type 2 Diabetes w/o complications,Primary,2025-10-28 22:01:44.661523
+67b32ca5-5a73-486d-be13-d0c70bb2d730,23b8f6ff-d6aa-4370-83df-552789f70535,J44.9,"COPD, Unspecified",Admitting,2025-08-16 12:59:48.219692
+57f42839-c806-4076-b0a2-8cd2bddef914,dc8b8b22-9a5b-4653-891d-ec65c79c7610,M54.5,Low Back Pain,Primary,2025-03-17 03:42:17.464529
+9124a26d-593f-4ca1-9295-ecccea2fb8fa,52f94028-0db2-4446-a8f9-9a0e3bcff685,F32.9,Major Depressive Disorder,Primary,2025-02-18 03:35:41.754562
+e74e353a-4369-43ae-a652-1198b568fed1,85ba82bc-c816-4831-a69b-81a6c427a5f8,F32.9,Major Depressive Disorder,Admitting,2025-06-19 13:26:45.722772
+8dd132a0-5f5d-40bd-a569-59c9aadd2394,1badc647-1438-4e01-ab21-36fe98356710,A41.9,"Sepsis, Unspecified",Secondary,2025-11-22 09:45:00.920604
+57bfbc26-4687-45bb-bae5-ab322176473c,01a5137b-a757-4dd0-ab15-9ea250345043,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-10-12 12:41:58.465582
+0d440b51-9aa9-46d0-b900-45565e1d4f76,0d50816e-816f-4832-9242-2c138579db78,I50.9,"Heart Failure, Unspecified",Primary,2025-12-04 00:18:21.317764
+6e551463-17e3-4009-bdf4-82a2aa10e9c0,4e3b9976-3233-4ee7-be05-a0b91e60b686,J18.9,"Pneumonia, Unspecified",Secondary,2025-08-20 05:30:19.993396
+e21e4829-20e1-4a48-a301-a96a321047db,8d29b2f3-3a82-4965-aafb-cf518b567cb2,I10,Essential Hypertension,Admitting,2025-12-29 00:21:46.003524
+22ef254b-5bf4-406f-95e5-75a2359f9f90,edc2ceb8-55ee-411a-8a1e-172271436fee,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-12-03 10:18:12.854823
+25206bd0-de40-436f-8f1a-de0fa468002a,9e50ad42-255f-4fd8-b65b-457fc68a1997,J44.9,"COPD, Unspecified",Admitting,2025-07-25 03:36:46.492990
+6dab5bc8-6ff6-4212-a1b0-a95d3e678052,3de3a762-0b99-4b38-b1f3-76086da74a4b,A41.9,"Sepsis, Unspecified",Admitting,2025-02-19 13:12:41.804811
+9a428ad9-22a6-4232-acbc-67ed3482eafd,0c3daa0c-d6f0-4650-b1e6-e72e13a06f93,K21.9,GERD,Secondary,2025-06-02 19:34:42.030796
+960c5045-a103-46c0-a49c-e1b905049c8b,7174263a-472d-4bcf-a483-9eb699c11f2f,A41.9,"Sepsis, Unspecified",Admitting,2025-09-11 11:09:36.698812
+42cc224e-2372-45ef-8fd7-1a3de6eba0ff,eecc8ff1-6600-4c6f-88f7-33b842247a55,I50.9,"Heart Failure, Unspecified",Secondary,2026-02-12 03:34:00.217815
+1d862d09-b05a-403a-a4ef-372aeff0b6f0,630d9cfd-4cd0-4a3d-b576-74782c258ca9,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-06-09 10:12:47.947877
+1d5f0dab-1faa-40d8-9081-3d011429a0f0,cbb7c536-865c-43be-a02d-d16586f3b5cd,I50.9,"Heart Failure, Unspecified",Primary,2025-04-25 22:48:27.974728
+055e0642-92cd-430d-820e-0e32ac18d19b,7c113523-62e8-4aef-abc6-000f30273024,I50.9,"Heart Failure, Unspecified",Admitting,2025-12-05 10:57:09.181080
+093559f3-f643-45af-a76f-318c47effd42,c4cb5607-a840-4307-80cd-2eb24f503c7f,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-10-03 19:11:47.187326
+449fe12f-242e-4019-8191-b7e4fc65d5d7,54534c3d-b30e-4426-9861-90e27e43d6bd,F32.9,Major Depressive Disorder,Secondary,2025-10-19 20:25:40.946342
+f82ecdc5-f2c3-4e4e-bc7b-8d4c32305374,12681054-ffb4-442a-96f2-546bf4924aae,F32.9,Major Depressive Disorder,Primary,2025-04-22 08:40:28.068169
+6e17b3bc-fbfc-467a-9692-9e8d754850bb,4269d22c-5177-4850-b74e-714b68f8d96a,K21.9,GERD,Admitting,2025-10-25 13:53:26.913703
+5e397553-2d8c-4d19-9a5f-3c26436e8988,c32aebf0-3fe9-4788-ab97-ecf5552bec19,F32.9,Major Depressive Disorder,Secondary,2025-02-22 22:30:35.618328
+58c073d8-1309-4f3a-a432-386ebaec4e69,ae9fa45a-9cb6-448b-9aa0-f00a2ec19dfb,A41.9,"Sepsis, Unspecified",Secondary,2026-01-24 07:49:13.194030
+fb25203d-0906-4c9f-9ac9-9f2abf4c6168,b3fbbc93-8511-4d26-9968-a5fb999abf88,J44.9,"COPD, Unspecified",Secondary,2025-11-07 01:06:36.516294
+f91f7f8c-aa1f-4773-8e9f-9ec4870bbaa8,30b2df3c-b92d-43ff-a868-7b66ceafc694,F32.9,Major Depressive Disorder,Secondary,2025-04-17 10:48:59.322160
+647a79c5-8676-4eed-8d85-dd5c449fdc9f,8be49ca4-525f-47e9-a9ee-3cd7eb574cd3,K21.9,GERD,Admitting,2025-03-18 17:44:36.003280
+61af7441-94e7-49f8-bb62-e3a285ddd2e9,4c65777c-c5ca-48ad-a787-cbf5f9b520d0,K21.9,GERD,Primary,2026-01-26 00:29:57.867611
+8158cef3-7622-48b6-8578-c6d01431c2d4,6b0deb42-5ea9-44ea-b6b1-18e3a9a190a6,J18.9,"Pneumonia, Unspecified",Admitting,2025-03-29 02:44:01.164940
+2589959c-c55f-49d8-a660-3bc6c8efcba0,a9455e98-8b72-4c91-ade1-405fa928e1dc,E11.9,Type 2 Diabetes w/o complications,Primary,2025-09-02 13:46:26.714471
+bd9fe0d7-5d5f-432d-9704-bc93a89b2781,4e56650a-054e-4e2c-b036-8c9bb2490a25,E11.9,Type 2 Diabetes w/o complications,Primary,2026-01-10 09:30:36.902450
+c61821b5-e3dc-4492-813c-d1915c21e394,6b9c33f2-8f76-4d91-bc92-59b4abec9b1d,A41.9,"Sepsis, Unspecified",Secondary,2025-02-24 00:31:13.780531
+6b7963be-7497-426e-ac27-329aa63af2ba,251a5232-5a76-458d-969c-3ca410fa286a,J18.9,"Pneumonia, Unspecified",Secondary,2025-06-17 09:51:39.242079
+109eb2b4-0e4f-4f8b-980e-ac794388eb41,2e033708-0ddb-4d5b-8e85-7eccc70ceee6,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-02-20 18:38:56.102565
+43b7f798-2fee-4aa7-88f5-f32bcc1fc4fd,d8f34c32-019e-4afc-aec4-29008d67a3ca,F32.9,Major Depressive Disorder,Primary,2025-09-20 00:59:50.288183
+b312148a-4254-43bd-ac69-82adb9b64332,ce296f42-4e01-415b-bc7f-69ee958e8a2b,I10,Essential Hypertension,Secondary,2025-10-26 11:10:13.133242
+8091b0c4-3bab-451a-843a-c8cb7f43dd69,f2d1d6ac-2535-4a87-bcab-786a2feded1d,I10,Essential Hypertension,Secondary,2025-07-24 12:05:07.396877
+7f3cadf4-c69b-40af-82cf-ab388a938422,251a5232-5a76-458d-969c-3ca410fa286a,K21.9,GERD,Admitting,2025-06-17 09:51:39.242079
+78eddbce-924a-46b8-babd-55760757b65f,1d4328a4-6d43-402b-bc76-95a50b7b6403,J18.9,"Pneumonia, Unspecified",Admitting,2025-09-23 09:36:05.360721
+78c3d482-2310-4b7c-aadf-4682e7543a01,d9265fda-c683-4a02-9df2-8f51f8cf8032,J18.9,"Pneumonia, Unspecified",Admitting,2025-06-10 18:15:09.060094
+9c940c4f-de30-4b76-a37b-977a17474661,ebbba702-d5df-4a75-b835-7304d26691c6,I50.9,"Heart Failure, Unspecified",Secondary,2025-08-15 22:20:52.702714
+4193a23d-4e25-47fe-9917-a46d2cb43bd8,4d0f6972-60e1-455e-a253-8f9e5bee1b60,M54.5,Low Back Pain,Secondary,2025-04-16 03:02:37.720603
+86f7e808-dca1-4c66-ae97-294e1ed7fe0f,cfba5b32-c03a-4838-aacf-1b416e83a938,I50.9,"Heart Failure, Unspecified",Secondary,2025-06-18 23:50:24.648913
+9ee08e95-9880-4627-a206-baa99fe9422d,64af3efd-c93e-471c-b131-aed1632b6fc8,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2026-01-06 14:41:42.054027
+5f5fa838-12c1-4d77-b03a-bb512a3dbbc7,f3668345-09c9-4d47-94a5-a492b7fcca9c,M54.5,Low Back Pain,Secondary,2026-01-30 20:17:11.330488
+2501c11e-127a-46a0-8668-7d07345dc546,457371e8-b163-4f31-9b80-d400f76cc96e,J44.9,"COPD, Unspecified",Secondary,2025-10-03 19:05:49.153840
+b957d78c-9fec-4e6c-9063-ec74f3e6c79f,a4147ad9-9ac6-476f-8cd3-ca1e8a612a59,J44.9,"COPD, Unspecified",Admitting,2025-03-11 15:58:39.879877
+d759940c-79ad-4e98-b19f-fcdcfc6705f7,e33aa5ad-ab2e-4252-89d2-e63b3e9ce6eb,E11.9,Type 2 Diabetes w/o complications,Primary,2025-05-21 15:07:01.205138
+7e7ef1d1-691d-4cd7-8327-1bfa35195652,6b0deb42-5ea9-44ea-b6b1-18e3a9a190a6,M54.5,Low Back Pain,Admitting,2025-03-29 02:44:01.164940
+0042442d-330d-4101-9918-1e96b85fda01,8ef09541-fb3d-4d9a-8566-24ebdc54e952,E11.9,Type 2 Diabetes w/o complications,Primary,2026-01-26 11:26:50.945986
+57233cf1-d7f9-4cea-b71b-e6f9944c1047,128cf3df-effd-44aa-b92e-c51e264cdfde,M54.5,Low Back Pain,Admitting,2025-06-10 15:35:10.316992
+10fa1b17-9bdc-4c06-b086-4a1204ca3972,a922e143-3b92-4235-85f4-53feff87c9ce,M54.5,Low Back Pain,Primary,2025-08-26 01:40:06.836424
+1d648770-28ec-4295-8257-eee032bd3870,cc9bfba5-bf79-4d1b-85ad-3f6f486fd70e,F32.9,Major Depressive Disorder,Secondary,2025-06-12 18:59:30.484169
+9e7675ca-6fd2-4708-b738-689e024bf7b0,ad24c8ef-779f-4bda-9b86-11a73a77ec00,J18.9,"Pneumonia, Unspecified",Primary,2025-10-21 09:49:23.526827
+72dea869-918f-47db-92e9-d52e296569a9,ec7c6fb4-ef3c-48e4-a2bb-c86d16030abf,M54.5,Low Back Pain,Admitting,2025-11-26 00:39:17.781714
+712f8572-414a-46da-bfb7-3fb3d2fd46de,05890293-2f2c-4b58-b1f6-d30effd08d02,M54.5,Low Back Pain,Secondary,2025-11-16 11:02:03.496156
+4aa35a08-3fb8-4aa0-89e3-3f1277d3842c,869f1d2c-459d-4af5-9137-7d3a048b96ce,J44.9,"COPD, Unspecified",Primary,2025-06-02 09:55:55.575290
+03fef52c-fb24-4e14-a93f-e260ddee191b,f5466436-c167-48ad-a015-af8b194e86f3,K21.9,GERD,Admitting,2025-09-09 01:33:15.343543
+9a65fe2a-ca58-420d-9f65-0a1d67aaca5a,00bf4f4b-807e-4a82-afdf-aa2d824240d7,J18.9,"Pneumonia, Unspecified",Secondary,2025-07-10 09:17:38.454026
+cad69e32-abb8-4979-8394-012b553b949c,c71d7515-f3bf-4743-b4f3-5c5363b050ed,I50.9,"Heart Failure, Unspecified",Secondary,2025-04-29 11:28:52.732575
+49370dd8-f444-47b2-9a4e-f1a473748d00,cd5c1858-6b08-40bc-a0b7-5f5bad21da63,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-04-09 23:10:21.690636
+dba0bda4-557f-4594-9406-e287021d433e,877ee12c-d878-4984-b6c2-e8370ce34bb2,K21.9,GERD,Secondary,2025-09-17 19:01:22.675256
+0dd79e03-6da1-4550-b8ff-6fcf3573d1a2,6e2ecb9a-12d9-46c6-b264-f2c6825c0855,K21.9,GERD,Primary,2026-01-26 01:02:33.082750
+4eae44be-380b-4810-9e6d-6b49b3225009,2f529c44-c854-4dfa-a684-9d308b8b8755,M54.5,Low Back Pain,Admitting,2025-08-15 19:49:08.503667
+a44c6930-820a-4210-b7ac-c889905af5bf,f5d10559-1216-48b2-9e10-5d3b89bdfcbc,F32.9,Major Depressive Disorder,Admitting,2026-01-05 23:21:32.873946
+70af6865-1c19-488e-80da-ea3037988d97,dfc76270-dbc9-4ae1-92aa-a0743abfe95c,J44.9,"COPD, Unspecified",Admitting,2025-02-22 16:22:14.930828
+f33da1f1-8a08-4948-8abd-045b63eb5768,ed5fe913-08f3-4268-b655-3daf0a402392,K21.9,GERD,Admitting,2025-05-28 10:51:37.355554
+490c03a5-80be-471b-9c58-eba7cb022449,8c4a0b92-1de9-4a6e-86b6-62f6ab3917a5,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-05-17 04:04:28.161538
+4e6f2fb4-a21a-4110-ba4e-8bd82bf68c5a,e3a20bda-afc1-4b5b-9d9c-b9cf7d060367,J18.9,"Pneumonia, Unspecified",Admitting,2025-09-12 00:07:55.129829
+4fdc9521-93c9-41a2-a141-704c6946d206,47d31721-e189-4a2d-b60f-0ecf981a02de,I50.9,"Heart Failure, Unspecified",Secondary,2025-05-08 09:26:13.948724
+59da762e-3c82-4e53-9ca4-be6b9e1dd4a0,64f3c2c9-e9e4-4acb-be67-7b5fe3b1af33,I50.9,"Heart Failure, Unspecified",Admitting,2025-08-29 06:16:37.018128
+25502310-c52a-4829-a756-5cbb130e8fca,45783117-13be-4417-abef-eb405a9bbfdf,K21.9,GERD,Admitting,2025-02-16 15:07:55.182657
+6cadf224-732f-4d77-a815-020450f1b2e3,fac4b97b-733a-4bc5-80a4-8dd61487f6a2,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-04-08 05:49:55.828579
+643a4eac-8f09-4404-849e-6f6e008e8ce2,457da703-7f4c-4e91-8ea4-b13899208599,J44.9,"COPD, Unspecified",Admitting,2025-05-01 07:51:57.219864
+6d09fadc-faad-4bf5-ad7f-9c1494ddec53,0353001f-19c9-401c-b7d4-f35085dcb4f0,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-03-04 19:00:32.895003
+cac0cb3c-8064-4960-a7ea-97e3c56a377e,4f0dcb1d-e87a-45da-89ea-7189c97f3d86,J18.9,"Pneumonia, Unspecified",Admitting,2025-05-24 18:56:20.998665
+a2fe63c2-92c6-4280-9feb-8af8bd895b48,45d35596-e35d-4051-9abf-f12923045f81,F32.9,Major Depressive Disorder,Primary,2025-04-14 02:55:42.892933
+6404bfd3-b06f-47d7-8ca3-87784346316d,eb62f78f-e680-444a-9c74-616e3d775c6b,M54.5,Low Back Pain,Secondary,2025-05-28 09:36:52.431732
+2c8910c0-8944-40b8-94a0-15ab7010d10c,3afa7bb7-caf0-436a-a2c2-03745e9b7b6d,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-10-09 13:07:26.100684
+b2215647-69b3-4804-9515-c16f9fecc26d,f55bce71-66af-49c0-84fc-f3e04ca1e56a,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-08-01 18:14:47.502755
+c85f17fa-b1d8-484a-9103-ce01bceaabfe,405d0e11-23ee-4071-a7b3-cee0b0255acd,I50.9,"Heart Failure, Unspecified",Admitting,2026-01-07 04:09:50.265465
+06f3e207-6f73-4b15-b918-3c496d85fb2a,360e6f7b-a4e6-4f33-a34b-ad92f06228d9,J44.9,"COPD, Unspecified",Primary,2025-11-02 00:10:14.525580
+058535e1-a708-48b8-8ce5-9466ba100690,40416f55-0965-4fad-84b2-0080b77bb9d3,K21.9,GERD,Primary,2026-01-29 20:36:53.068921
+2f0ee19b-4f37-4ccc-a3d8-362dcba0e839,4e56650a-054e-4e2c-b036-8c9bb2490a25,F32.9,Major Depressive Disorder,Secondary,2026-01-10 09:30:36.902450
+d993d020-802b-4e28-aa16-dc687f4da6cf,4cdf7642-71cd-46ae-b86c-b6b40614a0f7,I50.9,"Heart Failure, Unspecified",Secondary,2025-09-07 18:44:35.150585
+1c64f470-4d16-4e1a-af1f-a08038b19a28,f0f3e196-d564-4be4-9872-acfcb00dac0a,A41.9,"Sepsis, Unspecified",Secondary,2025-05-24 12:10:11.900428
+beb13fe0-e732-4ab6-b3f2-03a7d8c6530d,ed1eb982-b3ea-41ab-8d77-06e428c2192a,K21.9,GERD,Secondary,2025-04-22 10:19:29.006668
+ea1e0339-bd6d-42e4-a70f-6505ac369cbb,7511a76a-c38d-4545-91d0-6ffb923a736f,J44.9,"COPD, Unspecified",Admitting,2025-02-22 19:25:54.837699
+24e4e83b-6b83-4976-88a2-f7636127834b,3cee3527-4225-4c15-b0d0-5c6b5769091b,F32.9,Major Depressive Disorder,Admitting,2025-09-27 16:54:17.543798
+4f62a522-a1e7-462c-86cd-ff51d05e3d52,df64d02e-5941-42c5-a782-0c354d6aa443,I10,Essential Hypertension,Secondary,2025-06-28 07:51:26.862327
+a43b9354-fc21-4f84-8fde-c74b1e1f6f4b,3a2d94e4-d01e-4bee-b267-9e788e50b366,K21.9,GERD,Primary,2025-03-28 07:47:37.512381
+af1754b6-0a53-4441-9d48-2501f43cbc8e,f64ca0cc-3774-4f24-baa6-13cf56402393,J44.9,"COPD, Unspecified",Secondary,2025-02-28 00:16:35.363526
+0d2734fc-8e48-41c1-a6c7-5d7f755716a4,b9dd8c95-34af-497a-83f2-9e83bd000c8d,A41.9,"Sepsis, Unspecified",Admitting,2025-12-16 15:52:07.854047
+fe05e7eb-fa59-4e77-a917-621f3b277cdc,c0141a07-7f8f-4d81-b637-c32e37022b9b,J18.9,"Pneumonia, Unspecified",Secondary,2025-05-13 06:21:18.431536
+558199ee-d4e7-49d0-998a-52dab993bcda,a4c35a16-1eca-4c5a-8a80-4d57d23f5030,A41.9,"Sepsis, Unspecified",Admitting,2025-05-21 06:47:25.102249
+e5ba482f-3e8b-4d5a-8395-993b8e443feb,0c14b817-d01f-4a19-904d-d9756c0b13b2,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-11-08 16:13:54.881361
+de0d974c-156d-436f-9967-2b1107f8d3c3,807d847e-b4c4-4bfa-8593-81c75dbf3890,J18.9,"Pneumonia, Unspecified",Primary,2025-10-31 08:58:22.947754
+7257dc1d-78e5-4f4f-adc1-b1a38352f36d,273257dc-1f98-4274-8218-e2c6afb19c11,J18.9,"Pneumonia, Unspecified",Secondary,2025-10-21 20:07:49.585065
+e0f32bf4-ab94-495d-b0da-b50798e59ccd,54ec5d21-3f4b-4ebb-897b-c996674417ad,J18.9,"Pneumonia, Unspecified",Admitting,2025-08-12 06:33:54.898180
+9cd3d12d-aacc-47fe-9104-d631a975ed7d,9264023e-035a-4eab-89dd-505658c514c7,A41.9,"Sepsis, Unspecified",Admitting,2025-03-05 16:56:47.752043
+a8423b4c-2f0a-4fdd-b27a-72c8206e73de,b275043e-5a42-48ca-906f-dac96d578c1d,E11.9,Type 2 Diabetes w/o complications,Admitting,2026-02-11 17:48:49.596342
+87e1caa6-0c49-4d27-886c-b3d32b6924a5,2c460c1d-d4df-4307-ba4a-9a5cd876a8d4,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-08-27 13:10:23.630439
+82dcfc50-36dc-4e24-8abb-762764359312,86c40d54-e06c-4444-a45c-c775a814d00d,J44.9,"COPD, Unspecified",Primary,2025-06-27 14:46:29.257732
+ee0643f5-f780-4e8b-96a8-58417ff1f2d2,550eec36-273e-490c-88fb-312f090d7d8d,J44.9,"COPD, Unspecified",Primary,2026-01-12 21:44:35.128116
+a1665eaa-cdfd-48d5-a1f4-6d0055d68842,fbd33fe9-fbc8-4ce0-bce9-93a65201eee0,I50.9,"Heart Failure, Unspecified",Secondary,2025-03-16 14:03:57.697455
+d788ebbf-d97d-49ca-bfac-de285942a0bd,5e81a23c-33a3-414e-9f02-459be72df757,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-10-08 16:57:10.625401
+2a8221c8-10fb-4731-b0ee-6a9f99a41a10,700e5e7d-f01f-4709-8f22-c17e1265d6cd,A41.9,"Sepsis, Unspecified",Secondary,2026-01-23 07:27:46.572237
+c1d087c1-8d07-47c1-a0cd-fd3da50058b2,15a2a88e-2035-47eb-a207-29cd03f9fb1b,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-04-27 02:19:59.672241
+cc8b5902-bc7a-45a1-ae72-2ee26595a1ab,1bda96a6-a0e4-4acd-898e-b5c29b82d62a,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2026-02-04 23:46:29.178219
+96993ff8-63b9-49e4-865a-a0370f57805d,286eb931-47b9-4a5f-ab5e-e83617031701,I10,Essential Hypertension,Admitting,2025-02-25 15:21:54.456955
+d52ee645-a8bb-4a2a-85c4-106d059a98f1,c428f0b7-f139-42b3-9579-c737b29a6cbe,K21.9,GERD,Primary,2025-12-24 17:58:38.539104
+7383bdcf-8e29-4843-abe8-14f0744b24bb,eec0b268-d1b2-4efb-8dde-4743d7091af1,F32.9,Major Depressive Disorder,Primary,2025-04-03 20:33:50.308779
+53be8666-bd8c-4943-a1df-6e0412fca3b9,e073f35d-9b80-47c1-9fee-6bf3b001d225,I50.9,"Heart Failure, Unspecified",Admitting,2025-06-07 12:56:14.267390
+250817c3-e6c1-418f-8300-12d34e7d4fa8,abd52d8e-6273-4227-a3bf-4a35ff1afd67,J44.9,"COPD, Unspecified",Admitting,2025-10-23 19:18:45.526999
+b43d9733-59ae-4595-beda-fda38e935cd5,5a51cc05-3c29-46ef-81b5-7847136c4005,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-11-30 05:06:15.185041
+4ee58e9b-f120-43a4-b5a5-889e285296cd,536143d0-fd07-41f5-930b-0118da8f1537,J44.9,"COPD, Unspecified",Admitting,2025-11-12 06:01:32.280530
+3ffb4462-38ca-4f31-8aaf-4dc4b21adb21,a97ea2b0-b931-43ab-9ed2-80d56faf7dda,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-03-02 05:15:52.397739
+b4e6d1aa-a55e-469e-a5e0-287d069a6065,f383b3ff-c3b9-466b-b082-fef88a15173e,M54.5,Low Back Pain,Primary,2025-12-05 04:12:51.224017
+f40464b4-26a8-4640-b0ff-784cab427663,b0673c19-aa52-464f-a314-40c481ec27f4,K21.9,GERD,Secondary,2025-06-01 09:04:43.355580
+f7d9cd86-f848-4640-bd84-6341824bacb1,d612f677-6d67-4dd1-9f2e-0aab45dee614,I50.9,"Heart Failure, Unspecified",Admitting,2026-01-10 22:14:34.099869
+e3b10b0b-0646-461e-b082-0078fd129537,2dca9eaf-4961-4466-b119-53e5160feb0d,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-10-11 08:45:47.929614
+8656b599-8cc4-4b8f-8342-8c7fb04312b4,09556b6f-32e5-441f-92b9-e588f900653e,J44.9,"COPD, Unspecified",Primary,2025-08-06 07:04:56.450650
+b5c77f3b-eb73-4e90-802c-ed93ea45cbf4,ef57103c-35d0-47b6-b001-aaeabd7bdf7d,F32.9,Major Depressive Disorder,Primary,2025-02-24 03:04:02.777681
+d43305b4-05df-45f3-856e-9baf196b48e6,08a8dafb-39b4-4f71-b9af-0a756b018ddc,I50.9,"Heart Failure, Unspecified",Admitting,2025-02-18 02:47:22.185812
+97e5c86f-2299-40c7-a0cb-3b054152cf37,22579674-77ef-4b72-b277-a34ada27f2a5,A41.9,"Sepsis, Unspecified",Admitting,2025-04-30 02:03:34.508728
+09d21c6f-f125-4b6b-b999-aa6f27dbea60,c2c64e48-526d-485a-ae9a-0237301db458,I50.9,"Heart Failure, Unspecified",Secondary,2025-06-15 09:14:44.542070
+041be337-7708-4507-9b0f-a68fb1c8cdcd,f55b9895-d07b-4b78-b467-2bb43590896c,M54.5,Low Back Pain,Secondary,2025-07-12 23:15:18.554334
+614e7792-1c4d-4f0d-b6f0-5bb33c0d9230,2b26719f-c93b-4ab3-852e-1606d594cfe1,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-08-08 03:34:13.501945
+c810e02b-c85d-4dce-b13a-9fb8d8da5bcd,b0760e72-4aaf-4eb2-b75e-e262f40ac7e6,A41.9,"Sepsis, Unspecified",Secondary,2025-10-01 17:41:46.799902
+09bc7035-eaf0-4177-a607-27db6185385d,78cd3688-4abe-484d-b37d-81d832a58460,K21.9,GERD,Secondary,2025-11-25 08:49:49.669075
+25693482-faa3-4ffd-ad40-edde1a7b3078,9fb34731-9d86-4b9b-a54b-b0c9cc404a39,M54.5,Low Back Pain,Secondary,2025-10-01 02:57:41.606591
+148cd0e8-3997-423e-99a9-d682206314b3,e387e0bc-af3d-4a07-bd28-75b11ad5f75b,E11.9,Type 2 Diabetes w/o complications,Primary,2025-12-17 16:33:54.605131
+025a0577-508f-49ce-aefb-cdaeaa8daa7c,9ece1237-e481-4310-883c-9a415041b28f,J44.9,"COPD, Unspecified",Primary,2025-08-29 17:47:53.655147
+68a38208-455e-4d78-9140-d8cf66eee90a,877ee12c-d878-4984-b6c2-e8370ce34bb2,M54.5,Low Back Pain,Admitting,2025-09-17 19:01:22.675256
+1eb64d80-b499-4e5e-9cfe-78bb12ecf275,89d72dac-9d39-4fda-a9f7-1d00962fa2f6,K21.9,GERD,Secondary,2025-05-25 21:43:17.148108
+eef63f07-3af9-45b1-83dc-c90796299223,0f424587-8035-41fc-b53a-b2d9d9d17fc2,A41.9,"Sepsis, Unspecified",Primary,2025-12-18 10:59:52.212155
+7e979352-03a1-4fee-bc89-5921e0cd3f31,7388d94d-dad4-4ae9-9323-365c82e4b668,F32.9,Major Depressive Disorder,Primary,2025-06-06 00:09:13.731415
+9a9df825-9abc-4b80-8767-25d2d16237c6,99bed708-f06c-44bc-b5c0-6562662859a9,I10,Essential Hypertension,Admitting,2025-09-11 06:05:00.216691
+ce34a10e-9b4b-4ba9-8e70-add95bcc1776,9b50fc0f-511d-4f7d-bab2-222248bf601d,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-10-30 10:20:49.403784
+34737f95-b886-4f9a-a797-b65f8bb44def,e4eb30db-169d-41db-a621-1404d153af9f,J18.9,"Pneumonia, Unspecified",Secondary,2025-06-14 19:08:58.764002
+81812259-c509-408a-847f-ddef4c64102e,3141b921-fe67-4b5b-accb-4b7e227fd6fd,K21.9,GERD,Secondary,2026-01-22 15:14:10.035711
+99fcdb94-cda3-4985-8af4-45cd1cde9b4b,2b044369-2a89-47c0-bb9f-a68ac71da7d7,M54.5,Low Back Pain,Secondary,2025-11-12 02:07:19.271403
+b3e4b7d2-ee10-480f-8211-49e58e9b004b,6f7bab65-d081-4311-9526-3d5f9d780461,M54.5,Low Back Pain,Secondary,2025-03-23 01:01:42.750812
+4e3c312f-2e5c-4129-aae7-312ec88d6a0d,bd112794-f226-428a-8b71-593e520ffdcb,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-06-06 19:09:07.185729
+cdd743cf-9ecb-40e0-96fd-9e60df9c4050,bf8ea649-4ad5-4982-9804-322d64c586c9,A41.9,"Sepsis, Unspecified",Primary,2025-04-18 16:40:17.857943
+187ce55a-cf2c-4349-a27d-75647fdacdff,110a73af-5270-401b-ae78-ddcceacaad6a,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-07-07 02:47:41.593848
+274c1d11-8e85-42b1-97d7-b44b042371ae,d1e911cd-0113-42fb-bf9c-4bfa69ba2d28,I10,Essential Hypertension,Primary,2025-07-30 14:35:26.664507
+55de12a9-5389-42de-afca-2f215ca8064c,9e49b2cb-0187-4afa-b446-826572569419,I10,Essential Hypertension,Primary,2025-08-10 08:28:00.828195
+a5065858-c46a-4a43-b9ca-1a48933da0c3,79dad1e9-9f7a-4b4a-8aaf-d536bbfeda1b,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-04-26 02:23:57.118264
+c716e18f-846d-4fb1-8960-ea236b163454,2168f4c2-9572-49f0-b476-27ebab0b4c1c,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-09-10 16:57:53.436116
+331a929f-e115-4e40-8b0e-deed1e7f9ccc,c20db291-00bf-4b13-b930-c12ab61cc201,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-06-23 06:22:08.165882
+9e7e2d58-aa88-4575-aff2-091b9893984a,6ecdb2a0-7159-40f2-a394-acfc84ec8f6b,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-08-11 21:33:17.277565
+62a5bb4e-63eb-433b-9071-dc2352b8a285,f64ca0cc-3774-4f24-baa6-13cf56402393,J44.9,"COPD, Unspecified",Admitting,2025-02-28 00:16:35.363526
+c47dde9c-0ec2-4be3-80e5-b2b3e0f183ba,ee56d35e-3853-46cc-bc78-9025487d6468,F32.9,Major Depressive Disorder,Primary,2025-03-27 00:29:03.344304
+5a2d619d-47eb-40f8-9da2-1972db44ec6b,26355ee4-0133-4b28-a1bc-05bb49fb1159,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-06-13 21:49:15.591758
+dbc931aa-4119-46d4-a580-bce410fc4ec3,c0d154e5-b6c1-4499-8dd0-e93e73e06134,M54.5,Low Back Pain,Admitting,2025-08-01 23:40:08.466349
+74c603c1-8f2e-4b24-a9a8-a4ce1b813d6e,805916ab-d284-4f42-96db-07e94de8b92b,K21.9,GERD,Admitting,2025-06-21 13:18:27.622996
+3362c667-1969-4a0f-9a8b-afbda5646aa9,9324d0cd-776b-4efc-af29-790086eaeffa,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-08-18 01:37:38.015110
+8225c78e-614d-408b-a83d-0cb6368e2f9a,61348d66-731c-482d-b8b5-41977c8588fa,I10,Essential Hypertension,Secondary,2025-09-09 22:42:47.594222
+372029ed-fd09-4dd5-a433-a57ec4ed9f5c,cc725622-98ca-4024-b19c-f5266005506d,I10,Essential Hypertension,Secondary,2025-03-17 12:33:36.016706
+de20bbd5-ac4f-4277-8fe0-986d4e384d4a,b285961b-fe1b-4ac6-9aed-5ac0202a744e,J18.9,"Pneumonia, Unspecified",Admitting,2025-05-11 02:02:37.121318
+b8f2e44c-4a26-4281-a9d2-4a748c36dbdd,eec0b268-d1b2-4efb-8dde-4743d7091af1,I50.9,"Heart Failure, Unspecified",Admitting,2025-04-03 20:33:50.308779
+164cce56-7113-4ba2-b071-626df753973e,abeb529d-6893-43fa-84ed-4dc9ece08360,A41.9,"Sepsis, Unspecified",Admitting,2025-06-18 10:56:29.351865
+90a4d580-c173-435d-9395-3ea1d02a5cc1,c66de4c6-ce69-4ffe-8926-e3356f25dd72,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-10-25 09:19:20.192401
+7dced79c-8803-44b5-9353-b83125deae86,5c385fef-e6d0-4ddc-81da-f6cc00e9ed2d,J18.9,"Pneumonia, Unspecified",Admitting,2025-07-05 23:57:53.661303
+b7300dc1-0507-4c11-a556-d987a597904c,15715356-4bc5-4af2-a736-c4d109805916,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-04-18 02:06:11.300070
+dd0f0815-8c6b-4b33-9eae-e58c8906a213,39f505be-6c68-44c4-a84d-b873a05bf0cf,A41.9,"Sepsis, Unspecified",Admitting,2025-08-01 13:11:21.348714
+a662a0ec-f02b-4302-8376-f6990b09d406,7dae0521-9649-494c-a54d-635688ce96fc,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-05-16 14:12:55.979894
+0a172e6a-3ae0-4ac6-8aad-00bbc1fd34e9,698613ab-53fd-415a-b676-27b74212bd7e,I10,Essential Hypertension,Secondary,2025-02-24 06:43:24.524116
+19382a12-0eeb-4728-a2c0-e17e60c74e16,2e1aa61f-d6cf-4c75-a39d-1ff61f011826,E11.9,Type 2 Diabetes w/o complications,Primary,2025-11-04 05:25:50.416580
+2798af70-8dea-4309-a4f3-d2594e35d715,15e90f49-f011-4623-aa03-d80a7a448e1f,M54.5,Low Back Pain,Secondary,2025-03-06 18:47:07.905752
+f82d261f-a734-43cd-8bf6-5f936de5db6d,0baa2faf-332e-453f-b668-038b417c6742,J44.9,"COPD, Unspecified",Primary,2025-08-25 04:09:51.157298
+f7790f04-e01f-4f52-abf7-de729fd82a99,d36fd325-cc24-486e-a79f-347491ca976d,M54.5,Low Back Pain,Primary,2025-06-01 19:03:30.620995
+1be42c5a-53a8-476e-bfc1-d71d08441ce8,54aaea83-8890-4e5d-8147-2439d5559510,J44.9,"COPD, Unspecified",Primary,2025-12-01 09:42:32.466501
+258e18a2-c7e2-47a0-946b-37e9af546e1d,55e1c7bd-157b-4ce3-b2b8-2b948a372d9f,J44.9,"COPD, Unspecified",Secondary,2025-05-19 02:24:30.091416
+7e9645e7-a75f-42d5-b9b3-7ced016467c0,97c1d370-70b5-4c4b-b465-58d092f04538,I50.9,"Heart Failure, Unspecified",Primary,2025-08-26 20:15:34.358907
+b77dd2ae-3eb9-419b-9938-a66168eb4e7a,ef1aa1dc-450e-4f79-8ff6-01db056a5e8b,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-07-29 08:52:02.435032
+69b1a2ce-f3c2-4ed2-9443-682fd4b46181,b053936f-8df2-470c-b9b8-e807e83e2530,J18.9,"Pneumonia, Unspecified",Secondary,2025-03-22 13:18:18.385537
+38b42228-6359-4c2f-b1f2-90da9e16fceb,6d85c5b8-dab9-4993-9b55-8a09f2f3470f,A41.9,"Sepsis, Unspecified",Secondary,2025-10-21 14:20:41.276474
+7fb98943-e225-4091-8993-f3ec697bcc1c,8658da6a-2bbb-4fac-be2f-39a75593f4e6,F32.9,Major Depressive Disorder,Secondary,2026-01-15 19:09:49.733418
+c8f6d712-4a8c-40e5-8ee5-2f257e88aacf,38073aee-3330-4f3e-91f1-be43246918a4,I50.9,"Heart Failure, Unspecified",Primary,2026-01-07 04:00:25.066124
+8e1770c4-b21b-4c7f-aa37-e2e812e54196,f55bce71-66af-49c0-84fc-f3e04ca1e56a,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-08-01 18:14:47.502755
+d60698e4-8c11-4e05-a11d-4a50d8f1f184,5efa6be3-25aa-41e8-b4d5-29cb7223886a,I50.9,"Heart Failure, Unspecified",Secondary,2025-06-30 15:36:33.337836
+ed03ea37-e297-4f19-b726-79a9b1e76c73,4d0f6972-60e1-455e-a253-8f9e5bee1b60,I50.9,"Heart Failure, Unspecified",Secondary,2025-04-16 03:02:37.720603
+e557650d-3030-471c-833c-d984e6a60fe7,fac4b97b-733a-4bc5-80a4-8dd61487f6a2,M54.5,Low Back Pain,Secondary,2025-04-08 05:49:55.828579
+32b38d3e-39a5-443c-8213-2e072a2eda0e,90257b0e-3d2f-44d2-a7ef-73b9fc757190,J44.9,"COPD, Unspecified",Secondary,2025-03-22 10:27:47.408743
+f4274c7d-053a-48ab-a988-91f5872174bc,c4cb5607-a840-4307-80cd-2eb24f503c7f,A41.9,"Sepsis, Unspecified",Primary,2025-10-03 19:11:47.187326
+5951926a-ade7-49c8-84eb-1f5d2fa9bad8,a27197c3-a752-4256-a321-10c8ea3cfeda,J18.9,"Pneumonia, Unspecified",Admitting,2025-10-13 04:50:28.851000
+ef333235-b8cd-4ddd-8da1-20e3d35e0af7,1d3aed5b-1679-4c20-b07b-44a0add73db7,I10,Essential Hypertension,Secondary,2025-03-27 16:01:15.206846
+21592bb6-55e5-4c2c-98df-96a6858d2794,b6b7f8e5-9be0-4fc9-8df7-ced71e86432b,M54.5,Low Back Pain,Secondary,2026-01-18 13:38:27.383939
+b3a781a6-ea16-4122-ba9b-a6323e0b19df,7cfe9969-6a12-4c5d-83a4-49c312f2fa01,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2026-01-19 20:40:13.271158
+e0b8938c-7ab9-41a9-a5ea-e76ad361cee4,0f56c5d2-f7de-4249-86fb-fe5b084d6f17,J44.9,"COPD, Unspecified",Admitting,2025-11-03 19:51:58.937560
+525b9d02-caf2-45a2-aa84-385b92c90b14,b138791f-87ef-4e00-8c35-7c2f01606df4,J44.9,"COPD, Unspecified",Admitting,2025-10-15 11:08:37.400531
+9c65b3c9-9ee1-4591-9552-869604247021,e3983abc-aec9-4704-ad37-562a20d124a2,F32.9,Major Depressive Disorder,Primary,2025-03-24 21:09:36.773636
+0d1401a8-40d7-45ba-a516-26c3eb1f7786,54ec5d21-3f4b-4ebb-897b-c996674417ad,J18.9,"Pneumonia, Unspecified",Secondary,2025-08-12 06:33:54.898180
+0ad4217a-021e-44b6-996d-2125f1b06067,db471c71-a835-4371-8d12-0c3587868ec5,F32.9,Major Depressive Disorder,Secondary,2025-11-08 17:57:04.463949
+7cef2361-c9a9-4d82-8fcc-e91168468b88,fa6ebe59-54eb-4f53-a714-e2e6e02fe096,I10,Essential Hypertension,Secondary,2026-01-07 00:33:24.403766
+1b48a9d0-dae7-439a-893c-09c7a6539a8c,39d0a340-bd8c-45d2-9867-b96b10ad7b7d,K21.9,GERD,Secondary,2025-05-30 01:17:57.031750
+8e994ef9-f8ba-4e27-88e9-c154fb7ca325,8cfcead3-73ee-4d98-a720-7377c1ce5108,K21.9,GERD,Primary,2025-05-30 00:57:26.270467
+e3c64c16-f8fe-44b3-a3db-62aeeb12eab0,4f135762-76b9-42cb-b092-a90fea263f0f,E11.9,Type 2 Diabetes w/o complications,Primary,2025-05-14 20:25:46.462860
+bd995476-6885-48bf-85b0-b2bfb2a97291,9b10347f-f4e5-4490-b444-2aff148461dc,M54.5,Low Back Pain,Secondary,2026-02-05 14:28:54.401757
+629de8be-bee9-41c4-beda-a80949d81a2b,70caaa3a-ac0c-4a45-a381-b2f8fdad79f9,M54.5,Low Back Pain,Secondary,2025-07-30 22:42:38.504277
+ba8fef2b-080b-4785-b9c9-a8b1381951cf,c428f0b7-f139-42b3-9579-c737b29a6cbe,A41.9,"Sepsis, Unspecified",Primary,2025-12-24 17:58:38.539104
+d783d762-a0a3-4122-8927-a39f5e51dbcc,3cee3527-4225-4c15-b0d0-5c6b5769091b,I50.9,"Heart Failure, Unspecified",Secondary,2025-09-27 16:54:17.543798
+b72a3ba2-ccac-4cca-be15-f05403507f54,9214b407-b8b3-4b05-988a-f4f5275a6577,J18.9,"Pneumonia, Unspecified",Primary,2025-12-28 19:54:51.261080
+9d55d6ad-e755-4f7b-8dca-6b33288f6ae2,091fed78-27b4-40c2-9129-a4a575004a44,E11.9,Type 2 Diabetes w/o complications,Primary,2025-06-03 01:54:03.118869
+9f435021-b3b6-4b54-8db1-25815e9f950c,af6e540f-6d08-4e6c-8dd2-cf83eb2e5105,E11.9,Type 2 Diabetes w/o complications,Primary,2025-12-05 07:25:46.779182
+e43c8992-b889-4eca-81f0-67976014ddd8,c2dfbba6-0f37-49f9-9333-a5dbfdee2322,J44.9,"COPD, Unspecified",Admitting,2025-08-25 15:17:46.754019
+9de17d12-5415-4e85-8bc4-8ec5822d6e49,48045a9d-a121-4b08-bb60-26c2b9b1952c,K21.9,GERD,Primary,2025-04-27 07:26:43.703749
+b1edc279-085c-4cd2-bd97-04e7a43f4e7e,eb8c5297-9557-437f-81c9-84d874296330,A41.9,"Sepsis, Unspecified",Secondary,2025-03-18 19:35:08.960818
+b08a3333-6343-4520-b68b-1c2526810957,be29ccb8-f047-4260-9d50-30ea395d3869,M54.5,Low Back Pain,Secondary,2026-02-02 01:14:20.981963
+c5da5bad-d0d6-4ffd-9949-53a8029ea3e5,c0141a07-7f8f-4d81-b637-c32e37022b9b,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-05-13 06:21:18.431536
+afad79e0-7f45-4791-a7dc-52dc1861ee17,99facef5-fdd9-4310-ba8c-3788f2164811,J18.9,"Pneumonia, Unspecified",Primary,2025-11-07 18:18:13.531314
+460a79c8-14dd-4337-97d2-fb6806564f0f,0bae9b6d-5e09-4cec-bfd8-c348f459b823,E11.9,Type 2 Diabetes w/o complications,Primary,2025-11-12 12:06:11.112935
+560d474a-f1f8-4084-a52e-d466e83148c1,7b88b5d0-5de4-4c7e-bca2-9ba92aee9f7c,I50.9,"Heart Failure, Unspecified",Admitting,2025-09-29 21:39:39.909605
+dfc894e5-f366-4095-8687-5773fa8353b6,df5b1ef1-c799-4127-9501-bcf75f37ff9b,A41.9,"Sepsis, Unspecified",Admitting,2025-04-16 02:39:32.296794
+b2ef2b45-a563-4acc-a96b-90c1fa8a04e3,d8d5e895-c143-4608-9409-6fa3eff872f5,M54.5,Low Back Pain,Secondary,2026-01-26 09:45:14.419658
+987dea23-9937-42a2-9a92-d9657dfd8e78,9efe8731-2ce4-48cc-8d3b-9884f5fff6f5,F32.9,Major Depressive Disorder,Admitting,2025-03-12 11:52:08.179409
+46520eb9-5af1-4eb8-91bf-db85e7598418,40416f55-0965-4fad-84b2-0080b77bb9d3,K21.9,GERD,Primary,2026-01-29 20:36:53.068921
+2049eeef-eac6-4efc-acde-fc8b6108ef08,e361b786-50a8-4614-a0b9-ced845be097a,J18.9,"Pneumonia, Unspecified",Secondary,2025-04-15 21:23:56.731068
+2e92ab23-a38b-415a-9fea-252bbe8f6393,6c8b90b4-64ab-45d6-b863-9665fd70f8db,J18.9,"Pneumonia, Unspecified",Admitting,2025-11-22 00:06:59.424265
+680c38d6-2c5f-4b63-ac8e-565f1192a3fd,5646fb73-a45c-4bfa-9dfe-e011e837949b,A41.9,"Sepsis, Unspecified",Secondary,2025-11-13 14:57:35.205529
+efdaf169-269f-46e7-a059-1c84b9719efe,8cfcead3-73ee-4d98-a720-7377c1ce5108,I50.9,"Heart Failure, Unspecified",Admitting,2025-05-30 00:57:26.270467
+af1e71ea-ca6f-4123-967c-aac3234e8467,dc76a495-3704-4b28-b93a-d4fe90c8a4f0,I10,Essential Hypertension,Secondary,2025-05-10 03:25:15.081894
+c379c42d-2111-48d6-b412-68ba21eae0df,64372b4e-80b3-4e60-99bc-72bb3f2431ae,I10,Essential Hypertension,Secondary,2025-03-27 07:06:28.561386
+876d5590-f43a-4778-a3ee-248f1edb0907,bc2757f5-2bf3-406e-ab78-4dd5879155bb,A41.9,"Sepsis, Unspecified",Primary,2025-10-29 07:42:29.128300
+a35167cc-1013-4782-9a5c-c4041ba21856,37714e78-8aa7-42c7-9e92-8efbb2426d8a,K21.9,GERD,Admitting,2025-07-29 12:29:08.601302
+08a99a42-74d9-4ba7-9403-2bbf231fbd35,c5490b4b-ee49-4fa5-9dc2-1edf18bd3b1f,F32.9,Major Depressive Disorder,Admitting,2025-11-20 01:05:20.401382
+5a2e6f66-63d9-42fe-a7ff-77f1bcbecb0b,2fc31956-3119-4b3c-be76-393f9966fb88,I50.9,"Heart Failure, Unspecified",Primary,2025-04-24 09:36:53.937037
+3747e4d3-3daf-44f0-a348-213ea3426fa6,ec003005-dc00-4613-a734-0838ec1919e6,I10,Essential Hypertension,Primary,2025-03-25 01:42:38.993957
+854a2866-34c1-44d4-9595-9fd21c0c7414,52b513b9-bf54-4cf9-8de0-2f24180e53c2,J18.9,"Pneumonia, Unspecified",Admitting,2025-11-27 06:48:56.773561
+742f3fb1-1113-4fab-8c6c-14801498c918,1973c118-ae01-4ead-b653-a606afc1eb4c,K21.9,GERD,Admitting,2025-12-01 17:05:45.935474
+695da5f5-b172-41a2-9078-56fcb987aa47,89e1e106-89a2-426c-b705-cd31fffcd315,J44.9,"COPD, Unspecified",Primary,2025-11-07 09:47:14.321865
+24a5a138-6e5b-4f91-8d5e-052c2a5acc34,a8713f18-356d-4aa6-99bd-88b851b3c7d7,J44.9,"COPD, Unspecified",Admitting,2025-05-20 22:56:59.815932
+6f5aac3a-dc8a-4c88-81e9-e21694638ce5,56b2b16f-ff10-4625-b6c9-f04b65f17b80,M54.5,Low Back Pain,Secondary,2026-01-15 21:52:05.315213
+520a602e-e764-45a3-93cb-ffb3a046618a,f94437d0-04f0-4a22-b13f-5199aa1de554,M54.5,Low Back Pain,Admitting,2026-01-27 16:26:21.950685
+88a01c25-7288-42c4-90eb-a3bb0af8dd92,01a5137b-a757-4dd0-ab15-9ea250345043,K21.9,GERD,Secondary,2025-10-12 12:41:58.465582
+1dbec9e2-8a4e-482d-9ec6-7335c956c79f,30b2df3c-b92d-43ff-a868-7b66ceafc694,F32.9,Major Depressive Disorder,Primary,2025-04-17 10:48:59.322160
+b0b6f9d6-15b0-46e8-b3bd-3a5f612ce895,c7946952-1f33-4bf6-b91a-ddfa16b4d84b,J44.9,"COPD, Unspecified",Primary,2025-03-10 13:01:23.249645
+eb0afad3-7c09-4d00-a7ab-1f9dc6f9f7b6,48045a9d-a121-4b08-bb60-26c2b9b1952c,A41.9,"Sepsis, Unspecified",Admitting,2025-04-27 07:26:43.703749
+a4941def-7bbb-4ebc-82f6-c2108cae5226,4470f487-a16d-429c-b617-e70136657b75,I10,Essential Hypertension,Admitting,2025-06-01 11:32:38.808507
+3b4ecfd4-8d4f-445f-b3ab-073c4b94e54d,ca3e43dc-6cdf-469e-9334-ae920403c700,A41.9,"Sepsis, Unspecified",Primary,2026-02-03 02:20:08.819147
+58b46b1f-86eb-45fd-8ff8-032947d90381,110a73af-5270-401b-ae78-ddcceacaad6a,I10,Essential Hypertension,Secondary,2025-07-07 02:47:41.593848
+8bab1290-7d68-463f-a776-adf5088612ba,a343cf11-7a08-4220-984f-9dd54db54185,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-08-06 12:53:17.637995
+5dbf802c-5584-49c0-8adf-8bd290b19964,f551506a-3836-44e3-913a-d63eeb7019e7,J18.9,"Pneumonia, Unspecified",Secondary,2025-04-28 14:27:59.984334
+092570a4-d313-41aa-bec5-d5041d4aeb7d,c389fdcf-efd4-4d72-b820-d21db0dec116,J44.9,"COPD, Unspecified",Admitting,2025-10-14 04:30:15.491126
+7b7283d3-50ae-4afd-83d3-c11439c08b28,76508803-3c58-4ed0-8e2b-42a0ba28101d,I50.9,"Heart Failure, Unspecified",Secondary,2025-06-27 01:19:19.828859
+3387c0fe-446d-4af6-bebd-ffff3341447e,a8f4cc25-99b7-4563-8925-4967e1e36c0f,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2026-01-22 16:03:26.529906
+2e0665ad-757c-41f5-946c-5ae38e5479ae,b0550b03-37e6-40f9-99d7-e862cab33311,K21.9,GERD,Primary,2025-08-07 11:38:01.846596
+57e4856c-4c01-457a-9d97-4e5cb76637f4,b015d1c9-f284-4bcf-993d-bdd69888e1bb,M54.5,Low Back Pain,Primary,2025-02-25 04:01:53.142811
+49c3568a-5e97-49db-bb0f-3aab6f2697ea,fac4b97b-733a-4bc5-80a4-8dd61487f6a2,J18.9,"Pneumonia, Unspecified",Primary,2025-04-08 05:49:55.828579
+31936eb6-854e-485e-9105-b917372e3589,bb2dc238-adbe-4c13-ab31-20268ba5cc25,A41.9,"Sepsis, Unspecified",Admitting,2025-10-05 21:30:56.334086
+7b28d745-2ec9-482c-b7a9-a97899035111,550e1ebb-59d5-4561-9276-5c6e0ade42cd,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-06-11 11:45:47.666250
+21aba72c-9abe-497f-b901-3c2fed1400b7,2f47cbdf-83b4-414b-b6d3-295e45103d60,A41.9,"Sepsis, Unspecified",Secondary,2025-04-11 04:51:53.551253
+776fb52b-2b41-4d17-b073-47d2cd69af20,99facef5-fdd9-4310-ba8c-3788f2164811,K21.9,GERD,Secondary,2025-11-07 18:18:13.531314
+7b43d920-ac4d-4d71-9de1-2a47db40c881,0773fdd3-f2dd-415e-819d-dba5d7afddef,F32.9,Major Depressive Disorder,Primary,2025-03-22 03:57:38.977925
+7647b9ea-6abb-46f1-892b-ff367c97a5f5,dcc39bef-6515-42e2-8f55-72a9f7296bbc,M54.5,Low Back Pain,Secondary,2026-02-04 20:46:43.827040
+668cb444-8ed8-4a82-9d2e-05d467e15f5d,5e81a23c-33a3-414e-9f02-459be72df757,J18.9,"Pneumonia, Unspecified",Primary,2025-10-08 16:57:10.625401
+c95b37be-c4b7-40d4-8e32-17db69692088,360e6f7b-a4e6-4f33-a34b-ad92f06228d9,M54.5,Low Back Pain,Admitting,2025-11-02 00:10:14.525580
+90ce4b84-d5e5-41a4-91a6-a22313a1dd17,ef57103c-35d0-47b6-b001-aaeabd7bdf7d,J18.9,"Pneumonia, Unspecified",Secondary,2025-02-24 03:04:02.777681
+86083e9d-deb6-477b-b0a4-f7aae9369e36,7e34513e-0278-4191-8645-5857a7ba666d,M54.5,Low Back Pain,Secondary,2025-05-10 11:25:51.264498
+3ea82dce-1525-42fa-b5f6-b040abc9fefe,55dd3f5c-3bd4-4924-ab8e-5860c487dac1,J44.9,"COPD, Unspecified",Primary,2025-10-26 15:19:47.856675
+df200603-2dca-4a64-9b33-30d9da920df1,bf62d423-b46f-4478-bbfb-e564923c0503,I50.9,"Heart Failure, Unspecified",Admitting,2025-08-13 01:07:22.300344
+848f448c-d8e0-484b-8343-d35839433109,7d5907fe-2141-4e98-be90-5026f384756e,I10,Essential Hypertension,Admitting,2025-09-30 00:35:07.011315
+33d8b79c-4cc7-43e3-9985-85c23cc74d2f,0c4d2617-5cc0-4049-b18a-c656f74117d7,M54.5,Low Back Pain,Secondary,2025-10-14 09:56:08.458659
+ace1882a-a357-4518-a9e8-d58dd8d945ed,76543457-7d68-4df0-83a9-d9b5e869635e,J18.9,"Pneumonia, Unspecified",Primary,2025-12-19 05:47:14.798290
+67432acd-004b-44e0-b865-9a416fbc2b98,7b8e9da7-1bfd-437d-8cc9-415592cfa89f,J18.9,"Pneumonia, Unspecified",Primary,2026-01-14 12:42:30.774320
+089322c2-53ce-4e6a-9a01-3422c2c8178a,5f9dac81-e2cb-4b18-8609-c0ca3a389add,J44.9,"COPD, Unspecified",Secondary,2026-01-21 20:19:28.112550
+0f388644-fb59-4cf7-9c83-5bfd6d856906,4e7c50a9-2c1d-4b24-bc99-a6012a98a16f,J18.9,"Pneumonia, Unspecified",Secondary,2025-07-08 11:09:28.785854
+680ce632-5bd8-49f5-bac1-b68658f84dd9,ef1aa1dc-450e-4f79-8ff6-01db056a5e8b,J18.9,"Pneumonia, Unspecified",Secondary,2025-07-29 08:52:02.435032
+86e03208-847e-4717-b4e9-887f720ffd8f,ed5fe913-08f3-4268-b655-3daf0a402392,J44.9,"COPD, Unspecified",Primary,2025-05-28 10:51:37.355554
+d38d8eec-ff97-4529-90dd-9f6e3041945d,04844e17-959a-426c-82b9-83a189c7fb67,I50.9,"Heart Failure, Unspecified",Secondary,2025-10-07 02:39:55.429819
+ecb13b8d-73ca-4fd8-a6c8-953206833855,1bb9f072-f4da-4c5e-a308-3c27c6b6dffd,K21.9,GERD,Secondary,2025-11-12 04:28:21.097311
+2e6e5589-a100-412b-9c7f-532d92546bb5,51357d47-5b34-454c-a13c-401ebea99f7b,I10,Essential Hypertension,Admitting,2025-11-28 13:45:33.288412
+c0797e31-de4a-4f69-addc-e933c4fa3ba2,91ab37f6-2813-408f-98e4-776ee2073005,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-12-30 19:41:35.478765
+7114455d-3de9-460f-af1a-d274ee6131fc,e281db19-c885-4b9b-8c02-d2dca003c98d,I10,Essential Hypertension,Admitting,2025-08-23 16:36:25.113025
+870fc696-1622-4679-afb7-b57f8bb6d664,b015d1c9-f284-4bcf-993d-bdd69888e1bb,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-02-25 04:01:53.142811
+8a17cd3d-3f93-4b3a-9869-a6b6359deb7f,99facef5-fdd9-4310-ba8c-3788f2164811,I50.9,"Heart Failure, Unspecified",Secondary,2025-11-07 18:18:13.531314
+023776fb-1895-4427-9f37-1d9c8014c30c,f50cc075-f063-46b0-ba6d-172f4b390d4d,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-11-21 17:59:24.355301
+ce7b5e35-3bc0-4174-acf6-fffdfded902a,5075cf40-751b-4c66-9513-6fe48fc94a24,E11.9,Type 2 Diabetes w/o complications,Primary,2025-10-16 14:26:51.730562
+51f30886-03bc-4929-b927-ad4115740c28,21ed2767-5132-4265-8386-b70cec241acd,F32.9,Major Depressive Disorder,Secondary,2026-01-26 22:41:22.644409
+04640077-8feb-4dee-b7b4-65161d67ab3e,61f86a92-ea92-4f64-8745-c2e0df27c137,J44.9,"COPD, Unspecified",Primary,2025-03-28 10:45:12.729145
+c46cdabc-454a-401b-88ae-7447d667b3ca,ed5fe913-08f3-4268-b655-3daf0a402392,I10,Essential Hypertension,Primary,2025-05-28 10:51:37.355554
+cce44780-9a41-4f92-ac8e-1d8a3665a650,659aa1ce-2066-483e-bcc0-ec3d88f8ed4f,J44.9,"COPD, Unspecified",Secondary,2025-11-13 22:07:22.349725
+09f99ce9-2016-4dec-b311-9535222b418c,493d5843-3a69-4188-aa7e-6e4a63ab5a17,J18.9,"Pneumonia, Unspecified",Admitting,2025-03-10 14:03:50.271762
+5e116110-7d24-4de0-a7a3-85f4f3c74fa1,8868ac49-8ef3-4b04-8a9c-786ef33cb8dc,I10,Essential Hypertension,Primary,2025-03-24 04:57:44.439238
+af959edf-c8ec-4e1d-bbf4-e7f497d5138a,c4912dc9-68f0-47ac-8d27-b0957473cc52,F32.9,Major Depressive Disorder,Primary,2025-07-05 18:49:04.475317
+6a8effb7-9bbb-4346-9dde-9694c21083e9,a97ea2b0-b931-43ab-9ed2-80d56faf7dda,I50.9,"Heart Failure, Unspecified",Admitting,2025-03-02 05:15:52.397739
+837688f9-d90b-48ef-8a6c-7ce38c8f0313,1f60922f-eb80-4553-bbd1-36570395f417,A41.9,"Sepsis, Unspecified",Secondary,2025-04-04 17:57:17.460554
+d45c5efa-6e34-4d57-a654-fa6abd6b7ed7,bc2757f5-2bf3-406e-ab78-4dd5879155bb,I50.9,"Heart Failure, Unspecified",Primary,2025-10-29 07:42:29.128300
+a6a9e342-0913-482d-bbc4-d14ef34ee8c8,f6b25ef2-c0cb-4ff2-875e-83b1bcf89c45,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-12-09 12:24:20.965786
+f0428235-e2d9-4167-afcf-dcea8e3f0af8,76b8d8d5-8f48-4ef0-8bef-7d0b1de99e9f,M54.5,Low Back Pain,Admitting,2025-09-29 19:17:22.595389
+5b896f10-1712-4734-8727-bf4ff54a84e1,1747640b-8041-4f1e-8805-c6b48585b49b,E11.9,Type 2 Diabetes w/o complications,Secondary,2026-01-04 00:38:30.852640
+0ff4ef29-e5f5-4ff2-a896-dbffac4052bb,33ad5bea-a3cd-4f3e-a9e8-89ed2f7303bb,I10,Essential Hypertension,Admitting,2025-06-25 00:21:05.837014
+5f3187a9-b96e-43fe-8a70-57ab4a6dc1e2,d8f34c32-019e-4afc-aec4-29008d67a3ca,J44.9,"COPD, Unspecified",Secondary,2025-09-20 00:59:50.288183
+dba56960-b77e-444b-8109-c3a3b92a2b0a,5576bfa4-843c-4253-8a98-b9b7e77fc424,F32.9,Major Depressive Disorder,Primary,2025-05-09 08:17:59.043025
+37e7ffc1-c567-45f7-857d-cf98b2ee8161,06b430e0-7f1a-48f5-b736-952313093f65,F32.9,Major Depressive Disorder,Primary,2025-09-07 02:59:36.319135
+22aefd5a-df2c-49d9-92ae-f5775577147c,8268fd90-ba82-428f-8b7e-c1976f9e9ba5,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-12-04 23:08:42.585641
+309650b5-1377-47d1-a1aa-6a01a23c29a7,65ad7000-9914-44c0-abe7-5d979f39c46e,J18.9,"Pneumonia, Unspecified",Secondary,2025-04-27 08:51:58.779552
+28355626-d610-4083-8f07-293c0d4190d3,37fcc770-eeb1-493a-8678-a43068846570,F32.9,Major Depressive Disorder,Secondary,2025-06-29 00:40:16.364418
+d4d15fc6-d58d-479a-b136-8f685233ffd8,d612f677-6d67-4dd1-9f2e-0aab45dee614,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2026-01-10 22:14:34.099869
+b49839f0-5151-4bec-9dca-9b14f52846b0,72bcbc8e-ae76-47d3-b164-26c6b3631520,A41.9,"Sepsis, Unspecified",Primary,2025-07-05 03:08:54.136301
+9f3be002-ebac-40e3-809d-d2fc6b88f8fd,1f81c32c-dee6-4c8d-a314-129711b0b881,A41.9,"Sepsis, Unspecified",Primary,2025-06-18 20:46:15.704982
+7e94cccf-a3f9-4753-a7c7-d95bdeeb4e7d,b7eb1bed-d758-4b4e-93d8-b4c48344d512,J18.9,"Pneumonia, Unspecified",Secondary,2025-08-30 01:06:06.648050
+3d2b7262-9fab-4a03-8459-c3da5986c9f3,813b167a-323c-4354-bd20-2f07f985fe70,A41.9,"Sepsis, Unspecified",Admitting,2025-11-17 20:20:44.215578
+eedfc929-5f74-4448-bb75-9f904e1d3655,9ece1237-e481-4310-883c-9a415041b28f,K21.9,GERD,Primary,2025-08-29 17:47:53.655147
+4a6c7550-af51-4918-9d62-aaa5f858aebf,5a51cc05-3c29-46ef-81b5-7847136c4005,K21.9,GERD,Admitting,2025-11-30 05:06:15.185041
+36131247-69ce-43ea-8f44-3e2407c0f575,b5082b7c-88ab-4922-a172-b5d5dc3b2301,I10,Essential Hypertension,Admitting,2025-07-20 16:13:53.177868
+ca3aad6a-4145-43fc-b82e-eb7d27ff8981,9e50ad42-255f-4fd8-b65b-457fc68a1997,J18.9,"Pneumonia, Unspecified",Admitting,2025-07-25 03:36:46.492990
+a0372461-dd02-45d2-82c0-5f99908d85bd,449f03c7-11b3-4cae-9cb5-352d375d4cf6,E11.9,Type 2 Diabetes w/o complications,Primary,2025-03-05 19:13:20.111185
+58e81e0a-c4fa-4c7e-8d3f-466eb27cd587,a8d7db12-5984-4868-9689-ec85098b7566,J44.9,"COPD, Unspecified",Admitting,2026-01-14 15:59:24.095224
+1e0d0516-9379-48f4-b699-f8dcf5886be1,a5455361-b764-4564-b747-b33f1ddcc7d2,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-02-22 09:09:03.346513
+06294196-2762-4451-bc40-5b1619c5b9dd,5719ec74-671f-46fa-ba41-ae50883a3217,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-12-26 16:17:28.567115
+63a2ae11-28c7-447f-8a14-32bcd38373e3,d46d407e-ccca-45a4-9f26-cd1c6a914c1a,M54.5,Low Back Pain,Primary,2025-08-18 21:41:52.369147
+08e3b92f-8a6b-42c9-98b0-9580e8cc10e1,4ebb5236-2d9a-4d37-a744-1685c1f35f5c,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-05-17 11:52:44.644239
+520c42c2-b0fd-46e0-b9d3-79b18de2b940,bb5fa193-ca5c-4a94-bd54-d70bf7264ca0,F32.9,Major Depressive Disorder,Primary,2025-08-23 17:30:23.825432
+721c69f8-206e-429b-9e57-085703015c88,75fa617a-6ae7-4f16-97e9-db4c8cede9d9,I10,Essential Hypertension,Admitting,2026-01-01 15:08:30.214071
+3073b256-5404-45e7-b5d4-f8cf588ca8ef,d17e2069-16a8-453d-a32f-85f419223a5b,M54.5,Low Back Pain,Primary,2025-10-18 11:43:54.443630
+1a078286-4169-4bc7-8f41-8bcb779038b2,a9f318bb-a423-427e-8eb2-97d085ae2b33,F32.9,Major Depressive Disorder,Primary,2025-06-30 16:41:19.243862
+089962dc-6990-4411-93c2-845aeaa35aa3,21ed2767-5132-4265-8386-b70cec241acd,F32.9,Major Depressive Disorder,Primary,2026-01-26 22:41:22.644409
+25651958-a21f-449e-9d0d-3e2985ad5a5b,11c63e58-d889-4a88-9f7b-502a5af4fdf1,I10,Essential Hypertension,Admitting,2025-09-29 01:38:13.348981
+8dd268e8-746c-4d39-8dd1-96a3dc4585c1,7388d94d-dad4-4ae9-9323-365c82e4b668,I10,Essential Hypertension,Primary,2025-06-06 00:09:13.731415
+dd7e4631-79a2-4311-b7be-8a834ee72677,1ec0d492-8622-42ce-8c5a-6da29e97f2c1,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-05-03 11:55:51.880990
+d83584c8-2f1d-44ef-8120-d432ee20561b,f5d674aa-65c6-445d-a0c4-a513e8a4fc93,E11.9,Type 2 Diabetes w/o complications,Primary,2025-10-19 03:26:27.761495
+a5c61caf-c7ae-4daf-91c0-ed4df17ae588,ec36ab68-a345-4382-bea5-6a4e9cc92335,F32.9,Major Depressive Disorder,Primary,2025-03-28 13:54:12.205483
+eb76df75-a83a-4554-9477-830a2071dd48,4fbe13f6-3beb-49a8-a66e-00d93b16f35b,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-05-01 18:53:34.681754
+919a0346-8007-40e1-adce-b33279a338d7,9b10347f-f4e5-4490-b444-2aff148461dc,J18.9,"Pneumonia, Unspecified",Secondary,2026-02-05 14:28:54.401757
+d0110a76-0d3b-403a-a059-0d2300c1a1af,3a3ea581-29ca-45b7-a8e1-bc09c1f23b9f,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-03-12 05:26:12.246332
+c9f57a4d-cdf9-4a5f-b92b-7d03dc7f2098,46a5c444-8a55-447a-bd8a-85c24730610c,A41.9,"Sepsis, Unspecified",Secondary,2025-02-19 16:20:18.370999
+7671cb36-193d-4344-8d0c-c12f83712d49,be29ccb8-f047-4260-9d50-30ea395d3869,I50.9,"Heart Failure, Unspecified",Admitting,2026-02-02 01:14:20.981963
+ae583eb2-5478-42b1-964c-ff2e6d44ba4d,f3c25d1a-a6b4-42c3-aa70-909b675cbafa,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-09-23 05:53:12.650872
+492d1638-b339-4bb5-aa32-8115bcbb05f7,85ba82bc-c816-4831-a69b-81a6c427a5f8,I50.9,"Heart Failure, Unspecified",Secondary,2025-06-19 13:26:45.722772
+69a4f3e5-1e1c-4df7-b40b-2f7005d554ff,918ca37a-8b92-4c07-a238-300e698ed9cb,I10,Essential Hypertension,Admitting,2025-07-12 08:23:19.331177
+de6b07f1-798b-4877-bfd2-15d5f542b48f,405d0e11-23ee-4071-a7b3-cee0b0255acd,A41.9,"Sepsis, Unspecified",Primary,2026-01-07 04:09:50.265465
+274b25f3-1381-46e5-bb5a-ebfa1ad3f504,8fc6402b-69af-4fcf-9353-03af1dbdab7a,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-12-28 08:00:15.455102
+71e1542f-a6fa-4eee-ace0-764e622277f9,211faca2-0d98-48d1-97e5-728dd3d458cc,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-03-15 03:29:04.909141
+3577acf4-a4c8-45ee-aa8e-b657ca0893ca,e011a363-e38b-4978-ada5-02af29ed3a14,M54.5,Low Back Pain,Admitting,2025-10-12 01:17:16.638583
+407b7a90-4bc9-4978-80d3-3a1d6d0b0733,3de3a762-0b99-4b38-b1f3-76086da74a4b,A41.9,"Sepsis, Unspecified",Admitting,2025-02-19 13:12:41.804811
+a97e0a74-a610-4da7-92a3-627e6da5b27b,fb576429-a65b-4ba0-8d16-da69e3621589,M54.5,Low Back Pain,Secondary,2025-09-06 05:23:27.932258
+c6c75b62-d0bb-42ff-9440-5f0ecf441cde,4e7c50a9-2c1d-4b24-bc99-a6012a98a16f,K21.9,GERD,Secondary,2025-07-08 11:09:28.785854
+86fb9281-0b3a-48f1-87aa-6ee4e3514d47,37fcc770-eeb1-493a-8678-a43068846570,F32.9,Major Depressive Disorder,Secondary,2025-06-29 00:40:16.364418
+c870c6da-ac06-4db1-a9a2-d556df2ca255,eea8afa1-140f-4fe2-857b-6e53ca332332,E11.9,Type 2 Diabetes w/o complications,Secondary,2026-02-05 19:38:23.554096
+3f3f5838-ba8e-43dd-b4c3-427caa30cff1,43ce1464-76d6-4cf4-a9a7-ebc2c7be8a54,K21.9,GERD,Admitting,2025-07-25 11:31:01.265447
+d5c05a66-3ff5-4fec-9ceb-03cd1b335e12,64af3efd-c93e-471c-b131-aed1632b6fc8,M54.5,Low Back Pain,Admitting,2026-01-06 14:41:42.054027
+396ac543-d8c5-40ac-a82c-87c199d6a94c,298faae4-256e-430e-9c9a-ac82247592ce,F32.9,Major Depressive Disorder,Admitting,2025-11-26 10:25:51.846561
+81c4dafb-7ab4-4190-90f7-34c043a47642,206892d2-5511-46f9-9c7b-e1bca082715b,J44.9,"COPD, Unspecified",Admitting,2025-07-17 10:09:28.429560
+2fbb5805-6b72-4d8a-9fbb-288fd6835aee,40416f55-0965-4fad-84b2-0080b77bb9d3,A41.9,"Sepsis, Unspecified",Admitting,2026-01-29 20:36:53.068921
+59cd4901-4255-4cba-929e-6506fc5266ff,4595f2df-2410-449f-a2b7-f010b51bcfa9,J44.9,"COPD, Unspecified",Admitting,2025-06-11 23:21:42.179460
+088b0f4e-ebb2-48d6-853a-3690f737fc59,9550f3fa-21bd-44c8-831b-0b065802889f,J44.9,"COPD, Unspecified",Primary,2026-02-11 09:59:33.179074
+712d1542-a52c-44aa-8734-49b1d23c0dc9,b6aeccfc-8aff-4169-9c39-df1d5a306614,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-09-23 14:34:27.804853
+c20afc0c-89c4-4f65-8ddb-1e6497d62381,52f94028-0db2-4446-a8f9-9a0e3bcff685,J44.9,"COPD, Unspecified",Admitting,2025-02-18 03:35:41.754562
+8664cfbb-4515-404e-8cc8-24946ea59031,c4078e37-5957-4a67-8731-70801c2be46a,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-11-08 06:07:34.055005
+971dbc13-2d4d-4e10-a1db-ec353d863839,ab42ce86-72f5-43a3-9525-2343643db875,F32.9,Major Depressive Disorder,Primary,2025-09-27 17:38:09.192853
+b6c6a8f6-935b-4b40-b17d-344e08b45cc0,15c12e59-f3f1-4b5d-8816-b8c91ef27ca3,E11.9,Type 2 Diabetes w/o complications,Primary,2026-01-17 04:55:00.580643
+3e72bb43-3b6e-4dd2-90b0-578e7d0c31d2,c2320398-f7ae-4a23-bfb3-872254f684ef,E11.9,Type 2 Diabetes w/o complications,Primary,2025-08-17 12:04:00.048620
+afd18159-d3ad-46c8-bdeb-0ded8adb28d7,c389fdcf-efd4-4d72-b820-d21db0dec116,A41.9,"Sepsis, Unspecified",Secondary,2025-10-14 04:30:15.491126
+a567abb9-43c5-4301-a293-9e1d77c1e5df,63cc69e9-6410-45fa-abd1-2ecffb46bf84,A41.9,"Sepsis, Unspecified",Admitting,2025-04-25 08:40:03.770484
+c294ef0d-ea0c-4ba7-ac9f-7167bc88bb36,240f6a52-6b25-454b-9b78-d45c65607c87,I50.9,"Heart Failure, Unspecified",Primary,2025-12-15 14:17:29.638513
+06d4f600-c4eb-4d3b-8652-4ab8271f43b7,2577e1ca-4621-4b4e-8d79-776aea48ccbf,J18.9,"Pneumonia, Unspecified",Admitting,2025-02-22 09:22:00.841013
+37f33263-90ee-4faf-b6a6-08853a3b2b81,91720aec-d664-421c-b666-ef1c313236c1,J44.9,"COPD, Unspecified",Primary,2025-08-02 17:12:58.948557
+80bd2b14-cc3e-468e-ade5-1b33e4447cd3,bac0e0c2-f133-40ca-9da4-8d535f01e527,I10,Essential Hypertension,Primary,2025-09-16 00:49:05.471003
+cf2ad4e5-58e5-4e8d-af85-89b7d751316b,f2d0ed74-a86c-4b93-931b-5d100e74122f,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-02-20 20:09:42.517753
+11a302a3-cd7e-49bd-82c9-d3147622037f,8268fd90-ba82-428f-8b7e-c1976f9e9ba5,K21.9,GERD,Admitting,2025-12-04 23:08:42.585641
+4d3c0597-6658-49f5-8325-6e79ba397e51,a7ebf7c4-22bd-41d0-9d8c-f0c0741247a3,I10,Essential Hypertension,Secondary,2025-09-16 13:58:19.784319
+527dfeaf-008c-4a8e-8e7f-cccf7d92a59d,98229e16-4da2-46ed-bb40-fd65cf861d02,J44.9,"COPD, Unspecified",Secondary,2026-01-18 08:44:54.506294
+10e314e7-5ab7-42c8-8b62-8f6f9bfba746,b275043e-5a42-48ca-906f-dac96d578c1d,E11.9,Type 2 Diabetes w/o complications,Primary,2026-02-11 17:48:49.596342
+02a6a8b5-a009-4bf5-adc3-d7d2795d89db,fe3c2d78-6f82-4544-92af-4b7a9a93ba23,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-06-03 21:44:43.756517
+bfe92580-f694-4635-8fa6-26d967e72ff1,3798a137-750f-4b20-949c-c1e6a654a2cd,I10,Essential Hypertension,Secondary,2025-09-08 14:34:46.080665
+a13e8957-6369-4951-92de-66beec5884cf,21ed2767-5132-4265-8386-b70cec241acd,E11.9,Type 2 Diabetes w/o complications,Admitting,2026-01-26 22:41:22.644409
+c533816e-404c-4edc-b2c9-060195b3ccb1,01a5137b-a757-4dd0-ab15-9ea250345043,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-10-12 12:41:58.465582
+951c8cf3-4a23-494a-831f-56cca917b621,2e1aa61f-d6cf-4c75-a39d-1ff61f011826,K21.9,GERD,Primary,2025-11-04 05:25:50.416580
+faa6c6ea-7098-43a2-adf3-7cc255c6ef30,805916ab-d284-4f42-96db-07e94de8b92b,I10,Essential Hypertension,Primary,2025-06-21 13:18:27.622996
+58c9da9d-f76d-4c1c-90bb-6c4ee36ad6f0,fcd332f7-4f03-42e8-b76a-cca3da49f66c,I50.9,"Heart Failure, Unspecified",Admitting,2025-09-04 11:25:45.946338
+30030547-b49b-40c7-9d06-763a3dc5d093,d2c8bcd2-8035-4fe5-a2ce-821a7ac5f030,J18.9,"Pneumonia, Unspecified",Primary,2025-05-03 18:13:41.606094
+03b3667e-6b9f-4500-9c2b-e49d5d1282ff,db471c71-a835-4371-8d12-0c3587868ec5,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-11-08 17:57:04.463949
+f60b4f59-5961-4a76-870b-73b8ea9113fd,4fbe13f6-3beb-49a8-a66e-00d93b16f35b,J18.9,"Pneumonia, Unspecified",Secondary,2025-05-01 18:53:34.681754
+253cce94-7989-42ff-85c6-42dfa7923cac,8df2180b-c543-47b9-9383-ca08a8ae52a5,I10,Essential Hypertension,Secondary,2025-11-21 20:32:19.824415
+ec79475c-2310-4252-b216-22ae43889f32,805916ab-d284-4f42-96db-07e94de8b92b,M54.5,Low Back Pain,Primary,2025-06-21 13:18:27.622996
+6fbbb80f-46d1-418b-99ba-ccec738cf047,ae8a95a4-cce1-4b76-a6a5-98d067bb6536,J18.9,"Pneumonia, Unspecified",Admitting,2025-12-09 14:37:33.388825
+17bb4e54-6f32-4e58-9d1b-3157a715775d,7674a3ad-1cc2-4036-904d-8f8b8aa945f2,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-03-09 10:22:23.657989
+3b66303c-8d2e-47ef-9ede-aef666fcdd95,c91800c5-b153-403c-b4c3-6a7e37c3b90e,M54.5,Low Back Pain,Secondary,2025-05-20 18:25:44.069973
+677c278d-204f-461a-b349-1b3b9efb2f85,79f1275b-c933-43aa-9c78-90ef9a83704d,M54.5,Low Back Pain,Secondary,2025-07-09 21:05:07.807532
+21b5344a-028c-4906-9469-c2fba60c4414,de218fca-3162-4d9c-9637-69516c0129ff,M54.5,Low Back Pain,Primary,2025-08-26 00:49:46.934892
+11efe8ea-a057-4e59-9eb3-58a05b468843,dcc39bef-6515-42e2-8f55-72a9f7296bbc,A41.9,"Sepsis, Unspecified",Primary,2026-02-04 20:46:43.827040
+81743713-6f9f-463e-a0de-b9c34f49845f,457371e8-b163-4f31-9b80-d400f76cc96e,K21.9,GERD,Secondary,2025-10-03 19:05:49.153840
+6ec8413d-304d-4283-8856-5c0071e07b5f,1fcbf399-84ac-4e4f-b4d6-54dde3217ddc,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-06-10 10:24:19.690014
+e1cc72f8-a4c1-4307-ba5f-9d5b1af198f6,1973c118-ae01-4ead-b653-a606afc1eb4c,K21.9,GERD,Secondary,2025-12-01 17:05:45.935474
+301683f9-b068-4bad-bbd9-75b2d23237da,5897787d-697e-473d-80e2-9493efd7b23f,A41.9,"Sepsis, Unspecified",Admitting,2025-04-07 08:37:02.449363
+5620dc8d-548b-4c63-b21f-3b7d0d3fd297,b2e29b15-a560-4e77-ad43-10f6ca789a28,N18.9,"Chronic Kidney Disease, Unspecified",Primary,2025-05-11 14:48:28.409791
+da30a40c-b8c5-48b9-9abf-1422f58c5d2e,7eec453e-9c6b-45e6-9d5a-038ce2105894,M54.5,Low Back Pain,Secondary,2025-08-18 01:54:33.662775
+3f4f0546-756b-46bc-a396-5c707ec86a18,08e4f509-708d-4158-9b21-e47ba1e3a97e,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-08-25 14:11:16.449023
+277e408e-d915-45aa-9056-84bd7a0015ed,29c89b05-11a9-4aea-86ff-6f7013fab550,E11.9,Type 2 Diabetes w/o complications,Primary,2025-12-22 15:03:44.452035
+2026451f-5359-4bb1-a493-e0b295b0bda6,8bbbedff-48dc-445b-bb44-6ad3d596da48,J44.9,"COPD, Unspecified",Primary,2025-10-27 08:54:26.953299
+d4de1741-829f-48e3-9e69-fe0f25bf2f3e,a8713f18-356d-4aa6-99bd-88b851b3c7d7,J18.9,"Pneumonia, Unspecified",Primary,2025-05-20 22:56:59.815932
+746c7c7e-e44c-4fb6-b9ca-4b75ca257990,1c9fda98-3238-4ece-8a3e-4a6a43b35694,E11.9,Type 2 Diabetes w/o complications,Secondary,2025-10-10 15:20:21.401878
+ff931e50-8635-4606-946e-82fd05bb4477,49c5bbee-7c77-4cdb-9836-63d4b43fabda,E11.9,Type 2 Diabetes w/o complications,Primary,2025-05-31 00:15:31.271686
+053bd9a5-2323-4b26-b8b5-99f098ec83a1,89d72dac-9d39-4fda-a9f7-1d00962fa2f6,J44.9,"COPD, Unspecified",Secondary,2025-05-25 21:43:17.148108
+3fc51acf-a2af-461c-8c1f-3a00148f6e7c,fdf087ca-e1ed-40db-bdc3-903d3f6f168c,K21.9,GERD,Secondary,2025-02-16 07:43:24.636765
+7668b01b-39a3-43fa-a74c-2c16984e41d3,276a962a-30be-45ea-a7fc-85bd222dacd7,J44.9,"COPD, Unspecified",Primary,2025-06-30 13:08:34.667164
+5686016e-db11-4870-973c-4854d1eb2a39,f64ca0cc-3774-4f24-baa6-13cf56402393,M54.5,Low Back Pain,Secondary,2025-02-28 00:16:35.363526
+b19fb6a3-523a-4614-b82e-ecfba6e98154,3d99dbe9-c6ea-4e78-9d11-ed0c01ab49a8,I50.9,"Heart Failure, Unspecified",Secondary,2025-09-06 10:13:19.220134
+aaf9045d-8066-405a-bd8e-d5a10f8aaec8,54892175-01f9-4844-b80e-4f92b3036d30,J18.9,"Pneumonia, Unspecified",Admitting,2025-06-28 03:57:13.788895
+65260f25-525f-465f-9c8a-18aa40165c74,360e6f7b-a4e6-4f33-a34b-ad92f06228d9,A41.9,"Sepsis, Unspecified",Admitting,2025-11-02 00:10:14.525580
+31ed509b-ecd6-47e4-8bf0-f0ba9cb0a491,64372b4e-80b3-4e60-99bc-72bb3f2431ae,M54.5,Low Back Pain,Primary,2025-03-27 07:06:28.561386
+8d0d9055-ecd2-4196-880e-afe69606fde9,ffe54a50-b49b-4245-8994-1194fef5c613,K21.9,GERD,Primary,2025-12-12 12:57:58.068900
+e02be95c-8434-4617-84cf-05c06a60389a,6b0deb42-5ea9-44ea-b6b1-18e3a9a190a6,J44.9,"COPD, Unspecified",Admitting,2025-03-29 02:44:01.164940
+d9a9677e-3676-428a-9810-9ca0bfa1319a,54f58335-17d3-4253-a5fd-6e614c9122e5,I50.9,"Heart Failure, Unspecified",Admitting,2025-10-25 00:06:42.073409
+59f3d4f2-64a7-45bd-aaaf-67f6b1e33b30,bf62d423-b46f-4478-bbfb-e564923c0503,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-08-13 01:07:22.300344
+6bbb3e73-65f4-47d5-8908-e3eff3686707,76b8d8d5-8f48-4ef0-8bef-7d0b1de99e9f,J18.9,"Pneumonia, Unspecified",Secondary,2025-09-29 19:17:22.595389
+beb9afe5-7fab-4031-b944-0f786586e685,dc18a51a-6dbd-41df-85ec-4faef834a175,F32.9,Major Depressive Disorder,Secondary,2025-11-28 09:41:54.677074
+608b0723-a598-45ac-8d1e-f0d8e0411ec5,bff5f53b-3981-4fdd-8c4e-826286fb93ee,A41.9,"Sepsis, Unspecified",Admitting,2025-09-27 11:29:48.288869
+a0f9b1e7-fa86-4720-9533-94bba94d5e8e,a98ae3a6-d483-4311-b59c-f5d744452b16,I10,Essential Hypertension,Admitting,2025-05-05 19:22:54.329831
+bcc0812d-60aa-414a-a0c6-c8ab73b6f389,c71d7515-f3bf-4743-b4f3-5c5363b050ed,A41.9,"Sepsis, Unspecified",Primary,2025-04-29 11:28:52.732575
+3142f41c-6238-4f55-a36d-a1cfa3574236,4470f487-a16d-429c-b617-e70136657b75,E11.9,Type 2 Diabetes w/o complications,Primary,2025-06-01 11:32:38.808507
+e719cca9-6031-40c4-a645-5d909ab3aec9,abeb529d-6893-43fa-84ed-4dc9ece08360,K21.9,GERD,Secondary,2025-06-18 10:56:29.351865
+69906958-d056-4ac5-8475-1ef6b1786153,418472ee-397c-45e4-b9b4-f50f2167decd,I50.9,"Heart Failure, Unspecified",Admitting,2025-02-18 09:58:00.616765
+0f396279-4786-446f-802c-82f799936e16,7f94bed5-6c13-4233-b961-9a07ed791e8b,J44.9,"COPD, Unspecified",Secondary,2025-12-30 05:34:10.338273
+a29fb501-69b5-4327-aab3-996c29516a3a,2829c2cb-c28b-4421-ba97-64081465fbbf,M54.5,Low Back Pain,Admitting,2025-11-18 14:18:44.698124
+1f8ac27b-0116-4632-a452-9729888196f5,2d43dbd2-f9df-448b-a86b-838c37c93df1,F32.9,Major Depressive Disorder,Admitting,2025-05-14 17:48:27.888224
+571b340e-8abf-4ea9-9b1b-53c52e22f1ec,b7eb1bed-d758-4b4e-93d8-b4c48344d512,E11.9,Type 2 Diabetes w/o complications,Primary,2025-08-30 01:06:06.648050
+b78f8110-cb61-4e73-973f-1ded763125c9,cb7595d3-13e3-432f-aa17-f6696b1cd608,I50.9,"Heart Failure, Unspecified",Admitting,2026-02-09 11:07:36.042883
+b39244db-d45e-495b-93b7-983f82089915,352e383b-a30e-4b6b-b6c1-7d132212aa96,M54.5,Low Back Pain,Primary,2025-08-17 01:03:55.718764
+1c63f20b-c429-4f4e-a140-cf9d3facbdb4,2f47cbdf-83b4-414b-b6d3-295e45103d60,F32.9,Major Depressive Disorder,Primary,2025-04-11 04:51:53.551253
+5350b81b-f215-4472-bf73-2fbf2693943b,9fd2a5e1-2405-4d78-9725-8ad0dee8cd4b,N18.9,"Chronic Kidney Disease, Unspecified",Secondary,2025-07-25 16:10:20.798743
+cd27f77f-542d-47d3-8081-e2bd49f7b43f,aa6c0d4b-85cd-4df8-bd8f-fc4b7ce06903,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-06-13 15:52:36.802021
+200aca9b-6eb6-48dc-849c-a670e0f53b5d,e11647d1-4515-47e3-999c-992d722b8151,E11.9,Type 2 Diabetes w/o complications,Admitting,2025-12-18 18:24:30.205771
+2da6b307-72b6-46ac-9fb0-1fdcb39d5f6b,a3199793-5caa-4ecd-bc41-b3b621ca179a,M54.5,Low Back Pain,Primary,2025-09-21 17:11:25.734845
+8d5133df-ff3c-4372-89c3-91515accba43,8f7db491-2060-4e75-b142-0563be683182,K21.9,GERD,Admitting,2025-08-28 20:12:50.207350
+8e5a6b81-f627-4a43-8277-d6ea15440aff,b0dd4cc8-456e-41fe-aac6-1549efd7d8ae,J44.9,"COPD, Unspecified",Primary,2025-07-15 02:00:12.285997
+aa6c4983-bb51-4cc4-8bbb-805e8c732e0f,b08ee48d-2808-4232-b021-47c3cc2e1864,A41.9,"Sepsis, Unspecified",Admitting,2025-08-19 17:22:52.884765
+474f6595-a673-4f4e-bdff-1d62a48f8d6b,15e90f49-f011-4623-aa03-d80a7a448e1f,A41.9,"Sepsis, Unspecified",Secondary,2025-03-06 18:47:07.905752
+45c33a6a-e43c-45db-b8f9-1999dc0181b5,4595f2df-2410-449f-a2b7-f010b51bcfa9,J18.9,"Pneumonia, Unspecified",Secondary,2025-06-11 23:21:42.179460
+0c0a8d30-959f-4260-80eb-4fb45513fa3c,a122a6b0-668b-400b-8d62-778e9d3c8784,M54.5,Low Back Pain,Secondary,2025-05-23 13:29:49.992234
+fd48d56e-8e18-4353-828f-7cbfd0b0fc11,3233f0d4-977e-4ba1-96c4-fe2c1692b7b1,K21.9,GERD,Secondary,2025-08-21 09:07:42.410037
+a2544b19-3276-4848-9f80-812468bc8158,c89b3381-f614-4250-8432-f4097410f24c,N18.9,"Chronic Kidney Disease, Unspecified",Admitting,2025-12-27 08:56:01.374405
+a7e7a431-c21a-4247-b0a7-386e2d3a6c54,54aaea83-8890-4e5d-8147-2439d5559510,A41.9,"Sepsis, Unspecified",Secondary,2025-12-01 09:42:32.466501
+86573dec-3b70-4dd0-b865-bd2f0cc41914,00bf4f4b-807e-4a82-afdf-aa2d824240d7,J44.9,"COPD, Unspecified",Primary,2025-07-10 09:17:38.454026
+8b7d2aea-f920-4938-b880-8130b93f4370,2215eeff-1322-4db8-ba94-f58a076f6a67,I50.9,"Heart Failure, Unspecified",Secondary,2025-10-07 06:25:04.789527
+d43f2dab-5936-48a2-aaff-b20ad9d261f0,fae9e776-2972-4f58-b238-9a337718b9ae,J44.9,"COPD, Unspecified",Admitting,2025-03-27 04:47:49.742717

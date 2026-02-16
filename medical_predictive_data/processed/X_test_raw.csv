@@ -1,0 +1,129 @@
+encounter_id,encounter_type,discharge_disposition,gender,ethnicity,blood_type,age_at_encounter,length_of_stay,Diastolic BP_mean,Heart Rate_mean,Respiratory Rate_mean,SpO2_mean,Systolic BP_mean,Temperature_mean,Diastolic BP_max,Heart Rate_max,Respiratory Rate_max,SpO2_max,Systolic BP_max,Temperature_max,Diastolic BP_min,Heart Rate_min,Respiratory Rate_min,SpO2_min,Systolic BP_min,Temperature_min,Lab_Creatinine,Lab_Glucose,Lab_Hemoglobin_A1c,Lab_Total_Cholesterol,Lab_White_Blood_Cell_Count,Has_Diabetes,Has_Hypertension,Has_Heart_Failure,Has_COPD,Has_Kidney_Disease,Medication_Count
+b5b6f9ea-2df2-496f-8046-4a068f88e9dd,Outpatient,SNF,M,Hispanic,O-,43,6.0,,,,,132.3,99.1,,,,,132.3,99.1,,,,,132.3,99.1,,83.905,,135.94,,0,0,0,0,0,1.0
+e387e0bc-af3d-4a07-bd28-75b11ad5f75b,Inpatient,,F,Asian,O+,24,3.0,,,,,,99.4,,,,,,99.4,,,,,,99.4,,,,155.745,,1,0,0,0,0,1.0
+0c14b817-d01f-4a19-904d-d9756c0b13b2,Inpatient,Home Health,M,Asian,B+,75,9.0,,,,,,,,,,,,,,,,,,,,,,,7.05,1,0,0,0,0,1.0
+eec0b268-d1b2-4efb-8dde-4743d7091af1,Outpatient,Home,F,Asian,AB+,88,0.0,,,13.0,,,,,,13.0,,,,,,13.0,,,,,117.91,7.0,,,0,0,1,0,0,2.0
+512da1a5-e017-4992-ba4b-46e55aa16f39,Inpatient,Expired,M,Hispanic,B-,88,3.0,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,0.0
+04aab7bd-91e9-4bb0-84d9-ea47e349853a,Inpatient,Expired,M,Asian,B+,53,2.0,,,,,,,,,,,,,,,,,,,,,,180.58,,0,0,0,0,0,1.0
+1f09982f-0645-48c5-a98a-7163b34dce75,Inpatient,Home,M,Asian,AB-,27,6.0,,,,93.9,,,,,,96.3,,,,,,91.5,,,,,,,,0,0,0,0,1,0.0
+200cfb31-13e6-4726-a13a-79575f415f9e,Outpatient,Home Health,F,Non-Hispanic White,O+,19,9.0,,74.5,,,,,,74.5,,,,,,74.5,,,,,,,5.37,129.81,,1,0,0,0,0,2.0
+9ccd9dd9-a965-4320-8da4-47327d9df501,Emergency,Home,F,Hispanic,A-,19,1.0,,,,,,98.2,,,,,,98.2,,,,,,98.2,1.12,,,,,1,0,0,0,1,0.0
+dc76a495-3704-4b28-b93a-d4fe90c8a4f0,Emergency,Home Health,M,Asian,AB+,43,1.0,60.7,,17.6,95.8,,,60.7,,17.6,98.8,,,60.7,,17.6,92.8,,,,106.58,4.3,,,0,1,0,0,0,0.0
+3dcfdbb4-3247-43ca-981d-a178f9672cae,Outpatient,Expired,M,Black/African American,O+,38,10.0,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,0,0,2.0
+847fcd12-2a2c-41e4-8e06-4dd1322b92e8,Emergency,Expired,F,Black/African American,A+,70,13.0,75.6,67.35,15.1,92.3,,,75.6,73.7,15.1,92.3,,,75.6,61.0,15.1,92.3,,,,,,222.48,6.42,0,0,0,0,0,1.0
+3e3f1cac-3ce0-4945-898c-1c22aa01ef82,Emergency,Home Health,F,Non-Hispanic White,AB+,24,13.0,68.8,,,,,,68.8,,,,,,68.8,,,,,,,91.98,4.21,,,0,0,0,0,0,1.0
+442421ca-4537-46f2-84ad-a139bfcb2927,Emergency,,M,Asian,AB-,27,5.0,,,,,129.6,,,,,,129.6,,,,,,129.6,,,103.09,,,,0,0,0,0,0,1.0
+b6b7f8e5-9be0-4fc9-8df7-ced71e86432b,Emergency,,M,Non-Hispanic White,AB+,25,9.0,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0.0
+98229e16-4da2-46ed-bb40-fd65cf861d02,Inpatient,Home Health,M,Other,A+,34,3.0,,,,,,,,,,,,,,,,,,,,,,203.27,7.94,0,0,0,1,0,1.0
+32674648-486b-4601-9017-d1ff965c4847,Emergency,Home Health,F,Non-Hispanic White,B-,59,13.0,,,15.6,,,,,,15.6,,,,,,15.6,,,,,,,182.285,,0,0,0,0,0,1.0
+5bdd0f55-a9ab-4a37-9244-c89a3a689a9e,Emergency,Home Health,M,Other,O-,82,0.0,,,,,,,,,,,,,,,,,,,0.83,,,,,0,0,0,0,0,2.0
+4b16609b-303f-4c4d-8ca9-2e3802d1a2cb,Emergency,Home Health,F,Non-Hispanic White,AB+,21,9.0,,,,,,,,,,,,,,,,,,,0.77,,,,11.62,0,0,0,0,0,1.0
+3e5e952f-2c2b-4371-83cf-e5dde98455f2,Inpatient,Expired,F,Asian,O+,36,1.0,,96.9,,,,,,96.9,,,,,,96.9,,,,,,,,,,0,0,1,0,1,1.0
+2e8dd5af-b1ad-4987-93c0-0e01f505d441,Outpatient,SNF,F,Other,AB-,22,4.0,,,18.3,98.4,,,,,18.3,98.4,,,,,18.3,98.4,,,0.97,,,234.53,,0,0,0,0,0,0.0
+1c9fda98-3238-4ece-8a3e-4a6a43b35694,Outpatient,Home Health,F,Non-Hispanic White,A+,71,1.0,,,,,114.05,,,,,,131.0,,,,,,97.1,,,,4.32,,5.32,1,0,0,0,0,0.0
+04844e17-959a-426c-82b9-83a189c7fb67,Emergency,Home Health,M,Black/African American,A-,26,0.0,,,,95.8,,,,,,95.8,,,,,,95.8,,,,,,,,0,0,1,0,0,1.0
+48a8d936-4864-4b51-b967-97a1ffee7448,Emergency,SNF,F,Other,A-,67,4.0,,,,,,,,,,,,,,,,,,,1.38,,,,,1,0,0,0,0,1.0
+ad24c8ef-779f-4bda-9b86-11a73a77ec00,Emergency,Expired,M,Black/African American,B-,85,11.0,,,13.8,,,97.1,,,13.8,,,97.1,,,13.8,,,97.1,,,,,,0,0,0,0,0,1.0
+54ec5d21-3f4b-4ebb-897b-c996674417ad,Emergency,SNF,F,Other,O-,39,6.0,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1.0
+ed5fe913-08f3-4268-b655-3daf0a402392,Outpatient,Home,F,Non-Hispanic White,B-,87,5.0,,,13.5,,,,,,13.5,,,,,,13.5,,,,,,7.48,129.1,,0,1,0,1,0,1.0
+242df2a9-a3b2-4a5b-892d-bbe8d457889e,Inpatient,Home,F,Other,B-,29,9.0,,,,,,,,,,,,,,,,,,,,,,,5.44,0,0,0,0,0,1.0
+d9265fda-c683-4a02-9df2-8f51f8cf8032,Outpatient,Home,M,Other,B-,60,11.0,,81.0,,,,97.3,,81.0,,,,97.3,,81.0,,,,97.3,,,,,3.9,0,0,0,0,0,1.0
+6effb006-02a1-48f5-b0f2-2d6ed9223f2e,Outpatient,Home,F,Asian,B+,30,9.0,,,,,,,,,,,,,,,,,,,,,7.33,,,0,0,0,0,0,0.0
+7114dc94-c07d-4e1a-aee2-4c10b05f1f85,Emergency,,F,Other,AB-,52,9.0,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1.0
+298faae4-256e-430e-9c9a-ac82247592ce,Outpatient,Home Health,F,Asian,A+,60,9.0,,,,,,,,,,,,,,,,,,,,84.01,,,,0,0,0,1,0,0.0
+54892175-01f9-4844-b80e-4f92b3036d30,Outpatient,Expired,F,Other,AB-,22,3.0,78.0,,13.2,,98.4,,78.0,,13.2,,98.4,,78.0,,13.2,,98.4,,,,,,,0,0,0,1,1,0.0
+9b25979c-7fa7-461e-9931-eae3f5040ce2,Emergency,Home Health,M,Asian,A+,17,6.0,,,17.4,,,,,,17.4,,,,,,17.4,,,,0.8400000000000001,,6.33,,10.09,0,0,0,0,0,0.0
+c105f871-fb4d-4a2f-9cee-4e72a310461f,Outpatient,Home,F,Asian,AB-,40,0.0,,,19.7,91.3,,,,,19.7,91.3,,,,,19.7,91.3,,,,,,,,0,0,0,0,0,3.0
+43abb3b9-f353-4fc2-950b-56087b04bb13,Emergency,Home,F,Asian,B+,57,6.0,,,,,,,,,,,,,,,,,,,,58.38,,228.85,,0,0,0,0,0,1.0
+7fbf6ab3-1be4-465a-b093-b96da76a921b,Outpatient,Home,M,Other,B-,26,11.0,,69.5,,,,,,69.5,,,,,,69.5,,,,,,,,,,0,0,0,0,0,3.0
+ee56d35e-3853-46cc-bc78-9025487d6468,Emergency,Expired,F,Asian,A-,88,5.0,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1.0
+4e6c6871-a91b-4128-b4fb-988d5a230f37,Outpatient,SNF,F,Black/African American,A-,31,13.0,,,14.0,,,,,,14.0,,,,,,14.0,,,,,,7.6,,,0,0,0,0,0,0.0
+f68af531-9eeb-4725-8bad-8f9fcd6298a3,Emergency,Expired,F,Black/African American,A-,41,6.0,67.2,,,,,,67.2,,,,,,67.2,,,,,,,88.01,,120.37,,0,0,0,1,0,2.0
+a920adf6-91d7-415c-b812-943d9aefea2e,Outpatient,Home Health,F,Asian,AB+,25,5.0,,,,,,,,,,,,,,,,,,,,81.83000000000001,,,,0,0,0,0,0,2.0
+94afad8d-e48e-4d67-a39a-89930dde1cf9,Emergency,Home Health,M,Hispanic,AB+,59,12.0,,,,,,,,,,,,,,,,,,,,,3.86,116.31,,0,0,0,0,0,0.0
+286eb931-47b9-4a5f-ab5e-e83617031701,Emergency,SNF,M,Other,O+,35,10.0,,,,,,,,,,,,,,,,,,,,,,,11.79,0,1,0,0,0,3.0
+a9455e98-8b72-4c91-ade1-405fa928e1dc,Inpatient,,M,Other,O+,39,2.0,64.6,,,,,,64.6,,,,,,64.6,,,,,,0.54,,,,,1,0,0,0,0,1.0
+e8361398-9e94-40bd-83c9-c262a3dbf2cc,Outpatient,Home,F,Asian,AB-,25,12.0,,,,,,98.25,,,,,,99.3,,,,,,97.2,,,,,,0,0,0,0,0,3.0
+e5bf9a1e-f7ba-4ee5-b556-c9ce93f2ffe4,Inpatient,Home,M,Hispanic,AB-,20,0.0,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,0,0,1.0
+9b50fc0f-511d-4f7d-bab2-222248bf601d,Inpatient,Home Health,F,Hispanic,A-,82,6.0,,,,,,97.2,,,,,,97.2,,,,,,97.2,,,,,,1,0,0,0,0,2.0
+04581193-9c62-4314-a3c4-09f98c1ab638,Inpatient,Home Health,F,Asian,A+,88,9.0,,,,,,,,,,,,,,,,,,,,,4.62,147.99,,0,0,0,0,0,2.0
+8999e378-c013-4554-a7b5-dc0633aa9dec,Emergency,Expired,M,Other,B-,80,5.0,,,,,121.4,,,,,,121.4,,,,,,121.4,,,,,,,0,0,0,0,0,2.0
+4f0dcb1d-e87a-45da-89ea-7189c97f3d86,Outpatient,Home Health,M,Other,B-,44,10.0,,,,,,,,,,,,,,,,,,,,,,216.59,,0,0,1,0,0,1.0
+bff5f53b-3981-4fdd-8c4e-826286fb93ee,Inpatient,SNF,M,Asian,A-,43,12.0,75.2,,,90.1,137.8,,75.2,,,90.1,137.8,,75.2,,,90.1,137.8,,,,,,,0,0,0,0,0,2.0
+dd9ea136-41ee-4abc-97f4-c118a53ae036,Inpatient,Expired,M,Black/African American,A-,39,4.0,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0.0
+9b64e2ed-4c53-41c3-989e-4509ed62bd59,Outpatient,Expired,F,Asian,B-,79,0.0,,,14.1,,,,,,14.1,,,,,,14.1,,,,,,5.43,,5.66,0,0,0,0,1,1.0
+15059eb1-da79-4b8e-b190-07e4e8846515,Outpatient,Expired,F,Non-Hispanic White,B+,34,0.0,,,16.8,,,,,,16.8,,,,,,16.8,,,,,,5.95,113.03,,0,0,0,0,0,0.0
+683ab1e9-9a8f-4b01-a75f-4476f931d1cd,Outpatient,Expired,M,Hispanic,B-,84,13.0,,63.6,,,102.5,,,63.6,,,102.5,,,63.6,,,102.5,,,,5.84,,,0,0,0,0,0,0.0
+bc3517c2-ed6d-4ebd-a637-3fd2e43710e9,Emergency,SNF,M,Hispanic,O-,22,14.0,69.8,,,,,,69.8,,,,,,69.8,,,,,,1.1,,,,,0,0,0,0,0,1.0
+5e2434b6-ec9b-4378-8484-bd3d4a257b92,Inpatient,Home,M,Asian,O-,31,11.0,,,13.3,,,,,,13.3,,,,,,13.3,,,,1.26,,,,,0,0,0,0,0,1.0
+9b10347f-f4e5-4490-b444-2aff148461dc,Emergency,Home,F,Non-Hispanic White,A-,44,0.0,,,,99.8,,99.1,,,,99.8,,99.1,,,,99.8,,99.1,,,,,,0,0,0,0,0,3.0
+55dd3f5c-3bd4-4924-ab8e-5860c487dac1,Outpatient,Home,M,Other,O+,49,1.0,,,,94.8,91.6,,,,,94.8,91.6,,,,,94.8,91.6,,,,,,,0,0,0,1,0,1.0
+512a9dba-b430-4fab-af85-edf0b9f661bb,Emergency,Home,M,Other,AB-,36,9.0,,,,,,,,,,,,,,,,,,,1.075,76.11,,,,1,0,0,0,0,0.0
+8df2180b-c543-47b9-9383-ca08a8ae52a5,Emergency,Expired,M,Black/African American,O+,76,9.0,,,,,98.1,,,,,,98.1,,,,,,98.1,,,,,,,1,1,0,0,0,1.0
+5abcd4d5-8d3f-4eda-ae67-5515db620da9,Outpatient,Expired,F,Hispanic,AB-,36,3.0,,,,,,,,,,,,,,,,,,,1.01,,,160.15,,0,0,0,0,0,2.0
+5788c8f7-b073-4a4b-a732-a246c3dc357b,Outpatient,Home Health,F,Other,AB-,65,0.0,,,,,,,,,,,,,,,,,,,0.63,,,,,0,0,0,0,0,1.0
+15715356-4bc5-4af2-a736-c4d109805916,Outpatient,Expired,M,Hispanic,O-,31,12.0,,,12.4,,,,,,12.4,,,,,,12.4,,,,0.97,,,,,0,0,0,0,1,1.0
+8e0b5f11-d367-42ed-92fc-31891028c714,Outpatient,Expired,F,Other,AB-,62,4.0,,96.7,,,,,,96.7,,,,,,96.7,,,,,,111.87,,,,0,0,0,0,0,0.0
+40c053e8-1b42-4fd3-af9e-42602cc4fafe,Outpatient,Expired,F,Non-Hispanic White,O+,84,12.0,,,17.9,,,,,,17.9,,,,,,17.9,,,,,,,224.86,,0,1,1,0,0,0.0
+47d31721-e189-4a2d-b60f-0ecf981a02de,Inpatient,Home,F,Non-Hispanic White,O-,71,4.0,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1.0
+8cb75341-face-4985-9b5a-165e7eac61ad,Emergency,Home,M,Hispanic,A+,36,13.0,,,19.0,,,99.0,,,19.0,,,99.0,,,19.0,,,99.0,,,,,,0,0,0,0,0,4.0
+6ee1a29b-39f7-4862-8e61-27e895454ebf,Outpatient,Home,M,Hispanic,O-,59,8.0,,,,92.6,,,,,,92.6,,,,,,92.6,,,0.72,,,,,0,0,0,0,0,2.0
+5dfa753c-9dd3-4c90-90cb-6c979ad78e7a,Outpatient,Home Health,F,Non-Hispanic White,A+,71,7.0,,,,,,,,,,,,,,,,,,,,,,,9.73,0,0,0,0,0,2.0
+b0dd4cc8-456e-41fe-aac6-1549efd7d8ae,Outpatient,Home,M,Asian,A+,38,6.0,,,14.0,,,,,,14.0,,,,,,14.0,,,,0.93,,,166.9,,0,0,0,1,0,1.0
+d029ff48-01be-4ded-8c64-49ae35fe07ca,Inpatient,Home,F,Asian,O-,23,0.0,,,,,108.5,97.7,,,,,108.5,97.7,,,,,108.5,97.7,,97.65,,,10.79,0,0,1,0,0,0.0
+75fa617a-6ae7-4f16-97e9-db4c8cede9d9,Outpatient,Expired,M,Other,AB+,29,8.0,,,,,,99.5,,,,,,99.5,,,,,,99.5,,,6.59,,,0,1,0,1,0,1.0
+77b2cd0e-3ed3-4664-aa4a-02753dbf7fcd,Inpatient,Expired,F,Asian,A-,42,14.0,,84.5,,,,,,84.5,,,,,,84.5,,,,,1.41,,,,,0,0,0,0,0,1.0
+83da0603-88e2-4572-b6a7-bf748ef24124,Inpatient,Expired,M,Black/African American,O+,50,8.0,,,,90.1,,,,,,90.1,,,,,,90.1,,,,101.58,,,11.77,0,0,0,0,0,1.0
+c8f0d922-b339-4c5a-828a-a292d00d81f7,Emergency,Expired,M,Black/African American,B+,82,11.0,,,,,,,,,,,,,,,,,,,,,,235.48,,0,0,0,0,0,1.0
+4670b2b5-94b7-429e-99a3-4916229dd2a3,Outpatient,,M,Asian,A-,84,0.0,,,,,,,,,,,,,,,,,,,,,,151.94,10.43,0,0,0,0,0,2.0
+4b610a2d-f9f7-4b02-83ae-34f8a7f28cbb,Inpatient,SNF,F,Black/African American,AB-,66,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0.0
+058c9115-a758-4891-8f0d-31846d3d20e2,Inpatient,Home Health,F,Asian,O+,22,7.0,,,,,,,,,,,,,,,,,,,,,6.16,,,0,0,0,0,0,0.0
+c4cb5607-a840-4307-80cd-2eb24f503c7f,Emergency,,F,Asian,O-,60,9.0,,,,,,97.6,,,,,,97.6,,,,,,97.6,,,,,,0,0,0,0,1,2.0
+e93db2c8-7508-4141-80cd-bc517901d9d3,Outpatient,Expired,M,Other,O-,66,9.0,,,,,,98.2,,,,,,98.2,,,,,,98.2,,,,,,0,0,0,0,0,0.0
+c89b3381-f614-4250-8432-f4097410f24c,Emergency,Home,F,Hispanic,B-,52,3.0,70.1,,,90.7,118.6,,70.1,,,90.7,118.6,,70.1,,,90.7,118.6,,,57.27,,,,0,0,0,0,1,1.0
+ddf5d990-aa38-44e9-bd93-78961060259b,Emergency,Home Health,F,Asian,O+,89,6.0,,,,,,,,,,,,,,,,,,,,100.27,6.73,,,0,0,0,0,0,0.0
+fb47f801-5866-4dbb-bc19-e83ba372069d,Inpatient,Home Health,F,Asian,AB-,79,4.0,,,,95.7,,97.3,,,,95.7,,97.3,,,,95.7,,97.3,1.14,,,,6.49,0,0,0,0,1,1.0
+af2f6d73-2a16-45ca-9aa3-ec851f840ab2,Outpatient,Home Health,M,Asian,A+,36,12.0,,,,,123.1,,,,,,123.1,,,,,,123.1,,,,,,11.9,0,1,0,0,0,3.0
+4d0f6972-60e1-455e-a253-8f9e5bee1b60,Inpatient,,M,Asian,B+,17,14.0,,78.7,,99.9,,,,78.7,,99.9,,,,78.7,,99.9,,,,,4.52,,,0,0,1,0,1,1.0
+cecc1247-5d4b-479b-b440-8ecfe0113326,Outpatient,Home,M,Asian,B+,42,6.0,,,14.95,,133.1,,,,16.3,,133.1,,,,13.6,,133.1,,,107.91,,,,0,0,0,0,0,0.0
+8e910799-c78f-4ea3-b4e2-99f1ce6c5465,Inpatient,Home Health,M,Other,B+,77,12.0,,,18.3,,,,,,18.3,,,,,,18.3,,,,,,,129.28,11.03,0,0,0,0,0,0.0
+3e6b8a79-47f2-41ae-9ed2-fd24e693f08b,Outpatient,SNF,M,Other,AB+,80,10.0,,,,,,,,,,,,,,,,,,,,,,,10.22,1,0,0,0,0,2.0
+33e7b5ee-ae56-4bb0-889f-d37450a647b4,Emergency,Expired,M,Hispanic,B-,88,13.0,,71.9,,,,,,71.9,,,,,,71.9,,,,,,92.57,,161.8,5.26,0,0,0,0,0,0.0
+a1892ed0-2c44-4d91-b447-1b06149012a7,Outpatient,Expired,M,Hispanic,O+,63,1.0,,86.5,,,,,,86.5,,,,,,86.5,,,,,,,,,,0,0,0,0,0,4.0
+d55fbc4c-0513-4d9c-b42b-d0b5a695a214,Outpatient,Home Health,M,Asian,O+,29,6.0,,,19.0,,,,,,19.0,,,,,,19.0,,,,,,5.66,,,0,0,0,0,0,1.0
+d11e05fb-a576-41f2-9cc7-d72d3133e775,Outpatient,Expired,M,Hispanic,AB+,23,6.0,,,,,,,,,,,,,,,,,,,,72.1,,,,0,0,0,0,0,3.0
+373490c9-8ee9-4b23-8d4a-c9027a4c77ea,Emergency,Home Health,M,Hispanic,A-,43,0.0,,,,,,,,,,,,,,,,,,,,,,,12.21,0,0,0,0,0,0.0
+ca3e43dc-6cdf-469e-9334-ae920403c700,Inpatient,Home Health,M,Non-Hispanic White,O+,63,10.0,,,12.1,,,98.5,,,12.1,,,98.5,,,12.1,,,98.5,,,,,,1,0,0,1,0,0.0
+7d12f4da-4b0b-4bc9-9210-dcdbebc9d59a,Inpatient,Home Health,M,Hispanic,O+,63,8.0,,,,,,,,,,,,,,,,,,,,93.69,6.02,220.03,,0,0,0,0,0,1.0
+dfc76270-dbc9-4ae1-92aa-a0743abfe95c,Emergency,Home,M,Hispanic,A+,84,0.0,,86.1,12.3,,,98.4,,86.1,12.3,,,98.4,,86.1,12.3,,,98.4,,,,,,0,0,0,1,1,0.0
+4c923d4c-ede0-4d63-9016-fd341d8a67b8,Emergency,Expired,M,Other,O+,50,8.0,,72.5,,102.84,,,,72.5,,114.48,,,,72.5,,91.2,,,,,,138.72,,0,0,0,0,0,0.0
+84b5c634-8d51-4f02-9315-90301a17c19b,Outpatient,Home,F,Non-Hispanic White,A-,34,14.0,,99.5,,,,,,99.5,,,,,,99.5,,,,,,,,200.05,,0,0,0,1,0,0.0
+dc8b8b22-9a5b-4653-891d-ec65c79c7610,Outpatient,SNF,M,Other,AB-,47,2.0,,,14.7,99.1,,,,,14.7,99.1,,,,,14.7,99.1,,,,,,,,0,0,0,0,0,1.0
+d54ef08d-c3a5-49ec-b517-1b29fa949076,Emergency,Home Health,F,Black/African American,B-,39,0.0,83.0,,,,,,83.0,,,,,,83.0,,,,,,,98.98,,,,0,0,0,0,0,2.0
+0bb28873-32d2-4550-838f-24f129044eed,Inpatient,Home,F,Hispanic,A+,55,5.0,72.3,,,,,,72.3,,,,,,72.3,,,,,,,,,231.29,,0,0,0,0,0,0.0
+05b5f935-6b9c-4e3b-b12c-d770fe261c95,Inpatient,,F,Non-Hispanic White,B-,21,1.0,68.9,94.4,17.7,98.3,,98.4,77.0,94.4,17.7,98.3,,98.4,60.8,94.4,17.7,98.3,,98.4,,,,,,0,0,0,0,0,2.0
+1bb9f072-f4da-4c5e-a308-3c27c6b6dffd,Inpatient,Home Health,F,Other,O-,26,5.0,,,14.8,90.2,123.5,,,,14.8,90.2,123.5,,,,14.8,90.2,123.5,,,,,,,0,0,0,0,0,3.0
+52b513b9-bf54-4cf9-8de0-2f24180e53c2,Inpatient,Home Health,F,Other,O+,52,0.0,61.0,66.6,,,,,61.0,66.6,,,,,61.0,66.6,,,,,,,4.3,,,0,1,0,0,0,1.0
+6f7bab65-d081-4311-9526-3d5f9d780461,Outpatient,Home Health,F,Non-Hispanic White,A-,56,9.0,,,,,,,,,,,,,,,,,,,,,,121.62,,0,0,0,0,0,2.0
+6e2ecb9a-12d9-46c6-b264-f2c6825c0855,Emergency,Home,M,Non-Hispanic White,B+,88,3.0,,,,,,,,,,,,,,,,,,,,,,206.38,,0,0,0,0,1,2.0
+78cd3688-4abe-484d-b37d-81d832a58460,Emergency,SNF,M,Black/African American,O+,38,6.0,,,,,91.7,,,,,,91.7,,,,,,91.7,,,,,102.69,,0,0,0,0,1,1.0
+9a63ac1e-d09c-4c43-8635-77efebfed0e2,Inpatient,,F,Non-Hispanic White,A-,28,12.0,,,,,,,,,,,,,,,,,,,1.07,,,,,0,0,0,0,0,2.0
+3afa7bb7-caf0-436a-a2c2-03745e9b7b6d,Outpatient,,F,Other,B-,81,6.0,,,,92.2,,,,,,92.2,,,,,,92.2,,,,,6.73,110.11,,1,0,0,0,0,2.0
+00bf4f4b-807e-4a82-afdf-aa2d824240d7,Inpatient,Home,F,Black/African American,B+,31,13.0,,,,,166.32,,,,,,166.32,,,,,,166.32,,1.28,,,,,0,0,1,1,0,1.0
+4bfa915a-12ab-4e56-abc5-798b834c7148,Inpatient,Home Health,F,Asian,AB+,76,8.0,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1.0
+6ecdb2a0-7159-40f2-a394-acfc84ec8f6b,Inpatient,SNF,M,Hispanic,A+,44,10.0,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,1,2.0
+334eb0b7-36f9-407d-bb42-9cebfc5533f2,Outpatient,Home Health,F,Non-Hispanic White,A+,41,4.0,,72.8,,,,,,72.8,,,,,,72.8,,,,,,,,132.13,,0,0,0,0,0,0.0
+4c65777c-c5ca-48ad-a787-cbf5f9b520d0,Emergency,Home Health,M,Asian,B+,70,5.0,,,16.9,,109.4,,,,16.9,,109.4,,,,16.9,,109.4,,0.94,,7.43,,6.82,0,0,0,0,0,1.0
+3a814b2d-96ee-4f00-9fbb-dd9b1dd944d5,Emergency,Expired,F,Asian,B+,22,3.0,,,,,,97.7,,,,,,97.7,,,,,,97.7,,,,,,0,0,0,0,0,5.0
+2fa0cf57-09cf-4a42-8fda-7813583983fa,Inpatient,SNF,F,Asian,AB+,41,5.0,,77.5,,,,,,77.5,,,,,,77.5,,,,,,,,,,0,0,0,0,0,0.0
+93182bf3-1c01-489f-9fe6-8b02f3315788,Inpatient,Home Health,M,Other,O+,39,12.0,,,,,,,,,,,,,,,,,,,,84.3,,,,1,0,0,0,0,2.0
+f507d8b9-9b13-4731-927b-3a95a5d3224c,Inpatient,Expired,F,Non-Hispanic White,AB+,21,12.0,,66.5,17.7,,,,,69.7,17.7,,,,,63.3,17.7,,,,,,,131.18,,0,0,0,0,0,0.0
+8066db5a-7217-49a2-8805-6c42f574ece3,Emergency,Home Health,F,Non-Hispanic White,A+,25,1.0,,,,,,,,,,,,,,,,,,,,,5.2,,,0,0,0,0,0,0.0
+8868ac49-8ef3-4b04-8a9c-786ef33cb8dc,Emergency,Expired,F,Asian,O+,51,12.0,,74.2,,99.0,,,,74.2,,99.0,,,,74.2,,99.0,,,0.49,84.59,4.28,,,0,1,0,0,0,0.0
+cb7595d3-13e3-432f-aa17-f6696b1cd608,Emergency,Home,M,Asian,A+,18,2.0,,,13.8,,,,,,13.8,,,,,,13.8,,,,,100.76,,,,0,0,1,0,0,0.0
+f894b07e-e6c5-4d0e-a408-c5731fa8fa91,Inpatient,Home Health,M,Asian,O+,49,0.0,,74.1,,94.5,,,,74.1,,94.5,,,,74.1,,94.5,,,,,5.68,228.49,,0,0,0,0,0,0.0
+65ad7000-9914-44c0-abe7-5d979f39c46e,Emergency,Home Health,M,Hispanic,AB-,23,4.0,,,,,,,,,,,,,,,,,,,0.945,,,,,0,0,0,0,0,3.0
+b0061bb2-c966-48e7-9301-9d7c491e8eee,Emergency,Home,F,Black/African American,AB+,18,5.0,,,,,102.8,98.1,,,,,102.8,98.1,,,,,102.8,98.1,,,6.36,,,0,0,1,0,0,3.0
+00cd5fbe-cac9-4819-8543-fc6dd7e4b3d6,Outpatient,,F,Non-Hispanic White,B-,87,0.0,,,,,,99.0,,,,,,99.0,,,,,,99.0,0.98,,,,,0,0,0,0,0,1.0
+7eec453e-9c6b-45e6-9d5a-038ce2105894,Emergency,Expired,F,Hispanic,O-,29,9.0,,,18.8,115.8,,,,,18.8,115.8,,,,,18.8,115.8,,,,,,,,0,0,0,0,0,0.0
+9ece1237-e481-4310-883c-9a415041b28f,Inpatient,Home,F,Asian,O+,71,4.0,,,,,97.3,97.9,,,,,97.3,97.9,,,,,97.3,97.9,,,3.39,,9.6,0,0,0,1,0,3.0

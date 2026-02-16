@@ -1,0 +1,122 @@
+
+.app-container {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  min-height: 100vh;
+}
+
+.status-pill {
+  background: rgba(16, 185, 129, 0.1);
+  color: var(--success);
+  padding: 0.5rem 1rem;
+  border-radius: 50px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 1px solid rgba(16, 185, 129, 0.2);
+}
+
+.mt-1 { margin-top: 1rem; }
+.mt-2 { margin-top: 2rem; }
+
+.pro-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  padding: 2rem;
+}
+
+.chart-mock {
+  height: 200px;
+  margin-top: 2rem;
+  display: flex;
+  align-items: flex-end;
+  gap: 1.5rem;
+  padding: 0 1rem;
+  border-bottom: 2px solid var(--border);
+}
+
+.pro-bar {
+  flex: 1;
+  background: linear-gradient(to top, var(--primary), #a78bfa);
+  border-radius: 6px 6px 0 0;
+  animation: growBar 1s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  animation-delay: var(--delay);
+  opacity: 0;
+}
+
+@keyframes growBar {
+  from { height: 0; opacity: 0; }
+  to { opacity: 1; }
+}
+
+.score-mini {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.mini-bar-bg {
+  width: 60px;
+  height: 6px;
+  background: var(--glass);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.mini-bar-fill {
+  height: 100%;
+  background: var(--primary);
+}
+
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 3rem 1rem;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.muted-icon {
+  opacity: 0.2;
+}
+
+.pro-view-btn {
+  background: var(--glass);
+  border: 1px solid var(--border);
+  color: white;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.pro-view-btn:hover {
+  background: var(--primary);
+  transform: translateX(3px);
+}
+
+.priority-text {
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+
+.active-dot {
+  width: 8px;
+  height: 8px;
+  background: var(--success);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 0.4rem;
+  box-shadow: 0 0 8px var(--success);
+}
